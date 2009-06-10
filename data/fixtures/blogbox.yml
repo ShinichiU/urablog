@@ -1,0 +1,8 @@
+UrablogBlogBox:
+  urablog:
+    UrablogUser: urab
+    title:  '30分でできるurablog'
+    discri:   |
+      たった30分でできるブログ
+      です
+    is_active:  1

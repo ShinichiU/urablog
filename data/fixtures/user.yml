@@ -1,0 +1,6 @@
+UrablogUser:
+  urab:
+    email:      'urab@nuts-choco.com'
+    user_name:  'urab'
+    passwd:     <?php echo md5('password') . "\n"; ?>
+    is_active:  1

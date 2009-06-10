@@ -1,0 +1,37 @@
+options:
+  charset: utf8
+actAs: [Timestampable]
+
+UrablogCategory:
+  columns:
+    name: { type: string(255), notnull: true, unique: true }
+
+UrablogField:
+  columns:
+    category_id:  { type: integer }
+    user_id:      { type: integer, notnull: true }
+    blog_id:      { type: integer, notnull: true }
+    title:        { type: string(255), notnull: true }
+    article:      { type: string(4000), notnull: true }
+    is_active:    { type: boolean, notnull: true, default: 1 }
+    expires_at:   { type: timestamp }
+  relations:
+    UrablogCategory: { local: category_id, foreign: id }
+    UrablogUser:     { local: user_id, foreign: id }
+    UrablogBlogBox:  { local: blog_id, foreign: id }
+
+UrablogUser:
+  columns:
+    email:     { type: string(255), notnull: true, unique: true }
+    user_name: { type: string(255), notnull: true }
+    passwd:    { type: string(255), notnull: true }
+    is_active: { type: boolean, notnull: true, default: 1 }
+
+UrablogBlogBox:
+  columns:
+    user_id:   { type: integer, notnull: true }
+    title:     { type: string(255), notnull: true }
+    discri:    { type: string(4000) }
+    is_active: { type: boolean, notnull: true, default: 1 }
+  relations:
+    UrablogUser: { local: user_id, foreign: id }

@@ -1,0 +1,9 @@
+UrablogCategory:
+  diary:
+    name: '日記'
+  programming:
+    name: 'プログラミング'
+  ramen:
+    name: 'ラーメン'
+  music:
+    name: '音楽'

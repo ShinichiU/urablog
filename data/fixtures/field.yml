@@ -1,0 +1,10 @@
+UrablogField:
+  first_blog:
+    UrablogCategory: programming
+    UrablogUser:     urab
+    UrablogBlogBox:  urablog
+    title:           'ようこそ'
+    article:  |
+      これはブログ記事サンプルです！
+      インストールは無事に完了しました！'
+    is_active:       1

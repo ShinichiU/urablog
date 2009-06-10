@@ -1,0 +1,1112 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.7	//
+Ajax.InPlaceEditor	web/sfProtoculousPlugin/js/controls.js	/^Ajax.InPlaceEditor.prototype.initialize.dealWithDeprecatedOptions = function(options) {$/;"	c
+Ajax.InPlaceEditor.function.fallback	web/sfProtoculousPlugin/js/controls.js	/^  function fallback(name, expr) {$/;"	f
+Ajax.InPlaceEditor.initialize	web/sfProtoculousPlugin/js/controls.js	/^Ajax.InPlaceEditor.prototype.initialize.dealWithDeprecatedOptions = function(options) {$/;"	m
+Autocompleter.Base	web/sfProtoculousPlugin/js/controls.js	/^Autocompleter.Base.prototype.getTokenBounds.getFirstDifferencePos = function(newS, oldS) {$/;"	c
+Autocompleter.Base.getTokenBounds	web/sfProtoculousPlugin/js/controls.js	/^Autocompleter.Base.prototype.getTokenBounds.getFirstDifferencePos = function(newS, oldS) {$/;"	m
+BaseFormDoctrine	lib/form/doctrine/BaseFormDoctrine.class.php	/^abstract class BaseFormDoctrine extends sfFormDoctrine$/;"	c
+BaseFormFilterDoctrine	lib/filter/doctrine/BaseFormFilterDoctrine.class.php	/^abstract class BaseFormFilterDoctrine extends sfFormFilterDoctrine$/;"	c
+BaseUrablogCategory	lib/model/doctrine/base/BaseUrablogCategory.class.php	/^abstract class BaseUrablogCategory extends sfDoctrineRecord$/;"	c
+BaseUrablogCategoryForm	lib/form/doctrine/base/BaseUrablogCategoryForm.class.php	/^class BaseUrablogCategoryForm extends BaseFormDoctrine$/;"	c
+BaseUrablogCategoryFormFilter	lib/filter/doctrine/base/BaseUrablogCategoryFormFilter.class.php	/^class BaseUrablogCategoryFormFilter extends BaseFormFilterDoctrine$/;"	c
+BaseUrablogField	lib/model/doctrine/base/BaseUrablogField.class.php	/^abstract class BaseUrablogField extends sfDoctrineRecord$/;"	c
+BaseUrablogFieldForm	lib/form/doctrine/base/BaseUrablogFieldForm.class.php	/^class BaseUrablogFieldForm extends BaseFormDoctrine$/;"	c
+BaseUrablogFieldFormFilter	lib/filter/doctrine/base/BaseUrablogFieldFormFilter.class.php	/^class BaseUrablogFieldFormFilter extends BaseFormFilterDoctrine$/;"	c
+BaseUrablogUser	lib/model/doctrine/base/BaseUrablogUser.class.php	/^abstract class BaseUrablogUser extends sfDoctrineRecord$/;"	c
+BaseUrablogUserForm	lib/form/doctrine/base/BaseUrablogUserForm.class.php	/^class BaseUrablogUserForm extends BaseFormDoctrine$/;"	c
+BaseUrablogUserFormFilter	lib/filter/doctrine/base/BaseUrablogUserFormFilter.class.php	/^class BaseUrablogUserFormFilter extends BaseFormFilterDoctrine$/;"	c
+Calendar	web/sf/calendar/calendar.js	/^	Calendar.continuation_for_the_fucking_khtml_browser = function() {$/;"	m
+Calendar	web/sf/calendar/calendar.js	/^Calendar = function (firstDayOfWeek, dateStr, onSelected, onClose) {$/;"	c
+Calendar._add_evs	web/sf/calendar/calendar.js	/^Calendar._add_evs = function(el) {$/;"	f
+Calendar._checkCalendar	web/sf/calendar/calendar.js	/^Calendar._checkCalendar = function(ev) {$/;"	f
+Calendar._displayWeekdays	web/sf/calendar/calendar.js	/^Calendar.prototype._displayWeekdays = function () {$/;"	m
+Calendar._dragStart	web/sf/calendar/calendar.js	/^Calendar.prototype._dragStart = function (ev) {$/;"	m
+Calendar._hideCombos	web/sf/calendar/calendar.js	/^Calendar.prototype._hideCombos = function () {$/;"	m
+Calendar._init	web/sf/calendar/calendar.js	/^Calendar.prototype._init = function (firstDayOfWeek, date) {$/;"	m
+Calendar._initMultipleDates	web/sf/calendar/calendar.js	/^Calendar.prototype._initMultipleDates = function() {$/;"	m
+Calendar._keyEvent	web/sf/calendar/calendar.js	/^Calendar._keyEvent = function(ev) {$/;"	f
+Calendar._toggleMultipleDate	web/sf/calendar/calendar.js	/^Calendar.prototype._toggleMultipleDate = function(date) {$/;"	m
+Calendar.addClass	web/sf/calendar/calendar.js	/^Calendar.addClass = function(el, className) {$/;"	f
+Calendar.addEvent	web/sf/calendar/calendar.js	/^Calendar.addEvent = function(el, evname, func) {$/;"	f
+Calendar.calDragEnd	web/sf/calendar/calendar.js	/^Calendar.calDragEnd = function (ev) {$/;"	f
+Calendar.calDragIt	web/sf/calendar/calendar.js	/^Calendar.calDragIt = function (ev) {$/;"	f
+Calendar.callCloseHandler	web/sf/calendar/calendar.js	/^Calendar.prototype.callCloseHandler = function () {$/;"	m
+Calendar.callHandler	web/sf/calendar/calendar.js	/^Calendar.prototype.callHandler = function () {$/;"	m
+Calendar.cellClick	web/sf/calendar/calendar.js	/^Calendar.cellClick = function(el, ev) {$/;"	f
+Calendar.create	web/sf/calendar/calendar.js	/^Calendar.prototype.create = function (_par) {$/;"	m
+Calendar.createElement	web/sf/calendar/calendar.js	/^Calendar.createElement = function(type, parent) {$/;"	f
+Calendar.dayMouseDblClick	web/sf/calendar/calendar.js	/^Calendar.dayMouseDblClick = function(ev) {$/;"	f
+Calendar.dayMouseDown	web/sf/calendar/calendar.js	/^Calendar.dayMouseDown = function(ev) {$/;"	f
+Calendar.dayMouseOut	web/sf/calendar/calendar.js	/^Calendar.dayMouseOut = function(ev) {$/;"	f
+Calendar.dayMouseOver	web/sf/calendar/calendar.js	/^Calendar.dayMouseOver = function(ev) {$/;"	f
+Calendar.destroy	web/sf/calendar/calendar.js	/^Calendar.prototype.destroy = function () {$/;"	m
+Calendar.findMonth	web/sf/calendar/calendar.js	/^Calendar.findMonth = function(el) {$/;"	f
+Calendar.findYear	web/sf/calendar/calendar.js	/^Calendar.findYear = function(el) {$/;"	f
+Calendar.function.getVisib	web/sf/calendar/calendar.js	/^	function getVisib(obj){$/;"	f
+Calendar.getAbsolutePos	web/sf/calendar/calendar.js	/^Calendar.getAbsolutePos = function(el) {$/;"	f
+Calendar.getElement	web/sf/calendar/calendar.js	/^Calendar.getElement = function(ev) {$/;"	f
+Calendar.getTargetElement	web/sf/calendar/calendar.js	/^Calendar.getTargetElement = function(ev) {$/;"	f
+Calendar.hide	web/sf/calendar/calendar.js	/^Calendar.prototype.hide = function () {$/;"	m
+Calendar.hideShowCovered	web/sf/calendar/calendar.js	/^Calendar.prototype.hideShowCovered = function () {$/;"	m
+Calendar.isRelated	web/sf/calendar/calendar.js	/^Calendar.isRelated = function (el, evt) {$/;"	f
+Calendar.parseDate	web/sf/calendar/calendar.js	/^Calendar.prototype.parseDate = function(str, fmt) {$/;"	m
+Calendar.refresh	web/sf/calendar/calendar.js	/^Calendar.prototype.refresh = function () {$/;"	m
+Calendar.removeClass	web/sf/calendar/calendar.js	/^Calendar.removeClass = function(el, className) {$/;"	f
+Calendar.removeEvent	web/sf/calendar/calendar.js	/^Calendar.removeEvent = function(el, evname, func) {$/;"	f
+Calendar.reparent	web/sf/calendar/calendar.js	/^Calendar.prototype.reparent = function (new_parent) {$/;"	m
+Calendar.setDate	web/sf/calendar/calendar.js	/^Calendar.prototype.setDate = function (date) {$/;"	m
+Calendar.setDateFormat	web/sf/calendar/calendar.js	/^Calendar.prototype.setDateFormat = function (str) {$/;"	m
+Calendar.setDateStatusHandler	web/sf/calendar/calendar.js	/^Calendar.prototype.setDateStatusHandler = Calendar.prototype.setDisabledHandler = function (unaryFunction) {$/;"	m
+Calendar.setDateToolTipHandler	web/sf/calendar/calendar.js	/^Calendar.prototype.setDateToolTipHandler = function (unaryFunction) {$/;"	m
+Calendar.setFirstDayOfWeek	web/sf/calendar/calendar.js	/^Calendar.prototype.setFirstDayOfWeek = function (firstDayOfWeek) {$/;"	m
+Calendar.setRange	web/sf/calendar/calendar.js	/^Calendar.prototype.setRange = function (a, z) {$/;"	m
+Calendar.setTtDateFormat	web/sf/calendar/calendar.js	/^Calendar.prototype.setTtDateFormat = function (str) {$/;"	m
+Calendar.setup	web/sf/calendar/calendar-setup.js	/^Calendar.setup = function (params) {$/;"	f
+Calendar.setup.onSelect	web/sf/calendar/calendar-setup.js	/^	function onSelect(cal) {$/;"	f
+Calendar.setup.param_default	web/sf/calendar/calendar-setup.js	/^	function param_default(pname, def) { if (typeof params[pname] == "undefined") { params[pname] = def; } };$/;"	f
+Calendar.show	web/sf/calendar/calendar.js	/^Calendar.prototype.show = function () {$/;"	m
+Calendar.showAt	web/sf/calendar/calendar.js	/^Calendar.prototype.showAt = function (x, y) {$/;"	m
+Calendar.showAtElement	web/sf/calendar/calendar.js	/^Calendar.prototype.showAtElement = function (el, opts) {$/;"	m
+Calendar.showMonthsCombo	web/sf/calendar/calendar.js	/^Calendar.showMonthsCombo = function () {$/;"	f
+Calendar.showYearsCombo	web/sf/calendar/calendar.js	/^Calendar.showYearsCombo = function (fwd) {$/;"	f
+Calendar.stopEvent	web/sf/calendar/calendar.js	/^Calendar.stopEvent = function(ev) {$/;"	f
+Calendar.tableMouseDown	web/sf/calendar/calendar.js	/^Calendar.tableMouseDown = function (ev) {$/;"	f
+Calendar.tableMouseOver	web/sf/calendar/calendar.js	/^Calendar.tableMouseOver = function (ev) {$/;"	f
+Calendar.tableMouseUp	web/sf/calendar/calendar.js	/^Calendar.tableMouseUp = function(ev) {$/;"	f
+Date	web/sf/calendar/calendar.js	/^Date.prototype.getMonthDays = function(month) {$/;"	c
+Date.__msh_oldSetFullYear	web/sf/calendar/calendar.js	/^Date.prototype.__msh_oldSetFullYear = Date.prototype.setFullYear;$/;"	m
+Date.equalsTo	web/sf/calendar/calendar.js	/^Date.prototype.equalsTo = function(date) {$/;"	m
+Date.getDayOfYear	web/sf/calendar/calendar.js	/^Date.prototype.getDayOfYear = function() {$/;"	m
+Date.getMonthDays	web/sf/calendar/calendar.js	/^Date.prototype.getMonthDays = function(month) {$/;"	m
+Date.getWeekNumber	web/sf/calendar/calendar.js	/^Date.prototype.getWeekNumber = function() {$/;"	m
+Date.parseDate	web/sf/calendar/calendar.js	/^Date.parseDate = function(str, fmt) {$/;"	f
+Date.print	web/sf/calendar/calendar.js	/^Date.prototype.print = function (str) {$/;"	m
+Date.setDateOnly	web/sf/calendar/calendar.js	/^Date.prototype.setDateOnly = function(date) {$/;"	m
+Date.setFullYear	web/sf/calendar/calendar.js	/^Date.prototype.setFullYear = function(y) {$/;"	m
+Draggable	web/sfProtoculousPlugin/js/dragdrop.js	/^var Draggable = Class.create({$/;"	v
+Effect.Appear	web/sfProtoculousPlugin/js/effects.js	/^Effect.Appear = function(element) {$/;"	f
+Effect.BlindDown	web/sfProtoculousPlugin/js/effects.js	/^Effect.BlindDown = function(element) {$/;"	f
+Effect.BlindUp	web/sfProtoculousPlugin/js/effects.js	/^Effect.BlindUp = function(element) {$/;"	f
+Effect.DropOut	web/sfProtoculousPlugin/js/effects.js	/^Effect.DropOut = function(element) {$/;"	f
+Effect.Fade	web/sfProtoculousPlugin/js/effects.js	/^Effect.Fade = function(element) {$/;"	f
+Effect.Fold	web/sfProtoculousPlugin/js/effects.js	/^Effect.Fold = function(element) {$/;"	f
+Effect.Grow	web/sfProtoculousPlugin/js/effects.js	/^Effect.Grow = function(element) {$/;"	f
+Effect.MoveBy	web/sfProtoculousPlugin/js/effects.js	/^Effect.MoveBy = function(element, toTop, toLeft) {$/;"	f
+Effect.Puff	web/sfProtoculousPlugin/js/effects.js	/^Effect.Puff = function(element) {$/;"	f
+Effect.Pulsate	web/sfProtoculousPlugin/js/effects.js	/^Effect.Pulsate = function(element) {$/;"	f
+Effect.Pulsate.reverser	web/sfProtoculousPlugin/js/effects.js	/^  var reverser   = function(pos){ return transition(1-Effect.Transitions.pulse(pos, options.pulses)) };$/;"	f
+Effect.ScrollTo	web/sfProtoculousPlugin/js/effects.js	/^Effect.ScrollTo = function(element) {$/;"	f
+Effect.Shake	web/sfProtoculousPlugin/js/effects.js	/^Effect.Shake = function(element) {$/;"	f
+Effect.Shrink	web/sfProtoculousPlugin/js/effects.js	/^Effect.Shrink = function(element) {$/;"	f
+Effect.SlideDown	web/sfProtoculousPlugin/js/effects.js	/^Effect.SlideDown = function(element) {$/;"	f
+Effect.SlideUp	web/sfProtoculousPlugin/js/effects.js	/^Effect.SlideUp = function(element) {$/;"	f
+Effect.Squish	web/sfProtoculousPlugin/js/effects.js	/^Effect.Squish = function(element) {$/;"	f
+Effect.SwitchOff	web/sfProtoculousPlugin/js/effects.js	/^Effect.SwitchOff = function(element) {$/;"	f
+Element.collectTextNodes	web/sfProtoculousPlugin/js/effects.js	/^Element.collectTextNodes = function(element) {  $/;"	f
+Element.collectTextNodesIgnoreClass	web/sfProtoculousPlugin/js/effects.js	/^Element.collectTextNodesIgnoreClass = function(element, className) {  $/;"	f
+Element.findChildren	web/sfProtoculousPlugin/js/dragdrop.js	/^Element.findChildren = function(element, only, recursive, tagName) {   $/;"	f
+Element.forceRerendering	web/sfProtoculousPlugin/js/effects.js	/^Element.forceRerendering = function(element) {$/;"	f
+Element.getInlineOpacity	web/sfProtoculousPlugin/js/effects.js	/^Element.getInlineOpacity = function(element){$/;"	f
+Element.getStyles	web/sfProtoculousPlugin/js/effects.js	/^  Element.getStyles = function(element) {$/;"	f
+Element.isParent	web/sfProtoculousPlugin/js/dragdrop.js	/^Element.isParent = function(child, element) {$/;"	f
+Element.offsetSize	web/sfProtoculousPlugin/js/dragdrop.js	/^Element.offsetSize = function (element, type) {$/;"	f
+Element.setContentZoom	web/sfProtoculousPlugin/js/effects.js	/^Element.setContentZoom = function(element, percent) {$/;"	f
+Event.simulateKey	web/sfProtoculousPlugin/js/unittest.js	/^Event.simulateKey = function(element, eventName) {$/;"	f
+Event.simulateKeys	web/sfProtoculousPlugin/js/unittest.js	/^Event.simulateKeys = function(element, command) {$/;"	f
+Event.simulateMouse	web/sfProtoculousPlugin/js/unittest.js	/^Event.simulateMouse = function(element, eventName) {$/;"	c
+Field.scrollFreeActivate	web/sfProtoculousPlugin/js/controls.js	/^Field.scrollFreeActivate = function(field) {$/;"	f
+Object.extend	web/sfProtoculousPlugin/js/prototype.js	/^Object.extend = function(destination, source) {$/;"	f
+ProjectConfiguration	config/ProjectConfiguration.class.php	/^class ProjectConfiguration extends sfProjectConfiguration$/;"	c
+SortableObserver	web/sfProtoculousPlugin/js/dragdrop.js	/^var SortableObserver = Class.create({$/;"	v
+String	web/sfProtoculousPlugin/js/effects.js	/^String.prototype.parseColor = function() {  $/;"	c
+String.parseColor	web/sfProtoculousPlugin/js/effects.js	/^String.prototype.parseColor = function() {  $/;"	m
+String.parseStyle	web/sfProtoculousPlugin/js/effects.js	/^String.prototype.parseStyle = function(){$/;"	m
+Test.Unit.Assertions	web/sfProtoculousPlugin/js/unittest.js	/^Test.Unit.Assertions.prototype = {$/;"	c
+Test.Unit.Logger	web/sfProtoculousPlugin/js/unittest.js	/^Test.Unit.Logger.prototype = {$/;"	c
+Test.Unit.Runner	web/sfProtoculousPlugin/js/unittest.js	/^Test.Unit.Runner.prototype = {$/;"	c
+UrablogCategory	lib/model/doctrine/UrablogCategory.class.php	/^class UrablogCategory extends BaseUrablogCategory$/;"	c
+UrablogCategoryForm	lib/form/doctrine/UrablogCategoryForm.class.php	/^class UrablogCategoryForm extends BaseUrablogCategoryForm$/;"	c
+UrablogCategoryFormFilter	lib/filter/doctrine/UrablogCategoryFormFilter.class.php	/^class UrablogCategoryFormFilter extends BaseUrablogCategoryFormFilter$/;"	c
+UrablogCategoryTable	lib/model/doctrine/UrablogCategoryTable.class.php	/^class UrablogCategoryTable extends Doctrine_Table$/;"	c
+UrablogField	lib/model/doctrine/UrablogField.class.php	/^class UrablogField extends BaseUrablogField$/;"	c
+UrablogFieldForm	lib/form/doctrine/UrablogFieldForm.class.php	/^class UrablogFieldForm extends BaseUrablogFieldForm$/;"	c
+UrablogFieldFormFilter	lib/filter/doctrine/UrablogFieldFormFilter.class.php	/^class UrablogFieldFormFilter extends BaseUrablogFieldFormFilter$/;"	c
+UrablogFieldTable	lib/model/doctrine/UrablogFieldTable.class.php	/^class UrablogFieldTable extends Doctrine_Table$/;"	c
+UrablogUser	lib/model/doctrine/UrablogUser.class.php	/^class UrablogUser extends BaseUrablogUser$/;"	c
+UrablogUserForm	lib/form/doctrine/UrablogUserForm.class.php	/^class UrablogUserForm extends BaseUrablogUserForm$/;"	c
+UrablogUserFormFilter	lib/filter/doctrine/UrablogUserFormFilter.class.php	/^class UrablogUserFormFilter extends BaseUrablogUserFormFilter$/;"	c
+UrablogUserTable	lib/model/doctrine/UrablogUserTable.class.php	/^class UrablogUserTable extends Doctrine_Table$/;"	c
+__call	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function __call($method, $arguments)$/;"	f
+__clone	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function __clone()$/;"	f
+__construct	cache/frontend/prod/config/config_core_compile.yml.php	/^  protected function __construct()$/;"	f
+__construct	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function __construct($context)$/;"	f
+__construct	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function __construct($context, $moduleName, $actionName)$/;"	f
+__construct	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function __construct($context, $moduleName, $actionName, $viewName)$/;"	f
+__construct	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function __construct($context, $parameters = array())$/;"	f
+__construct	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function __construct($moduleName, $actionName, $actionInstance)$/;"	f
+__construct	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function __construct($namespace = 'symfony\/default')$/;"	f
+__construct	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function __construct($options = array())$/;"	f
+__construct	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function __construct($subject, $name, $parameters = array())$/;"	f
+__construct	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function __construct($value)$/;"	f
+__construct	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function __construct(sfEventDispatcher $dispatcher, $options = array())$/;"	f
+__construct	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function __construct(sfEventDispatcher $dispatcher, $parameters = array(), $attributes = array(), $options = array())$/;"	f
+__construct	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function __construct(sfEventDispatcher $dispatcher, $parameters = array(), $options = array())$/;"	f
+__construct	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function __construct(sfEventDispatcher $dispatcher, sfCache $cache = null, $options = array())$/;"	f
+__construct	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function __construct(sfEventDispatcher $dispatcher, sfStorage $storage, $options = array())$/;"	f
+__construct	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function __construct(sfProjectConfiguration $configuration, $options = array())$/;"	f
+__get	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function & __get($key)$/;"	f
+__isset	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function __isset($name)$/;"	f
+__set	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function __set($key, $value)$/;"	f
+__toString	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function __toString()$/;"	f
+__toString	lib/model/doctrine/UrablogField.class.php	/^  public function __toString()$/;"	f
+__unset	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function __unset($name)$/;"	f
+_test_dir	test/bootstrap/unit.php	/^$_test_dir = realpath(dirname(__FILE__).'\/..');$/;"	v
+absolute	cache/frontend/prod/config/config_core_compile.yml.php	/^  protected function fixGeneratedUrl($url, $absolute = false)$/;"	v
+absolute	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function genUrl($parameters = array(), $absolute = false)$/;"	v
+acceptableContentTypes	cache/frontend/prod/config/config_core_compile.yml.php	/^    $acceptableContentTypes = null,$/;"	v
+actionEntry	cache/frontend/prod/config/config_core_compile.yml.php	/^        $actionEntry = $actionStack->getEntry($index);$/;"	v
+actionEntry	cache/frontend/prod/config/config_core_compile.yml.php	/^        $actionEntry = new sfActionStackEntry($moduleName, $actionName, $actionInstance);$/;"	v
+actionEntry	cache/frontend/prod/config/config_core_compile.yml.php	/^      $actionEntry = $actionStack->popEntry();$/;"	v
+actionExists	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function actionExists($moduleName, $actionName)$/;"	f
+actionInstance	cache/frontend/prod/config/config_core_compile.yml.php	/^        $actionInstance = $this->context->getController()->getActionStack()->getLastEntry()->getActionInstance();$/;"	v
+actionInstance	cache/frontend/prod/config/config_core_compile.yml.php	/^        $actionInstance = $this->getAction($moduleName, $actionName);$/;"	v
+actionInstance	cache/frontend/prod/config/config_core_compile.yml.php	/^    $actionInstance = null,$/;"	v
+actionName	cache/frontend/prod/config/config_core_compile.yml.php	/^      $actionName = $request->getParameter('action');$/;"	v
+actionName	cache/frontend/prod/config/config_core_compile.yml.php	/^      $actionName = sfConfig::get('sf_module_disabled_action');$/;"	v
+actionName	cache/frontend/prod/config/config_core_compile.yml.php	/^      if ($moduleName == sfConfig::get('sf_error_404_module') && $actionName == sfConfig::get('sf_error_404_action'))$/;"	v
+actionName	cache/frontend/prod/config/config_core_compile.yml.php	/^    $actionName             = '',$/;"	v
+actionName	cache/frontend/prod/config/config_core_compile.yml.php	/^    $actionName         = '',$/;"	v
+actionName	cache/frontend/prod/config/config_core_compile.yml.php	/^    $actionName     = null,$/;"	v
+actionName	cache/frontend/prod/config/config_core_compile.yml.php	/^    $actionName = preg_replace('\/[^a-z0-9_]+\/i', '', $actionName);$/;"	v
+actionName	cache/frontend/prod/config/config_core_compile.yml.php	/^    $actionName = strtolower($this->getActionName());$/;"	v
+actionStack	cache/frontend/prod/config/config_core_compile.yml.php	/^        $actionStack = $this->getActionStack();$/;"	v
+actionToRun	cache/frontend/prod/config/config_core_compile.yml.php	/^        $actionToRun = 'execute'.ucfirst($this->getActionName());$/;"	v
+add	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function add($parameters, $ns = null)$/;"	f
+addByRef	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function addByRef(& $parameters, $ns = null)$/;"	f
+addCacheControlHttpHeader	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function addCacheControlHttpHeader($name, $value = null)$/;"	f
+addEntry	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function addEntry($moduleName, $actionName, $actionInstance)$/;"	f
+addHttpMeta	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function addHttpMeta($key, $value, $replace = true)$/;"	f
+addJavascript	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function addJavascript($file, $position = '', $options = array())$/;"	f
+addMeta	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function addMeta($key, $value, $replace = true, $escape = true)$/;"	f
+addRequestParameters	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function addRequestParameters($parameters)$/;"	f
+addStylesheet	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function addStylesheet($file, $position = '', $options = array())$/;"	f
+addVaryHttpHeader	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function addVaryHttpHeader($header)$/;"	f
+alert	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function alert($message)$/;"	f
+app	test/bootstrap/functional.php	/^  $app = array_pop($dirPieces);$/;"	v
+appendRoute	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function appendRoute($name, $route)$/;"	f
+array	cache/frontend/prod/config/config_core_compile.yml.php	/^    $array = array();$/;"	v
+attributeHolder	cache/frontend/prod/config/config_core_compile.yml.php	/^        $attributeHolder = $this->attributeHolder;$/;"	v
+attributeHolder	cache/frontend/prod/config/config_core_compile.yml.php	/^    $attributeHolder    = null,$/;"	v
+attributeHolder	cache/frontend/prod/config/config_core_compile.yml.php	/^    $attributeHolder = new sfViewParameterHolder($this->dispatcher, $attributes, array($/;"	v
+attributeHolder	cache/frontend/prod/config/config_core_compile.yml.php	/^    $attributeHolder = null,$/;"	v
+attributeHolder	cache/frontend/prod/config/config_core_compile.yml.php	/^    $attributeHolder = null;$/;"	v
+attributes	cache/frontend/prod/config/config_core_compile.yml.php	/^        $attributes = $storage->read(self::ATTRIBUTE_NAMESPACE);$/;"	v
+attributes	cache/frontend/prod/config/config_core_compile.yml.php	/^      $attributes = $parameters;$/;"	v
+attributes	cache/frontend/prod/config/config_core_compile.yml.php	/^    $attributes = array();$/;"	v
+autoload	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function autoload($class)$/;"	f
+autoloadAgain	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function autoloadAgain($class)$/;"	f
+browser	test/functional/frontend/editActionsTest.php	/^$browser = new sfTestFunctional(new sfBrowser());$/;"	v
+browser	test/functional/frontend/viewActionsTest.php	/^$browser = new sfTestFunctional(new sfBrowser());$/;"	v
+cache	cache/frontend/prod/config/config_core_compile.yml.php	/^    $cache             = null,$/;"	v
+cache	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function __construct(sfEventDispatcher $dispatcher, sfCache $cache = null, $options = array())$/;"	v
+cache	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function initialize(sfEventDispatcher $dispatcher, sfCache $cache = null, $options = array())$/;"	v
+cache	cache/frontend/prod/config/config_factories.yml.php	/^      $cache = new sfFileCache(array ($/;"	v
+cache	cache/frontend/prod/config/config_factories.yml.php	/^    $cache = new $class(sfConfig::get('sf_factory_view_cache_parameters', array ($/;"	v
+cache	cache/frontend/prod/config/config_factories.yml.php	/^    $cache = new sfFileCache(array ($/;"	v
+cacheChanged	cache/frontend/prod/config/config_core_compile.yml.php	/^    $cacheChanged       = false;$/;"	v
+cacheControl	cache/frontend/prod/config/config_core_compile.yml.php	/^    $cacheControl = $this->getHttpHeader('Cache-Control');$/;"	v
+cacheData	cache/frontend/prod/config/config_core_compile.yml.php	/^    $cacheData          = array(),$/;"	v
+cacheData	cache/frontend/prod/config/config_core_compile.yml.php	/^    if (!is_null($this->cache) && $cacheData = $this->cache->get('symfony.routing.data'))$/;"	v
+cacheKey	cache/frontend/prod/config/config_core_compile.yml.php	/^      $cacheKey = 'generate_'.$name.'_'.md5(serialize(array_merge($this->defaultParameters, $params))).'_'.md5(serialize($this->options['context']));$/;"	v
+cacheKey	cache/frontend/prod/config/config_core_compile.yml.php	/^      $cacheKey = 'parse_'.$url.'_'.md5(serialize($this->options['context']));$/;"	v
+cal	web/sf/calendar/calendar.js	/^			cal.onSetTime = function() {$/;"	m
+cal.onUpdateTime	web/sf/calendar/calendar.js	/^			cal.onUpdateTime = function() {$/;"	c
+caller	test/bootstrap/functional.php	/^  $caller = $traces[0];$/;"	v
+chain	cache/frontend/prod/config/config_core_compile.yml.php	/^    $chain = array(),$/;"	v
+charsets	cache/frontend/prod/config/config_core_compile.yml.php	/^    $charsets               = null,$/;"	v
+checkCSRFProtection	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function checkCSRFProtection()$/;"	f
+class	cache/frontend/prod/config/config_core_compile.yml.php	/^            $class = sfConfig::get('mod_'.strtolower($moduleName).'_view_class', 'sfPHP').'View';$/;"	v
+class	cache/frontend/prod/config/config_core_compile.yml.php	/^        $class = $moduleClass;$/;"	v
+class	cache/frontend/prod/config/config_core_compile.yml.php	/^      $class = $actionName.$viewName.'View';$/;"	v
+class	cache/frontend/prod/config/config_core_compile.yml.php	/^      $class = $moduleClass;$/;"	v
+class	cache/frontend/prod/config/config_core_compile.yml.php	/^    $class = $this->controllerClasses[$moduleName.'_'.$controllerName.'_'.$classSuffix];$/;"	v
+class	cache/frontend/prod/config/config_core_compile.yml.php	/^    $class = get_class($this);$/;"	v
+class	cache/frontend/prod/config/config_core_compile.yml.php	/^    foreach ($this->overriden as $class => $path)$/;"	v
+class	cache/frontend/prod/config/config_factories.yml.php	/^    $class = sfConfig::get('sf_factory_i18n', 'sfI18N');$/;"	v
+class	cache/frontend/prod/config/config_factories.yml.php	/^    $class = sfConfig::get('sf_factory_view_cache', 'sfFileCache');$/;"	v
+class	cache/frontend/prod/config/config_factories.yml.php	/^  $class = sfConfig::get('sf_factory_controller', 'sfFrontWebController');$/;"	v
+class	cache/frontend/prod/config/config_factories.yml.php	/^  $class = sfConfig::get('sf_factory_logger', 'sfNoLogger');$/;"	v
+class	cache/frontend/prod/config/config_factories.yml.php	/^  $class = sfConfig::get('sf_factory_request', 'sfWebRequest');$/;"	v
+class	cache/frontend/prod/config/config_factories.yml.php	/^  $class = sfConfig::get('sf_factory_response', 'sfWebResponse');$/;"	v
+class	cache/frontend/prod/config/config_factories.yml.php	/^  $class = sfConfig::get('sf_factory_routing', 'sfPatternRouting');$/;"	v
+class	cache/frontend/prod/config/config_factories.yml.php	/^  $class = sfConfig::get('sf_factory_storage', 'sfSessionStorage');$/;"	v
+class	cache/frontend/prod/config/config_factories.yml.php	/^  $class = sfConfig::get('sf_factory_user', 'myUser');$/;"	v
+classFile	cache/frontend/prod/config/config_core_compile.yml.php	/^            $classFile   = strtolower($extension);$/;"	v
+classSuffix	cache/frontend/prod/config/config_core_compile.yml.php	/^      $classSuffix = ucfirst(strtolower($extension));$/;"	v
+classSuffix	cache/frontend/prod/config/config_core_compile.yml.php	/^    $classSuffix = ucfirst(strtolower($extension));$/;"	v
+classes	cache/frontend/prod/config/config_core_compile.yml.php	/^    $classes   = array();$/;"	v
+clear	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function clear()$/;"	f
+clearHttpHeaders	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function clearHttpHeaders()$/;"	f
+clearRoutes	cache/frontend/prod/config/config_core_compile.yml.php	/^  abstract public function clearRoutes();$/;"	f
+clearRoutes	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function clearRoutes()$/;"	f
+codes	cache/frontend/prod/config/config_core_compile.yml.php	/^        $codes = explode('-', $lang);$/;"	v
+collapse_link	web/sf/sf_admin/js/collapse.js	/^    var collapse_link = document.getElementById('fieldsetcollapser' + fieldset_index);$/;"	v
+collapse_link.onclick	web/sf/sf_admin/js/collapse.js	/^        collapse_link.onclick = new Function('CollapsedFieldsets.show('+i+'); return false;');$/;"	f
+componentExists	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function componentExists($moduleName, $componentName)$/;"	f
+componentSlots	cache/frontend/prod/config/config_core_compile.yml.php	/^    $componentSlots     = array(),$/;"	v
+config	cache/frontend/prod/config/config_core_compile.yml.php	/^      if ($this->options['load_configuration'] && $config = sfContext::getInstance()->getConfigCache()->checkConfig('config\/routing.yml', true))$/;"	v
+configHandler	cache/frontend/prod/config/config_core_compile.yml.php	/^      $configHandler = new sfDatabaseConfigHandler();$/;"	v
+configuration	cache/frontend/prod/config/config_core_compile.yml.php	/^    $configuration = null,$/;"	v
+configuration	cache/frontend/prod/config/config_core_compile.yml.php	/^    $configuration = sfProjectConfiguration::getActive();$/;"	v
+configuration	test/bootstrap/functional.php	/^$configuration = ProjectConfiguration::getApplicationConfiguration($app, 'test', isset($debug) ? $debug : true);$/;"	v
+configuration	test/bootstrap/unit.php	/^$configuration = new ProjectConfiguration(realpath($_test_dir.'\/..'));$/;"	v
+configuration	web/frontend_dev.php	/^$configuration = ProjectConfiguration::getApplicationConfiguration('frontend', 'dev', true);$/;"	v
+configuration	web/index.php	/^$configuration = ProjectConfiguration::getApplicationConfiguration('frontend', 'prod', false);$/;"	v
+configure	apps/frontend/config/frontendConfiguration.class.php	/^  public function configure()$/;"	f
+configure	cache/frontend/prod/config/config_core_compile.yml.php	/^  abstract function configure();$/;"	f
+configure	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function configure()$/;"	f
+configure	lib/filter/doctrine/UrablogCategoryFormFilter.class.php	/^  public function configure()$/;"	f
+configure	lib/filter/doctrine/UrablogFieldFormFilter.class.php	/^  public function configure()$/;"	f
+configure	lib/filter/doctrine/UrablogUserFormFilter.class.php	/^  public function configure()$/;"	f
+configure	lib/form/doctrine/UrablogCategoryForm.class.php	/^  public function configure()$/;"	f
+configure	lib/form/doctrine/UrablogFieldForm.class.php	/^  public function configure()$/;"	f
+configure	lib/form/doctrine/UrablogUserForm.class.php	/^  public function configure()$/;"	f
+configureRoute	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function configureRoute(sfRoute $route)$/;"	f
+connect	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function connect($name, $route)$/;"	f
+content	cache/frontend/prod/config/config_core_compile.yml.php	/^            $content = $this->renderFile($this->getDirectory().'\/'.$this->getTemplate());$/;"	v
+content	cache/frontend/prod/config/config_core_compile.yml.php	/^        $content = $response->getContent();$/;"	v
+content	cache/frontend/prod/config/config_core_compile.yml.php	/^        $content = $viewCache->setActionCache($uri, $content, $this->isDecorator() ? $this->getDecoratorDirectory().'\/'.$this->getDecoratorTemplate() : false);$/;"	v
+content	cache/frontend/prod/config/config_core_compile.yml.php	/^      $content = $this->decorate($content);$/;"	v
+content	cache/frontend/prod/config/config_core_compile.yml.php	/^    $content    = '';$/;"	v
+content	cache/frontend/prod/config/config_core_compile.yml.php	/^    $content = $event->getReturnValue();$/;"	v
+content	cache/frontend/prod/config/config_core_compile.yml.php	/^    $content = null;$/;"	v
+context	cache/frontend/prod/config/config_core_compile.yml.php	/^    $context                = null,$/;"	v
+context	cache/frontend/prod/config/config_core_compile.yml.php	/^    $context            = null,$/;"	v
+context	cache/frontend/prod/config/config_core_compile.yml.php	/^    $context           = null,$/;"	v
+context	cache/frontend/prod/config/config_core_compile.yml.php	/^    $context         = null;$/;"	v
+context	cache/frontend/prod/config/config_core_compile.yml.php	/^    $context = $event->getParameters();$/;"	v
+controller	cache/frontend/prod/config/config_core_compile.yml.php	/^    $controller = $this->context->getController();$/;"	v
+controllerClasses	cache/frontend/prod/config/config_core_compile.yml.php	/^    $controllerClasses = array(),$/;"	v
+controllerExists	cache/frontend/prod/config/config_core_compile.yml.php	/^  protected function controllerExists($moduleName, $controllerName, $extension, $throwExceptions)$/;"	f
+convertUrlStringToParameters	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function convertUrlStringToParameters($url)$/;"	f
+cookieDefaults	cache/frontend/prod/config/config_core_compile.yml.php	/^    $cookieDefaults = session_get_cookie_params();$/;"	v
+cookies	cache/frontend/prod/config/config_core_compile.yml.php	/^    $cookies     = array(),$/;"	v
+copyProperties	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function copyProperties(sfWebResponse $response)$/;"	f
+coreHelpersLoaded	cache/frontend/prod/config/config_core_compile.yml.php	/^    $coreHelpersLoaded = 1;$/;"	v
+coreHelpersLoaded	cache/frontend/prod/config/config_core_compile.yml.php	/^    static $coreHelpersLoaded = 0;$/;"	v
+count	cache/frontend/prod/config/config_core_compile.yml.php	/^    $count  = count($this->stack);$/;"	v
+credentials	cache/frontend/prod/config/config_core_compile.yml.php	/^      $credentials = $this->security[$actionName]['credentials'];$/;"	v
+credentials	cache/frontend/prod/config/config_core_compile.yml.php	/^      $credentials = $this->security['all']['credentials'];$/;"	v
+credentials	cache/frontend/prod/config/config_core_compile.yml.php	/^      $credentials = null;$/;"	v
+crit	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function crit($message)$/;"	f
+culture	cache/frontend/prod/config/config_core_compile.yml.php	/^    $culture         = null,$/;"	v
+cultures	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getPreferredCulture(array $cultures = null)$/;"	v
+current	cache/frontend/prod/config/config_core_compile.yml.php	/^      $current = isset($this->headers[$name]) ? $this->headers[$name] : '';$/;"	v
+current	cache/frontend/prod/config/config_core_compile.yml.php	/^      $current = isset($this->httpMetas[$key]) ? $this->httpMetas[$key] : '';$/;"	v
+current	cache/frontend/prod/config/config_core_compile.yml.php	/^    $current = isset($this->metas[$key]) ? $this->metas[$key] : null;$/;"	v
+current	web/sf/calendar/calendar.js	/^			var current = el.innerHTML;$/;"	v
+currentCulture	cache/frontend/prod/config/config_core_compile.yml.php	/^                    $currentCulture = $storage->read(self::CULTURE_NAMESPACE);$/;"	v
+currentHeaders	cache/frontend/prod/config/config_core_compile.yml.php	/^      $currentHeaders = preg_split('\/\\s*,\\s*\/', $vary);$/;"	v
+currentHeaders	cache/frontend/prod/config/config_core_compile.yml.php	/^    $currentHeaders = array();$/;"	v
+currentInternalUri	cache/frontend/prod/config/config_core_compile.yml.php	/^    $currentInternalUri = array(),$/;"	v
+currentRouteName	cache/frontend/prod/config/config_core_compile.yml.php	/^    $currentRouteName   = null,$/;"	v
+currentViewName	cache/frontend/prod/config/config_core_compile.yml.php	/^      $currentViewName = sfConfig::get('mod_'.strtolower($module).'_view_class');$/;"	v
+data	cache/frontend/prod/config/config_core_compile.yml.php	/^    $data = unserialize($serialized);$/;"	v
+databases	cache/frontend/prod/config/config_core_compile.yml.php	/^      $databases = $configHandler->evaluate(array($this->configuration->getRootDir().'\/config\/databases.yml'));$/;"	v
+databases	cache/frontend/prod/config/config_core_compile.yml.php	/^      $databases = include($this->configuration->getConfigCache()->checkConfig('config\/databases.yml'));$/;"	v
+databases	cache/frontend/prod/config/config_core_compile.yml.php	/^    $databases     = array();$/;"	v
+debug	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function debug($message)$/;"	f
+debugMessage	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function debugMessage($message)$/;"	f
+decorate	cache/frontend/prod/config/config_core_compile.yml.php	/^  protected function decorate($content)$/;"	f
+decorator	cache/frontend/prod/config/config_core_compile.yml.php	/^    $decorator          = false,$/;"	v
+decoratorDirectory	cache/frontend/prod/config/config_core_compile.yml.php	/^    $decoratorDirectory = null,$/;"	v
+decoratorTemplate	cache/frontend/prod/config/config_core_compile.yml.php	/^    $decoratorTemplate  = null,$/;"	v
+default	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function & get($name, $default = null, $ns = null)$/;"	v
+default	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getAttribute($name, $default = null)$/;"	v
+default	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getAttribute($name, $default = null, $ns = null)$/;"	v
+default	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getFlash($name, $default = null)$/;"	v
+default	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getGetParameter($name, $default = null)$/;"	v
+default	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getHttpHeader($name, $default = null)$/;"	v
+default	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getParameter($name, $default = null)$/;"	v
+default	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getPostParameter($name, $default = null)$/;"	v
+default	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getRequestParameter($name, $default = null)$/;"	v
+default	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getUrlParameter($name, $default = null)$/;"	v
+default	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function remove($name, $default = null, $ns = null)$/;"	v
+defaultParameters	cache/frontend/prod/config/config_core_compile.yml.php	/^    $defaultParameters = array(),$/;"	v
+defaultValue	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getCookie($name, $defaultValue = null)$/;"	v
+default_namespace	cache/frontend/prod/config/config_core_compile.yml.php	/^  protected $default_namespace = null;$/;"	v
+delay	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function redirect($url, $delay = 0, $statusCode = 302)$/;"	v
+dir	cache/frontend/prod/config/config_core_compile.yml.php	/^        $dir = str_replace(sfConfig::get('sf_root_dir'), '%SF_ROOT_DIR%', $dir);$/;"	v
+dir	cache/frontend/prod/config/config_core_compile.yml.php	/^    foreach ($dirs as $dir => $checkEnabled)$/;"	v
+dirPieces	test/bootstrap/functional.php	/^  $dirPieces = explode(DIRECTORY_SEPARATOR, dirname($caller['file']));$/;"	v
+directory	cache/frontend/prod/config/config_core_compile.yml.php	/^    $directory          = null,$/;"	v
+dirs	cache/frontend/prod/config/config_core_compile.yml.php	/^      $dirs = array_keys($dirs);$/;"	v
+dirs	cache/frontend/prod/config/config_core_compile.yml.php	/^    $dirs = $this->context->getConfiguration()->getControllerDirs($moduleName);$/;"	v
+dispatch	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function dispatch()$/;"	f
+dispatcher	cache/frontend/prod/config/config_core_compile.yml.php	/^    $dispatcher             = null,$/;"	v
+dispatcher	cache/frontend/prod/config/config_core_compile.yml.php	/^    $dispatcher         = null,$/;"	v
+dispatcher	cache/frontend/prod/config/config_core_compile.yml.php	/^    $dispatcher        = null,$/;"	v
+dispatcher	cache/frontend/prod/config/config_core_compile.yml.php	/^    $dispatcher      = null,$/;"	v
+dispatcher	cache/frontend/prod/config/config_core_compile.yml.php	/^    $dispatcher      = null;$/;"	v
+dispatcher	cache/frontend/prod/config/config_core_compile.yml.php	/^    $dispatcher     = null,$/;"	v
+dispatcher	cache/frontend/prod/config/config_core_compile.yml.php	/^    $dispatcher = null,$/;"	v
+doLog	cache/frontend/prod/config/config_core_compile.yml.php	/^  abstract protected function doLog($message, $priority);$/;"	f
+doLog	cache/frontend/prod/config/config_core_compile.yml.php	/^  protected function doLog($message, $priority)$/;"	f
+domain	cache/frontend/prod/config/config_core_compile.yml.php	/^    $domain   = $this->options['session_cookie_domain'];$/;"	v
+double_list_move	web/sf/sf_admin/js/double_list.js	/^function double_list_move(srcId, destId)$/;"	f
+double_list_submit	web/sf/sf_admin/js/double_list.js	/^function double_list_submit()$/;"	f
+drop	web/sfProtoculousPlugin/js/dragdrop.js	/^    var drop, affected = [];$/;"	v
+droponOptions	web/sfProtoculousPlugin/js/dragdrop.js	/^    var droponOptions = Sortable.options(dropon);$/;"	v
+editActions	apps/frontend/modules/edit/actions/actions.class.php	/^class editActions extends sfActions$/;"	c
+element	web/sfProtoculousPlugin/js/builder.js	/^    var element = parentElement.firstChild || null;$/;"	v
+emerg	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function emerg($message)$/;"	f
+err	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function err($message)$/;"	f
+errors	web/sfProtoculousPlugin/js/unittest.js	/^    var errors = 0;$/;"	v
+escape	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setTitle($title, $escape = true)$/;"	v
+escaping	cache/frontend/prod/config/config_core_compile.yml.php	/^    $escaping       = null,$/;"	v
+escapingMethod	cache/frontend/prod/config/config_core_compile.yml.php	/^    $escapingMethod = null;$/;"	v
+event	cache/frontend/prod/config/config_core_compile.yml.php	/^    $event = $this->dispatcher->filter(new sfEvent($this, 'response.filter_content'), $this->getContent());$/;"	v
+event	cache/frontend/prod/config/config_core_compile.yml.php	/^    $event = $this->dispatcher->filter(new sfEvent($this, 'template.filter_parameters'), $this->getAll());$/;"	v
+event	cache/frontend/prod/config/config_core_compile.yml.php	/^    $event = $this->dispatcher->notifyUntil(new sfEvent($this, 'component.method_not_found', array('method' => $method, 'arguments' => $arguments)));$/;"	v
+event	cache/frontend/prod/config/config_core_compile.yml.php	/^    $event = $this->dispatcher->notifyUntil(new sfEvent($this, 'controller.method_not_found', array('method' => $method, 'arguments' => $arguments)));$/;"	v
+event	cache/frontend/prod/config/config_core_compile.yml.php	/^    $event = $this->dispatcher->notifyUntil(new sfEvent($this, 'request.method_not_found', array('method' => $method, 'arguments' => $arguments)));$/;"	v
+event	cache/frontend/prod/config/config_core_compile.yml.php	/^    $event = $this->dispatcher->notifyUntil(new sfEvent($this, 'response.method_not_found', array('method' => $method, 'arguments' => $arguments)));$/;"	v
+event	cache/frontend/prod/config/config_core_compile.yml.php	/^    $event = $this->dispatcher->notifyUntil(new sfEvent($this, 'user.method_not_found', array('method' => $method, 'arguments' => $arguments)));$/;"	v
+event	cache/frontend/prod/config/config_core_compile.yml.php	/^    $event = $this->dispatcher->notifyUntil(new sfEvent($this, 'view.method_not_found', array('method' => $method, 'arguments' => $arguments)));$/;"	v
+execute	cache/frontend/prod/config/config_core_compile.yml.php	/^  abstract function execute($request);$/;"	f
+execute	cache/frontend/prod/config/config_core_compile.yml.php	/^  abstract function execute();$/;"	f
+execute	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function execute($filterChain)$/;"	f
+execute	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function execute($request)$/;"	f
+execute	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function execute()$/;"	f
+executeAction	cache/frontend/prod/config/config_core_compile.yml.php	/^  protected function executeAction($actionInstance)$/;"	f
+executeCreate	apps/frontend/modules/edit/actions/actions.class.php	/^  public function executeCreate(sfWebRequest $request)$/;"	f
+executeCreate	apps/frontend/modules/view/actions/actions.class.php	/^  public function executeCreate(sfWebRequest $request)$/;"	f
+executeDelete	apps/frontend/modules/edit/actions/actions.class.php	/^  public function executeDelete(sfWebRequest $request)$/;"	f
+executeDelete	apps/frontend/modules/view/actions/actions.class.php	/^  public function executeDelete(sfWebRequest $request)$/;"	f
+executeEdit	apps/frontend/modules/edit/actions/actions.class.php	/^  public function executeEdit(sfWebRequest $request)$/;"	f
+executeEdit	apps/frontend/modules/view/actions/actions.class.php	/^  public function executeEdit(sfWebRequest $request)$/;"	f
+executeIndex	apps/frontend/modules/edit/actions/actions.class.php	/^  public function executeIndex(sfWebRequest $request)$/;"	f
+executeIndex	apps/frontend/modules/view/actions/actions.class.php	/^  public function executeIndex(sfWebRequest $request)$/;"	f
+executeNew	apps/frontend/modules/edit/actions/actions.class.php	/^  public function executeNew(sfWebRequest $request)$/;"	f
+executeNew	apps/frontend/modules/view/actions/actions.class.php	/^  public function executeNew(sfWebRequest $request)$/;"	f
+executeShow	apps/frontend/modules/edit/actions/actions.class.php	/^  public function executeShow(sfWebRequest $request)$/;"	f
+executeShow	apps/frontend/modules/view/actions/actions.class.php	/^  public function executeShow(sfWebRequest $request)$/;"	f
+executeUpdate	apps/frontend/modules/edit/actions/actions.class.php	/^  public function executeUpdate(sfWebRequest $request)$/;"	f
+executeUpdate	apps/frontend/modules/view/actions/actions.class.php	/^  public function executeUpdate(sfWebRequest $request)$/;"	f
+executeView	cache/frontend/prod/config/config_core_compile.yml.php	/^  protected function executeView($moduleName, $actionName, $viewName, $viewAttributes)$/;"	f
+expire	cache/frontend/prod/config/config_core_compile.yml.php	/^        $expire = (int) $expire;$/;"	v
+expire	cache/frontend/prod/config/config_core_compile.yml.php	/^        $expire = strtotime($expire);$/;"	v
+expire	cache/frontend/prod/config/config_core_compile.yml.php	/^        if ($expire === false || $expire == -1)$/;"	v
+expire	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setCookie($name, $value, $expire = null, $path = '\/', $domain = '', $secure = false, $httpOnly = false)$/;"	v
+extension	cache/frontend/prod/config/config_core_compile.yml.php	/^    $extension          = '.php';$/;"	v
+extractParameters	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function extractParameters($names)$/;"	f
+failures	web/sfProtoculousPlugin/js/unittest.js	/^    var failures = 0;$/;"	v
+file	cache/frontend/prod/config/config_core_compile.yml.php	/^        $file = sfConfig::get('sf_app_module_dir').'\/'.$moduleName.'\/view\/'.$actionName.$viewName.'View.class.php';$/;"	v
+file	cache/frontend/prod/config/config_core_compile.yml.php	/^        foreach ($this->javascripts[$position] as $file => $options)$/;"	v
+file	cache/frontend/prod/config/config_core_compile.yml.php	/^        foreach ($this->stylesheets[$position] as $file => $options)$/;"	v
+file	cache/frontend/prod/config/config_core_compile.yml.php	/^      $file        = $dir.'\/'.$controllerName.$classSuffix.'.class.php';$/;"	v
+file	cache/frontend/prod/config/config_core_compile.yml.php	/^    $file = $configuration->getConfigCache()->checkConfig('config\/autoload.yml');$/;"	v
+filter	cache/frontend/prod/config/modules_view_config_filters.yml.php	/^$filter = new $class(sfContext::getInstance(), $parameters);$/;"	v
+filterCalled	cache/frontend/prod/config/config_core_compile.yml.php	/^    $filterCalled    = array();$/;"	v
+filterChain	cache/frontend/prod/config/config_core_compile.yml.php	/^            $filterChain = new sfFilterChain();$/;"	v
+filterParametersEvent	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function filterParametersEvent(sfEvent $event, $parameters)$/;"	f
+findForm	web/sf/sf_admin/js/collapse.js	/^function findForm(node) {$/;"	f
+findRoute	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function findRoute($url)$/;"	f
+fixContentType	cache/frontend/prod/config/config_core_compile.yml.php	/^  protected function fixContentType($contentType)$/;"	f
+fixGeneratedUrl	cache/frontend/prod/config/config_core_compile.yml.php	/^  protected function fixGeneratedUrl($url, $absolute = false)$/;"	f
+fixParameters	cache/frontend/prod/config/config_core_compile.yml.php	/^  protected function fixParameters()$/;"	f
+flattenRoutes	cache/frontend/prod/config/config_core_compile.yml.php	/^        $flattenRoutes = array_merge($flattenRoutes, self::flattenRoutes($route));$/;"	v
+flattenRoutes	cache/frontend/prod/config/config_core_compile.yml.php	/^    $flattenRoutes = array();$/;"	v
+flattenRoutes	cache/frontend/prod/config/config_core_compile.yml.php	/^  static public function flattenRoutes($routes)$/;"	f
+form	cache/frontend/prod/config/config_core_compile.yml.php	/^    $form = new sfForm();$/;"	v
+format	cache/frontend/prod/config/config_core_compile.yml.php	/^      foreach ($this->options['formats'] as $format => $mimeTypes)$/;"	v
+format	cache/frontend/prod/config/config_core_compile.yml.php	/^    $format                 = null;$/;"	v
+format	cache/frontend/prod/config/config_core_compile.yml.php	/^    foreach ($this->formats as $format => $mimeTypes)$/;"	v
+formats	cache/frontend/prod/config/config_core_compile.yml.php	/^    $formats                = array(),$/;"	v
+forward	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function forward($module, $action)$/;"	f
+forward	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function forward($moduleName, $actionName)$/;"	f
+forward404	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function forward404($message = null)$/;"	f
+forward404If	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function forward404If($condition, $message = null)$/;"	f
+forward404Unless	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function forward404Unless($condition, $message = null)$/;"	f
+forwardIf	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function forwardIf($condition, $module, $action)$/;"	f
+forwardUnless	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function forwardUnless($condition, $module, $action)$/;"	f
+fragment	cache/frontend/prod/config/config_core_compile.yml.php	/^        $fragment = substr($parameters, $pos + 1);$/;"	v
+fragment	cache/frontend/prod/config/config_core_compile.yml.php	/^    $fragment = '';$/;"	v
+freshCache	cache/frontend/prod/config/config_core_compile.yml.php	/^    $freshCache = false,$/;"	v
+frontendConfiguration	apps/frontend/config/frontendConfiguration.class.php	/^class frontendConfiguration extends sfApplicationConfiguration$/;"	c
+function.fixPosition	web/sf/calendar/calendar.js	/^	function fixPosition(box) {$/;"	f
+function.klass	web/sfProtoculousPlugin/js/prototype.js	/^    function klass() {$/;"	c
+function.nextMonth	web/sf/calendar/calendar.js	/^			function nextMonth() {$/;"	f
+function.prevMonth	web/sf/calendar/calendar.js	/^			function prevMonth() {$/;"	f
+function.setMonth	web/sf/calendar/calendar.js	/^		function setMonth(m) {$/;"	f
+function.setVars	web/sf/calendar/calendar.js	/^			function setVars() {$/;"	f
+genUrl	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function genUrl($parameters = array(), $absolute = false)$/;"	f
+generate	cache/frontend/prod/config/config_core_compile.yml.php	/^  abstract public function generate($name, $params = array(), $absolute = false);$/;"	f
+generate	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function generate($name, $params = array(), $absolute = false)$/;"	f
+generateUrl	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function generateUrl($route, $params = array(), $absolute = false)$/;"	f
+get	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function & get($name, $default = null, $ns = null)$/;"	f
+get404Message	cache/frontend/prod/config/config_core_compile.yml.php	/^  protected function get404Message($message = null)$/;"	f
+getAcceptableContentTypes	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getAcceptableContentTypes()$/;"	f
+getAction	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getAction($moduleName, $actionName)$/;"	f
+getActionInstance	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getActionInstance()$/;"	f
+getActionName	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getActionName()$/;"	f
+getActionStack	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getActionStack()$/;"	f
+getAll	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function & getAll($ns = null)$/;"	f
+getAttribute	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getAttribute($name, $default = null)$/;"	f
+getAttribute	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getAttribute($name, $default = null, $ns = null)$/;"	f
+getAttributeHolder	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getAttributeHolder()$/;"	f
+getCache	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getCache()$/;"	f
+getCharset	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getCharset()$/;"	f
+getCharsets	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getCharsets()$/;"	f
+getClassPath	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getClassPath($class)$/;"	f
+getComponent	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getComponent($moduleName, $componentName)$/;"	f
+getComponent	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getComponent($moduleName, $componentName, $vars = null)$/;"	f
+getComponentSlot	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getComponentSlot($name)$/;"	f
+getContent	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getContent()$/;"	f
+getContentType	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getContentType()$/;"	f
+getContext	cache/frontend/prod/config/config_core_compile.yml.php	/^  public final function getContext()$/;"	f
+getController	cache/frontend/prod/config/config_core_compile.yml.php	/^  protected function getController($moduleName, $controllerName, $extension)$/;"	f
+getController	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getController()$/;"	f
+getCookie	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getCookie($name, $defaultValue = null)$/;"	f
+getCookies	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getCookies()$/;"	f
+getCredential	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getCredential()$/;"	f
+getCulture	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getCulture()$/;"	f
+getCurrentInternalUri	cache/frontend/prod/config/config_core_compile.yml.php	/^  abstract public function getCurrentInternalUri($with_route_name = false);$/;"	f
+getCurrentInternalUri	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getCurrentInternalUri($withRouteName = false)$/;"	f
+getCurrentRouteName	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getCurrentRouteName()$/;"	f
+getDatabase	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getDatabase($name = 'default')$/;"	f
+getDate	cache/frontend/prod/config/config_core_compile.yml.php	/^  static public function getDate($timestamp, $type = 'rfc1123')$/;"	f
+getDecoratorDirectory	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getDecoratorDirectory()$/;"	f
+getDecoratorTemplate	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getDecoratorTemplate()$/;"	f
+getDefaultNamespace	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getDefaultNamespace()$/;"	f
+getDefaultParameter	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getDefaultParameter($key)$/;"	f
+getDefaultParameters	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getDefaultParameters()$/;"	f
+getDefaultView	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getDefaultView()$/;"	f
+getDirectory	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getDirectory()$/;"	f
+getEngine	cache/frontend/prod/config/config_core_compile.yml.php	/^  abstract function getEngine();$/;"	f
+getEngine	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getEngine()$/;"	f
+getEntry	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getEntry($index)$/;"	f
+getEscaping	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getEscaping()$/;"	f
+getEscapingMethod	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getEscapingMethod()$/;"	f
+getExtension	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getExtension()$/;"	f
+getFields	lib/filter/doctrine/base/BaseUrablogCategoryFormFilter.class.php	/^  public function getFields()$/;"	f
+getFields	lib/filter/doctrine/base/BaseUrablogFieldFormFilter.class.php	/^  public function getFields()$/;"	f
+getFields	lib/filter/doctrine/base/BaseUrablogUserFormFilter.class.php	/^  public function getFields()$/;"	f
+getFiles	cache/frontend/prod/config/config_core_compile.yml.php	/^  static public function getFiles($key = null)$/;"	f
+getFirstEntry	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getFirstEntry()$/;"	f
+getFlash	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getFlash($name, $default = null)$/;"	f
+getFormat	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getFormat($mimeType)$/;"	f
+getForwardedFor	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getForwardedFor()$/;"	f
+getGetParameter	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getGetParameter($name, $default = null)$/;"	f
+getGetParameters	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getGetParameters()$/;"	f
+getHelperDirs	cache/frontend/prod/config/config_core_compile.yml.php	/^  static public function getHelperDirs($moduleName = '')$/;"	f
+getHost	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getHost()$/;"	f
+getHttpHeader	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getHttpHeader($name, $default = null)$/;"	f
+getHttpHeader	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getHttpHeader($name, $prefix = 'http')$/;"	f
+getHttpHeaders	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getHttpHeaders()$/;"	f
+getHttpMetas	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getHttpMetas()$/;"	f
+getInstance	cache/frontend/prod/config/config_core_compile.yml.php	/^  static public function getInstance()$/;"	f
+getJavascripts	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getJavascripts($position = self::ALL)$/;"	f
+getLanguages	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getLanguages()$/;"	f
+getLastEntry	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getLastEntry()$/;"	f
+getLayout	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getLayout()$/;"	f
+getLogLevel	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getLogLevel()$/;"	f
+getLogger	cache/frontend/prod/config/config_core_compile.yml.php	/^  public final function getLogger()$/;"	f
+getMetas	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getMetas()$/;"	f
+getMethod	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getMethod()$/;"	f
+getMethodName	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getMethodName()$/;"	f
+getMimeType	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getMimeType($format)$/;"	f
+getModelName	lib/filter/doctrine/base/BaseUrablogCategoryFormFilter.class.php	/^  public function getModelName()$/;"	f
+getModelName	lib/filter/doctrine/base/BaseUrablogFieldFormFilter.class.php	/^  public function getModelName()$/;"	f
+getModelName	lib/filter/doctrine/base/BaseUrablogUserFormFilter.class.php	/^  public function getModelName()$/;"	f
+getModelName	lib/form/doctrine/base/BaseUrablogCategoryForm.class.php	/^  public function getModelName()$/;"	f
+getModelName	lib/form/doctrine/base/BaseUrablogFieldForm.class.php	/^  public function getModelName()$/;"	f
+getModelName	lib/form/doctrine/base/BaseUrablogUserForm.class.php	/^  public function getModelName()$/;"	f
+getModuleName	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getModuleName()$/;"	f
+getName	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getName()$/;"	f
+getNames	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getNames($ns = null)$/;"	f
+getNames	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getNames()$/;"	f
+getNamespaces	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getNamespaces()$/;"	f
+getOptions	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getOptions()$/;"	f
+getParameter	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getParameter($name, $default = null)$/;"	f
+getParameterHolder	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getParameterHolder()$/;"	f
+getParameters	cache/frontend/prod/config/config_core_compile.yml.php	/^    $getParameters          = null,$/;"	v
+getParameters	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getParameters()$/;"	f
+getPartial	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getPartial($templateName, $vars = null)$/;"	f
+getPathInfo	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getPathInfo()$/;"	f
+getPathInfoArray	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getPathInfoArray()$/;"	f
+getPathInfoPrefix	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getPathInfoPrefix()$/;"	f
+getPositions	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getPositions()$/;"	f
+getPostParameter	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getPostParameter($name, $default = null)$/;"	f
+getPostParameters	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getPostParameters()$/;"	f
+getPreferredCulture	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getPreferredCulture(array $cultures = null)$/;"	f
+getPresentation	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function & getPresentation()$/;"	f
+getPresentationFor	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getPresentationFor($module, $action, $viewName = null)$/;"	f
+getPriorityName	cache/frontend/prod/config/config_core_compile.yml.php	/^  static public function getPriorityName($priority)$/;"	f
+getReferer	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getReferer()$/;"	f
+getRelativeUrlRoot	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getRelativeUrlRoot()$/;"	f
+getRemoteAddress	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getRemoteAddress()$/;"	f
+getRenderMode	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getRenderMode()$/;"	f
+getRequest	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getRequest()$/;"	f
+getRequestContext	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getRequestContext()$/;"	f
+getRequestFormat	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getRequestFormat()$/;"	f
+getRequestParameter	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getRequestParameter($name, $default = null)$/;"	f
+getRequestParameters	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getRequestParameters()$/;"	f
+getResponse	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getResponse()$/;"	f
+getReturnValue	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getReturnValue()$/;"	f
+getRoute	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getRoute()$/;"	f
+getRouteThatMatchesParameters	cache/frontend/prod/config/config_core_compile.yml.php	/^  protected function getRouteThatMatchesParameters($parameters)$/;"	f
+getRouteThatMatchesUrl	cache/frontend/prod/config/config_core_compile.yml.php	/^  protected function getRouteThatMatchesUrl($url)$/;"	f
+getRoutes	cache/frontend/prod/config/config_core_compile.yml.php	/^  abstract public function getRoutes();$/;"	f
+getRoutes	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getRoutes()$/;"	f
+getScriptName	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getScriptName()$/;"	f
+getSecurityConfiguration	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getSecurityConfiguration()$/;"	f
+getSize	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getSize()$/;"	f
+getSlots	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getSlots()$/;"	f
+getStatusCode	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getStatusCode()$/;"	f
+getStatusText	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getStatusText()$/;"	f
+getStylesheets	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getStylesheets($position = self::ALL)$/;"	f
+getSubject	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getSubject()$/;"	f
+getTemplate	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getTemplate()$/;"	f
+getTitle	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getTitle()$/;"	f
+getUri	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getUri()$/;"	f
+getUriPrefix	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getUriPrefix()$/;"	f
+getUrlParameter	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getUrlParameter($name, $default = null)$/;"	f
+getUser	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getUser()$/;"	f
+getValue	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getValue()$/;"	f
+getVar	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getVar($name)$/;"	f
+getVarHolder	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getVarHolder()$/;"	f
+getView	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getView($moduleName, $actionName, $viewName)$/;"	f
+getViewName	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getViewName()$/;"	f
+givenUrl	cache/frontend/prod/config/config_core_compile.yml.php	/^    $givenUrl = $url;$/;"	v
+handleAction	cache/frontend/prod/config/config_core_compile.yml.php	/^  protected function handleAction($filterChain, $actionInstance)$/;"	f
+handleError	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function handleError()$/;"	f
+handleView	cache/frontend/prod/config/config_core_compile.yml.php	/^  protected function handleView($filterChain, $actionInstance, $viewName)$/;"	f
+has	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function has($name, $ns = null)$/;"	f
+has	lib/model/doctrine/UrablogCategory.class.php	/^ * This class has been auto-generated by the Doctrine ORM Framework$/;"	c
+has	lib/model/doctrine/UrablogCategoryTable.class.php	/^ * This class has been auto-generated by the Doctrine ORM Framework$/;"	c
+has	lib/model/doctrine/UrablogField.class.php	/^ * This class has been auto-generated by the Doctrine ORM Framework$/;"	c
+has	lib/model/doctrine/UrablogFieldTable.class.php	/^ * This class has been auto-generated by the Doctrine ORM Framework$/;"	c
+has	lib/model/doctrine/UrablogUser.class.php	/^ * This class has been auto-generated by the Doctrine ORM Framework$/;"	c
+has	lib/model/doctrine/UrablogUserTable.class.php	/^ * This class has been auto-generated by the Doctrine ORM Framework$/;"	c
+has	lib/model/doctrine/base/BaseUrablogCategory.class.php	/^ * This class has been auto-generated by the Doctrine ORM Framework$/;"	c
+has	lib/model/doctrine/base/BaseUrablogField.class.php	/^ * This class has been auto-generated by the Doctrine ORM Framework$/;"	c
+has	lib/model/doctrine/base/BaseUrablogUser.class.php	/^ * This class has been auto-generated by the Doctrine ORM Framework$/;"	c
+hasAttribute	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function hasAttribute($name)$/;"	f
+hasAttribute	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function hasAttribute($name, $ns = null)$/;"	f
+hasComponentSlot	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function hasComponentSlot($name)$/;"	f
+hasFilter	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function hasFilter($class)$/;"	f
+hasFlash	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function hasFlash($name)$/;"	f
+hasHttpHeader	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function hasHttpHeader($name)$/;"	f
+hasNamespace	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function hasNamespace($ns)$/;"	f
+hasParameter	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function hasParameter($name)$/;"	f
+hasRequestParameter	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function hasRequestParameter($name)$/;"	f
+hasRouteName	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function hasRouteName($name)$/;"	f
+hasRoutes	cache/frontend/prod/config/config_core_compile.yml.php	/^  abstract public function hasRoutes();$/;"	f
+hasRoutes	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function hasRoutes()$/;"	f
+header	cache/frontend/prod/config/config_core_compile.yml.php	/^    $header = $this->normalizeHeaderName($header);$/;"	v
+headerOnly	cache/frontend/prod/config/config_core_compile.yml.php	/^    $headerOnly  = false,$/;"	v
+headers	cache/frontend/prod/config/config_core_compile.yml.php	/^    $headers     = array(),$/;"	v
+headers	cache/frontend/prod/config/config_core_compile.yml.php	/^    $headers = array();$/;"	v
+helpers	cache/frontend/prod/config/config_core_compile.yml.php	/^    $helpers = array_unique(array_merge(array('Helper', 'Url', 'Asset', 'Tag', 'Escaping'), sfConfig::get('sf_standard_helpers')));$/;"	v
+host	cache/frontend/prod/config/config_core_compile.yml.php	/^    $host = explode(":", $this->getHost());$/;"	v
+html	cache/frontend/prod/config/config_core_compile.yml.php	/^      $html = '';$/;"	v
+httpMetas	cache/frontend/prod/config/config_core_compile.yml.php	/^    $httpMetas   = array(),$/;"	v
+httpOnly	cache/frontend/prod/config/config_core_compile.yml.php	/^    $httpOnly = $this->options['session_cookie_httponly'];$/;"	v
+i	cache/frontend/prod/config/config_core_compile.yml.php	/^        if (!sfConfig::get('sf_compat_10') && false !== $i = array_search('Form', $helpers))$/;"	v
+in	cache/frontend/prod/config/config_core_compile.yml.php	/^            throw new sfControllerException(sprintf('There is no "%s" class in your action file "%s".', $moduleName.$classSuffix.'s', $module_file));$/;"	c
+inCLI	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function inCLI()$/;"	f
+index	cache/frontend/prod/config/config_core_compile.yml.php	/^        $index = $actionStack->getSize();$/;"	v
+index	cache/frontend/prod/config/config_core_compile.yml.php	/^    $index = -1;$/;"	v
+info	cache/frontend/prod/config/config_core_compile.yml.php	/^    $info = $this->getRouteThatMatchesUrl($url);$/;"	v
+info	cache/frontend/prod/config/config_core_compile.yml.php	/^    if (false === $info = $this->findRoute($url))$/;"	v
+info	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function info($message)$/;"	f
+initialize	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function initialize($context)$/;"	f
+initialize	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function initialize($context, $moduleName, $actionName)$/;"	f
+initialize	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function initialize($context, $moduleName, $actionName, $viewName)$/;"	f
+initialize	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function initialize($context, $parameters = array())$/;"	f
+initialize	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function initialize($options = array())$/;"	f
+initialize	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function initialize($options = null)$/;"	f
+initialize	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function initialize(sfEventDispatcher $dispatcher, $options = array())$/;"	f
+initialize	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function initialize(sfEventDispatcher $dispatcher, $parameters = array(), $attributes = array(), $options = array())$/;"	f
+initialize	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function initialize(sfEventDispatcher $dispatcher, $parameters = array(), $options = array())$/;"	f
+initialize	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function initialize(sfEventDispatcher $dispatcher, sfCache $cache = null, $options = array())$/;"	f
+initialize	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function initialize(sfEventDispatcher $dispatcher, sfStorage $storage, $options = array())$/;"	f
+initialize	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function initialize(sfProjectConfiguration $configuration)$/;"	f
+initializeAttributeHolder	cache/frontend/prod/config/config_core_compile.yml.php	/^  protected function initializeAttributeHolder($attributes = array())$/;"	f
+insertRouteBefore	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function insertRouteBefore($pivot, $name, $route)$/;"	f
+instance	cache/frontend/prod/config/config_core_compile.yml.php	/^    $instance   = null;$/;"	v
+internalUri	cache/frontend/prod/config/config_core_compile.yml.php	/^    $internalUri = array('@'.$this->currentRouteName, $parameters['module'].'\/'.$parameters['action']);$/;"	v
+isAbsUri	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function isAbsUri()$/;"	f
+isDecorator	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function isDecorator()$/;"	f
+isEscaped	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function isEscaped()$/;"	f
+isFirstCall	cache/frontend/prod/config/config_core_compile.yml.php	/^  protected function isFirstCall()$/;"	f
+isHeaderOnly	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function isHeaderOnly()$/;"	f
+isMethod	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function isMethod($method)$/;"	f
+isProcessed	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function isProcessed()$/;"	f
+isSecure	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function isSecure()$/;"	f
+isXmlHttpRequest	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function isXmlHttpRequest()$/;"	f
+javascripts	cache/frontend/prod/config/config_core_compile.yml.php	/^      $javascripts = array();$/;"	v
+javascripts	cache/frontend/prod/config/config_core_compile.yml.php	/^    $javascripts = array(),$/;"	v
+key	cache/frontend/prod/config/config_core_compile.yml.php	/^        foreach ($this->parameterHolder->getAll() as $key => $value)$/;"	v
+key	cache/frontend/prod/config/config_core_compile.yml.php	/^      foreach ($attributes['sf_data'] as $key => $value)$/;"	v
+key	cache/frontend/prod/config/config_core_compile.yml.php	/^    $key = $this->normalizeHeaderName($key);$/;"	v
+key	cache/frontend/prod/config/config_core_compile.yml.php	/^    $key = strtolower($key);$/;"	v
+key	cache/frontend/prod/config/config_core_compile.yml.php	/^    foreach ($arr2 as $key => $value)$/;"	v
+key	cache/frontend/prod/config/config_core_compile.yml.php	/^    foreach ($currentHeaders as $key => $value)$/;"	v
+key	cache/frontend/prod/config/config_core_compile.yml.php	/^    foreach ($parameters as $key => $value)$/;"	v
+key	cache/frontend/prod/config/config_core_compile.yml.php	/^    foreach ($parameters as $key => &$value)$/;"	v
+key	cache/frontend/prod/config/config_core_compile.yml.php	/^    foreach ($routes as $key => $value)$/;"	v
+klass.constructor	web/sfProtoculousPlugin/js/prototype.js	/^    klass.prototype.constructor = klass;$/;"	m
+lang	cache/frontend/prod/config/config_core_compile.yml.php	/^              $lang = strtolower($codes[0]);$/;"	v
+lang	cache/frontend/prod/config/config_core_compile.yml.php	/^            $lang = $codes[1];$/;"	v
+languages	cache/frontend/prod/config/config_core_compile.yml.php	/^    $languages              = null,$/;"	v
+languages	cache/frontend/prod/config/config_core_compile.yml.php	/^    $languages = $this->splitHttpAcceptHeader($_SERVER['HTTP_ACCEPT_LANGUAGE']);$/;"	v
+level	cache/frontend/prod/config/config_core_compile.yml.php	/^      $level = constant('sfLogger::'.strtoupper($level));$/;"	v
+level	cache/frontend/prod/config/config_core_compile.yml.php	/^    $level = self::INFO;$/;"	v
+levels	cache/frontend/prod/config/config_core_compile.yml.php	/^    static $levels  = array($/;"	v
+lifetime	cache/frontend/prod/config/config_core_compile.yml.php	/^    $lifetime = $this->options['session_cookie_lifetime'];$/;"	v
+listenToChangeCultureEvent	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function listenToChangeCultureEvent(sfEvent $event)$/;"	f
+listenToLogEvent	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function listenToLogEvent(sfEvent $event)$/;"	f
+loadClass	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function loadClass($class)$/;"	f
+loadConfiguration	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function loadConfiguration($actionInstance)$/;"	f
+loadConfiguration	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function loadConfiguration()$/;"	f
+loadCoreAndStandardHelpers	cache/frontend/prod/config/config_core_compile.yml.php	/^  protected function loadCoreAndStandardHelpers()$/;"	f
+loadHelpers	cache/frontend/prod/config/config_core_compile.yml.php	/^  static public function loadHelpers($helpers, $moduleName = '')$/;"	f
+log	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function log($message, $priority = self::INFO)$/;"	f
+logMessage	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function logMessage($message, $priority = 'info')$/;"	f
+masterDelay	web/sfProtoculousPlugin/js/effects.js	/^    var masterDelay = options.delay;$/;"	v
+matched	cache/frontend/prod/config/config_core_compile.yml.php	/^      $matched = preg_match_all('\/$/;"	v
+max	cache/frontend/prod/config/config_core_compile.yml.php	/^          for ($i = 0, $max = count($codes); $i < $max; $i++)$/;"	v
+maxForwards	cache/frontend/prod/config/config_core_compile.yml.php	/^    $maxForwards       = 5,$/;"	v
+merge	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function merge(sfWebResponse $response)$/;"	f
+mergeArrays	cache/frontend/prod/config/config_core_compile.yml.php	/^  protected function mergeArrays($arr1, $arr2)$/;"	f
+message	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function forward404If($condition, $message = null)$/;"	v
+message	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function forward404Unless($condition, $message = null)$/;"	v
+messages	web/sfProtoculousPlugin/js/unittest.js	/^    var messages = [];$/;"	v
+metas	cache/frontend/prod/config/config_core_compile.yml.php	/^    $metas       = array(),$/;"	v
+method	cache/frontend/prod/config/config_core_compile.yml.php	/^    $method          = null,$/;"	v
+mode	cache/frontend/prod/config/config_core_compile.yml.php	/^    if ($mode == sfView::RENDER_CLIENT || $mode == sfView::RENDER_VAR || $mode == sfView::RENDER_NONE)$/;"	v
+module	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setTemplate($name, $module = null)$/;"	v
+moduleClass	cache/frontend/prod/config/config_core_compile.yml.php	/^            $moduleClass = $moduleName.'_'.$class;$/;"	v
+moduleClass	cache/frontend/prod/config/config_core_compile.yml.php	/^        $moduleClass = $moduleName.'_'.$class;$/;"	v
+moduleConfig	cache/frontend/prod/config/config_core_compile.yml.php	/^            $moduleConfig = sfConfig::get('sf_app_module_dir').'\/'.$moduleName.'\/config\/config.php';$/;"	v
+moduleName	cache/frontend/prod/config/config_core_compile.yml.php	/^        $moduleName = preg_replace('\/[^a-z0-9_]+\/i', '', $moduleName);$/;"	v
+moduleName	cache/frontend/prod/config/config_core_compile.yml.php	/^      $moduleName = $request->getParameter('module');$/;"	v
+moduleName	cache/frontend/prod/config/config_core_compile.yml.php	/^      $moduleName = sfConfig::get('sf_module_disabled_module');$/;"	v
+moduleName	cache/frontend/prod/config/config_core_compile.yml.php	/^    $moduleName             = '',$/;"	v
+moduleName	cache/frontend/prod/config/config_core_compile.yml.php	/^    $moduleName         = '',$/;"	v
+moduleName	cache/frontend/prod/config/config_core_compile.yml.php	/^    $moduleName     = null,$/;"	v
+moduleName	cache/frontend/prod/config/config_core_compile.yml.php	/^  static public function loadHelpers($helpers, $moduleName = '')$/;"	v
+module_file	cache/frontend/prod/config/config_core_compile.yml.php	/^      $module_file = $dir.'\/'.$classFile.'s.class.php';$/;"	v
+move	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setDefaultNamespace($namespace, $move = true)$/;"	v
+myUser	apps/frontend/lib/myUser.class.php	/^class myUser extends sfBasicSecurityUser$/;"	c
+name	cache/frontend/prod/config/config_core_compile.yml.php	/^      $name = sfConfig::get('sf_app_dir').'\/modules\/'.$module.'\/templates\/'.$name;$/;"	v
+name	cache/frontend/prod/config/config_core_compile.yml.php	/^    $name       = '',$/;"	v
+name	cache/frontend/prod/config/config_core_compile.yml.php	/^    $name = $prefix.strtoupper(strtr($name, '-', '_'));$/;"	v
+name	cache/frontend/prod/config/config_core_compile.yml.php	/^    $name = $this->normalizeHeaderName($name);$/;"	v
+name	cache/frontend/prod/config/config_core_compile.yml.php	/^    foreach ($databases as $name => $database)$/;"	v
+name	cache/frontend/prod/config/config_core_compile.yml.php	/^    foreach ($routes as $name => $route)$/;"	v
+name	cache/frontend/prod/config/config_core_compile.yml.php	/^    foreach ($this->headers as $name => $value)$/;"	v
+name	cache/frontend/prod/config/config_core_compile.yml.php	/^    foreach ($this->routes as $name => $route)$/;"	v
+name	cache/frontend/prod/config/config_core_compile.yml.php	/^    foreach (self::flattenRoutes($routes) as $name => $route)$/;"	v
+name	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setStatusCode($code, $name = null)$/;"	v
+name	web/sfProtoculousPlugin/js/dragdrop.js	/^    var name = encodeURIComponent($/;"	v
+names	cache/frontend/prod/config/config_core_compile.yml.php	/^        if ($this->options['use_flash'] && $names = $this->attributeHolder->getNames('symfony\/user\/sfUser\/flash'))$/;"	v
+names	cache/frontend/prod/config/config_core_compile.yml.php	/^        if ($this->options['use_flash'] && $names = $this->attributeHolder->getNames('symfony\/user\/sfUser\/flash\/remove'))$/;"	v
+namespace	cache/frontend/prod/config/config_core_compile.yml.php	/^      foreach ($attributes as $namespace => $values)$/;"	v
+nb	cache/frontend/prod/config/config_core_compile.yml.php	/^        $nb = $actionStack->getSize() - $index;$/;"	v
+newroutes	cache/frontend/prod/config/config_core_compile.yml.php	/^        $newroutes = array_merge($newroutes, $this->connect($name, $route));$/;"	v
+newroutes	cache/frontend/prod/config/config_core_compile.yml.php	/^    $newroutes = $this->connect($name, $route);$/;"	v
+newroutes	cache/frontend/prod/config/config_core_compile.yml.php	/^    $newroutes = array();$/;"	v
+newval	web/sf/calendar/calendar.js	/^			var newval = range[i];$/;"	v
+normalizeHeaderName	cache/frontend/prod/config/config_core_compile.yml.php	/^  protected function normalizeHeaderName($name)$/;"	f
+normalizeUrl	cache/frontend/prod/config/config_core_compile.yml.php	/^  protected function normalizeUrl($url)$/;"	f
+notice	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function notice($message)$/;"	f
+ns	cache/frontend/prod/config/config_core_compile.yml.php	/^      $ns = $this->default_namespace;$/;"	v
+ns	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function add($parameters, $ns = null)$/;"	v
+ns	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function addByRef(& $parameters, $ns = null)$/;"	v
+ns	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function has($name, $ns = null)$/;"	v
+ns	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function hasAttribute($name, $ns = null)$/;"	v
+ns	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function set($name, $value, $ns = null)$/;"	v
+ns	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setAttribute($name, $value, $ns = null)$/;"	v
+ns	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setByRef($name, & $value, $ns = null)$/;"	v
+offsetExists	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function offsetExists($name)$/;"	f
+offsetGet	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function offsetGet($name)$/;"	f
+offsetSet	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function offsetSet($name, $value)$/;"	f
+offsetUnset	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function offsetUnset($name)$/;"	f
+offsets	web/sfProtoculousPlugin/js/dragdrop.js	/^    var offsets = Position.cumulativeOffset(dropon);$/;"	v
+options	cache/frontend/prod/config/config_core_compile.yml.php	/^    $options           = array();$/;"	v
+options	cache/frontend/prod/config/config_core_compile.yml.php	/^    $options         = array(),$/;"	v
+options	cache/frontend/prod/config/config_core_compile.yml.php	/^    $options    = array(),$/;"	v
+options	cache/frontend/prod/config/config_core_compile.yml.php	/^    $options = array();$/;"	v
+options	cache/frontend/prod/config/config_core_compile.yml.php	/^    $options = array_merge(array($/;"	v
+options	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function __construct(sfEventDispatcher $dispatcher, $options = array())$/;"	v
+options	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function __construct(sfEventDispatcher $dispatcher, sfStorage $storage, $options = array())$/;"	v
+options	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function __construct(sfProjectConfiguration $configuration, $options = array())$/;"	v
+options	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function initialize(sfEventDispatcher $dispatcher, $options = array())$/;"	v
+options	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function initialize(sfEventDispatcher $dispatcher, sfStorage $storage, $options = array())$/;"	v
+overriden	cache/frontend/prod/config/config_core_compile.yml.php	/^    $overriden = array(),$/;"	v
+parameterHolder	cache/frontend/prod/config/config_core_compile.yml.php	/^    $parameterHolder    = null,$/;"	v
+parameterHolder	cache/frontend/prod/config/config_core_compile.yml.php	/^    $parameterHolder = null,$/;"	v
+parameters	cache/frontend/prod/config/config_core_compile.yml.php	/^        $parameters = substr($parameters, 0, $pos);$/;"	v
+parameters	cache/frontend/prod/config/config_core_compile.yml.php	/^      $parameters = $this->parameters[$ns];$/;"	v
+parameters	cache/frontend/prod/config/config_core_compile.yml.php	/^      if (false === $parameters = $route->matchesUrl($url, $this->options['context']))$/;"	v
+parameters	cache/frontend/prod/config/config_core_compile.yml.php	/^    $parameters = $event->getReturnValue();$/;"	v
+parameters	cache/frontend/prod/config/config_core_compile.yml.php	/^    $parameters = $this->parameterHolder->getAll();$/;"	v
+parameters	cache/frontend/prod/config/config_core_compile.yml.php	/^    $parameters = array();$/;"	v
+parameters	cache/frontend/prod/config/config_core_compile.yml.php	/^    $parameters = null;$/;"	v
+parameters	cache/frontend/prod/config/config_core_compile.yml.php	/^    if (is_string($parameters) && $parameters == '#')$/;"	v
+parameters	cache/frontend/prod/config/config_core_compile.yml.php	/^  protected $parameters = array();$/;"	v
+parameters	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function __construct($context, $parameters = array())$/;"	v
+parameters	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function __construct($subject, $name, $parameters = array())$/;"	v
+parameters	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function __construct(sfEventDispatcher $dispatcher, $parameters = array(), $attributes = array(), $options = array())$/;"	v
+parameters	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function __construct(sfEventDispatcher $dispatcher, $parameters = array(), $options = array())$/;"	v
+parameters	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function initialize($context, $parameters = array())$/;"	v
+parameters	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function initialize(sfEventDispatcher $dispatcher, $parameters = array(), $attributes = array(), $options = array())$/;"	v
+parameters	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function initialize(sfEventDispatcher $dispatcher, $parameters = array(), $options = array())$/;"	v
+params	cache/frontend/prod/config/config_core_compile.yml.php	/^    $params = $params ? '?'.implode('&', $params) : '';$/;"	v
+params	cache/frontend/prod/config/config_core_compile.yml.php	/^    $params = array();$/;"	v
+params	cache/frontend/prod/config/config_core_compile.yml.php	/^    if (false === $params = $this->parse($event['path_info']))$/;"	v
+params	cache/frontend/prod/config/config_core_compile.yml.php	/^  abstract public function generate($name, $params = array(), $absolute = false);$/;"	v
+params	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function generate($name, $params = array(), $absolute = false)$/;"	v
+params	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function generateUrl($route, $params = array(), $absolute = false)$/;"	v
+parentElement	web/sfProtoculousPlugin/js/builder.js	/^    var parentElement = document.createElement(parentTag);$/;"	v
+parse	cache/frontend/prod/config/config_core_compile.yml.php	/^  abstract public function parse($url);$/;"	f
+parse	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function parse($url)$/;"	f
+parseRequestParameters	cache/frontend/prod/config/config_core_compile.yml.php	/^  protected function parseRequestParameters()$/;"	f
+path	cache/frontend/prod/config/config_core_compile.yml.php	/^    $path     = $this->options['session_cookie_path'];$/;"	v
+pathArray	cache/frontend/prod/config/config_core_compile.yml.php	/^    $pathArray = $this->getPathInfoArray();$/;"	v
+pathInfo	cache/frontend/prod/config/config_core_compile.yml.php	/^        $pathInfo = preg_replace('\/\\??'.preg_quote($pathArray['QUERY_STRING'], '\/').'$\/', '', $pathInfo);$/;"	v
+pathInfo	cache/frontend/prod/config/config_core_compile.yml.php	/^        $pathInfo = preg_replace('\/^'.preg_quote($prefix_name, '\/').'\/', '', $pathInfo);$/;"	v
+pathInfo	cache/frontend/prod/config/config_core_compile.yml.php	/^        $pathInfo = preg_replace('\/^'.preg_quote($script_name, '\/').'\/', '', $pathInfo);$/;"	v
+pathInfo	cache/frontend/prod/config/config_core_compile.yml.php	/^        $pathInfo = preg_replace('\/^'.preg_quote($uri_prefix, '\/').'\/','',$pathArray['REQUEST_URI']);$/;"	v
+pathInfo	cache/frontend/prod/config/config_core_compile.yml.php	/^        $pathInfo = preg_replace('\/^'.str_replace('\/', '\\\\\/', $relativeUrlRoot).'\\\/\/', '', $pathInfo);$/;"	v
+pathInfo	cache/frontend/prod/config/config_core_compile.yml.php	/^      $pathInfo = $pathArray[$sf_path_info_key];$/;"	v
+pathInfo	cache/frontend/prod/config/config_core_compile.yml.php	/^      $pathInfo = '\/';$/;"	v
+pathInfo	cache/frontend/prod/config/config_core_compile.yml.php	/^      $pathInfo = substr($pathInfo, $pos + 4);$/;"	v
+pathInfo	cache/frontend/prod/config/config_core_compile.yml.php	/^    $pathInfo = $this->getPathInfoArray();$/;"	v
+pathInfo	cache/frontend/prod/config/config_core_compile.yml.php	/^    $pathInfo = '';$/;"	v
+pathInfoArray	cache/frontend/prod/config/config_core_compile.yml.php	/^    $pathInfoArray          = null,$/;"	v
+persist	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setFlash($name, $value, $persist = true)$/;"	v
+pointer	web/sfProtoculousPlugin/js/dragdrop.js	/^    var pointer = [Event.pointerX(event), Event.pointerY(event)];$/;"	v
+popEntry	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function popEntry()$/;"	f
+pos	cache/frontend/prod/config/config_core_compile.yml.php	/^        if (false !== $pos = strpos($url, '?'))$/;"	v
+pos	cache/frontend/prod/config/config_core_compile.yml.php	/^        if (isset($_SERVER['SERVER_SOFTWARE']) && false !== stripos($_SERVER['SERVER_SOFTWARE'], 'iis') && $pos = stripos($pathInfo, '.php'))$/;"	v
+position	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function addJavascript($file, $position = '', $options = array())$/;"	v
+position	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function addStylesheet($file, $position = '', $options = array())$/;"	v
+positions	cache/frontend/prod/config/config_core_compile.yml.php	/^    $positions   = array('first', '', 'last'),$/;"	v
+postExecute	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function postExecute()$/;"	f
+postParameters	cache/frontend/prod/config/config_core_compile.yml.php	/^    $postParameters         = null,$/;"	v
+preExecute	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function preExecute()$/;"	f
+preRenderCheck	cache/frontend/prod/config/config_core_compile.yml.php	/^  protected function preRenderCheck()$/;"	f
+preferredCultures	cache/frontend/prod/config/config_core_compile.yml.php	/^    $preferredCultures = $this->getLanguages();$/;"	v
+preferredCultures	cache/frontend/prod/config/config_core_compile.yml.php	/^    $preferredCultures = array_values(array_intersect($preferredCultures, $cultures));$/;"	v
+prefix	cache/frontend/prod/config/config_core_compile.yml.php	/^      $prefix = is_null($prefix) ? $scriptName : $prefix.'\/'.basename($scriptName);$/;"	v
+prefix	cache/frontend/prod/config/config_core_compile.yml.php	/^      $prefix = strtoupper($prefix).'_';$/;"	v
+prefix	cache/frontend/prod/config/config_core_compile.yml.php	/^    $prefix = $this->getRelativeUrlRoot();$/;"	v
+prefix	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getHttpHeader($name, $prefix = 'http')$/;"	v
+prefix_name	cache/frontend/prod/config/config_core_compile.yml.php	/^        $prefix_name = preg_replace('#\/[^\/]+$#', '', $script_name);$/;"	v
+prependRoute	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function prependRoute($name, $route)$/;"	f
+presentation	cache/frontend/prod/config/config_core_compile.yml.php	/^        $presentation =& $actionEntry->getPresentation();$/;"	v
+presentation	cache/frontend/prod/config/config_core_compile.yml.php	/^    $presentation   = null;$/;"	v
+priority	cache/frontend/prod/config/config_core_compile.yml.php	/^    $priority = isset($event['priority']) ? $event['priority'] : self::INFO;$/;"	v
+priority	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function log($message, $priority = self::INFO)$/;"	v
+priority	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function logMessage($message, $priority = 'info')$/;"	v
+processForm	apps/frontend/modules/edit/actions/actions.class.php	/^  protected function processForm(sfWebRequest $request, sfForm $form)$/;"	f
+processForm	apps/frontend/modules/view/actions/actions.class.php	/^  protected function processForm(sfWebRequest $request, sfForm $form)$/;"	f
+processed	cache/frontend/prod/config/config_core_compile.yml.php	/^    $processed  = false,$/;"	v
+protocol	cache/frontend/prod/config/config_core_compile.yml.php	/^      $protocol = 'http';$/;"	v
+protocol	cache/frontend/prod/config/config_core_compile.yml.php	/^      $protocol = 'https';$/;"	v
+q	cache/frontend/prod/config/config_core_compile.yml.php	/^        $q     = (float) trim(substr($value, $pos + 3));$/;"	v
+q	cache/frontend/prod/config/config_core_compile.yml.php	/^        $q = 1;$/;"	v
+queryString	cache/frontend/prod/config/config_core_compile.yml.php	/^      $queryString = substr($url, $pos + 1);$/;"	v
+queryString	cache/frontend/prod/config/config_core_compile.yml.php	/^    $queryString = '';$/;"	v
+read	cache/frontend/prod/config/config_core_compile.yml.php	/^  abstract public function read($key);$/;"	f
+read	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function read($key)$/;"	f
+redirect	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function redirect($url, $delay = 0, $statusCode = 302)$/;"	f
+redirect	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function redirect($url, $statusCode = 302)$/;"	f
+redirect404	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function redirect404()$/;"	f
+redirectIf	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function redirectIf($condition, $url, $statusCode = 302)$/;"	f
+redirectUnless	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function redirectUnless($condition, $url, $statusCode = 302)$/;"	f
+regenerate	cache/frontend/prod/config/config_core_compile.yml.php	/^  abstract public function regenerate($destroy = false);$/;"	f
+regenerate	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function regenerate($destroy = false)$/;"	f
+register	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function register($filter)$/;"	f
+register	cache/frontend/prod/config/config_core_compile.yml.php	/^  static public function register()$/;"	f
+relativeUrlRoot	cache/frontend/prod/config/config_core_compile.yml.php	/^    $relativeUrlRoot        = null,$/;"	v
+reloadClasses	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function reloadClasses($force = false)$/;"	f
+remove	cache/frontend/prod/config/config_core_compile.yml.php	/^  abstract public function remove($key);$/;"	f
+remove	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function remove($key)$/;"	f
+remove	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function remove($name, $default = null, $ns = null)$/;"	f
+removeJavascript	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function removeJavascript($file)$/;"	f
+removeNamespace	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function & removeNamespace($ns = null)$/;"	f
+removeStylesheet	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function removeStylesheet($file)$/;"	f
+render	cache/frontend/prod/config/config_core_compile.yml.php	/^  abstract function render();$/;"	f
+render	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function render()$/;"	f
+renderComponent	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function renderComponent($moduleName, $componentName, $vars = null)$/;"	f
+renderFile	cache/frontend/prod/config/config_core_compile.yml.php	/^  protected function renderFile($_sfFile)$/;"	f
+renderMode	cache/frontend/prod/config/config_core_compile.yml.php	/^        $renderMode = $this->getRenderMode();$/;"	v
+renderMode	cache/frontend/prod/config/config_core_compile.yml.php	/^    $renderMode        = sfView::RENDER_CLIENT;$/;"	v
+renderPartial	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function renderPartial($templateName, $vars = null)$/;"	f
+renderText	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function renderText($text)$/;"	f
+replace	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function addHttpMeta($key, $value, $replace = true)$/;"	v
+replace	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function addMeta($key, $value, $replace = true, $escape = true)$/;"	v
+replace	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setHttpHeader($name, $value, $replace = true)$/;"	v
+request	cache/frontend/prod/config/config_core_compile.yml.php	/^            $request    = $this->context->getRequest();$/;"	v
+request	cache/frontend/prod/config/config_core_compile.yml.php	/^    $request                = null,$/;"	v
+request	cache/frontend/prod/config/config_core_compile.yml.php	/^    $request = $context->getRequest();$/;"	v
+requestParameterHolder	cache/frontend/prod/config/config_core_compile.yml.php	/^    $requestParameterHolder = null;$/;"	v
+requestParameters	cache/frontend/prod/config/config_core_compile.yml.php	/^    $requestParameters      = null,$/;"	v
+response	cache/frontend/prod/config/config_core_compile.yml.php	/^        $response = $this->context->getResponse();$/;"	v
+response	cache/frontend/prod/config/config_core_compile.yml.php	/^    $response               = null,$/;"	v
+response	cache/frontend/prod/config/modules_view_config_view.yml.php	/^$response = $this->context->getResponse();$/;"	v
+ret	cache/frontend/prod/config/config_core_compile.yml.php	/^        $ret = $this->renderFile($this->getDecoratorDirectory().'\/'.$this->getDecoratorTemplate());$/;"	v
+retval	cache/frontend/prod/config/config_core_compile.yml.php	/^      $retval = $_SESSION[$key];$/;"	v
+retval	cache/frontend/prod/config/config_core_compile.yml.php	/^      $retval = $this->parameters[$ns][$name];$/;"	v
+retval	cache/frontend/prod/config/config_core_compile.yml.php	/^      $retval = $this->stack[$count - 1];$/;"	v
+retval	cache/frontend/prod/config/config_core_compile.yml.php	/^      $retval = $this->stack[$index];$/;"	v
+retval	cache/frontend/prod/config/config_core_compile.yml.php	/^      $retval = $this->stack[0];$/;"	v
+retval	cache/frontend/prod/config/config_core_compile.yml.php	/^      $retval = get_magic_quotes_gpc() ? sfToolkit::stripslashesDeep($_COOKIE[$name]) : $_COOKIE[$name];$/;"	v
+retval	cache/frontend/prod/config/config_core_compile.yml.php	/^      $retval = sfToolkit::removeArrayValueForPath($this->parameters[$ns], $name, $default);$/;"	v
+retval	cache/frontend/prod/config/config_core_compile.yml.php	/^      $retval =& $this->parameters[$ns];$/;"	v
+retval	cache/frontend/prod/config/config_core_compile.yml.php	/^    $retval = $default;$/;"	v
+retval	cache/frontend/prod/config/config_core_compile.yml.php	/^    $retval = $defaultValue;$/;"	v
+retval	cache/frontend/prod/config/config_core_compile.yml.php	/^    $retval = null;$/;"	v
+route	cache/frontend/prod/config/config_core_compile.yml.php	/^            if (false === $route = $this->getRouteThatMatchesParameters($params, $this->options['context']))$/;"	v
+route	cache/frontend/prod/config/config_core_compile.yml.php	/^        $route = $parameters['sf_route'];$/;"	v
+route	cache/frontend/prod/config/config_core_compile.yml.php	/^      $route = $givenUrl;$/;"	v
+route	cache/frontend/prod/config/config_core_compile.yml.php	/^      $route = $this->routes[$name];$/;"	v
+route	cache/frontend/prod/config/config_core_compile.yml.php	/^      $route = substr($url, 1);$/;"	v
+route	cache/frontend/prod/config/config_core_compile.yml.php	/^    $route = $this->routes[$info['name']];$/;"	v
+route	cache/frontend/prod/config/config_core_compile.yml.php	/^    $route = '';$/;"	v
+routes	cache/frontend/prod/config/config_core_compile.yml.php	/^    $routes             = array(),$/;"	v
+routes	cache/frontend/prod/config/config_core_compile.yml.php	/^    $routes = $route instanceof sfRouteCollection ? $route : array($name => $route);$/;"	v
+routes	cache/frontend/prod/config/config_core_compile.yml.php	/^    $routes = $this->routes;$/;"	v
+routes	cache/frontend/prod/config/config_core_compile.yml.php	/^    if (!is_null($this->cache) && $routes = $this->cache->get('symfony.routing.configuration'))$/;"	v
+safe	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setVar($name, $value, $safe = false)$/;"	v
+scriptName	cache/frontend/prod/config/config_core_compile.yml.php	/^      $scriptName = $this->getScriptName();$/;"	v
+script_name	cache/frontend/prod/config/config_core_compile.yml.php	/^        $script_name = $this->getScriptName();$/;"	v
+secure	cache/frontend/prod/config/config_core_compile.yml.php	/^    $secure   = $this->options['session_cookie_secure'];$/;"	v
+security	cache/frontend/prod/config/config_core_compile.yml.php	/^    $security = array();$/;"	v
+send	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function send()$/;"	f
+sendContent	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function sendContent()$/;"	f
+sendEmail	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function sendEmail($module, $action)$/;"	f
+sendHttpHeaders	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function sendHttpHeaders()$/;"	f
+serialize	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function serialize()$/;"	f
+sessionId	cache/frontend/prod/config/config_core_compile.yml.php	/^    if (!(boolean) ini_get('session.use_cookies') && $sessionId = $this->options['session_id'])$/;"	v
+sessionIdRegenerated	cache/frontend/prod/config/config_core_compile.yml.php	/^    $sessionIdRegenerated = false,$/;"	v
+sessionName	cache/frontend/prod/config/config_core_compile.yml.php	/^        $sessionName = $this->options['session_name'];$/;"	v
+sessionStarted	cache/frontend/prod/config/config_core_compile.yml.php	/^    $sessionStarted       = false;$/;"	v
+set	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function set($name, $value, $ns = null)$/;"	f
+setAttribute	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setAttribute($name, $value)$/;"	f
+setAttribute	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setAttribute($name, $value, $ns = null)$/;"	f
+setByRef	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setByRef($name, & $value, $ns = null)$/;"	f
+setClassPath	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setClassPath($class, $path)$/;"	f
+setComponentSlot	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setComponentSlot($attributeName, $moduleName, $componentName)$/;"	f
+setContent	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setContent($content)$/;"	f
+setContentType	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setContentType($value)$/;"	f
+setCookie	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setCookie($name, $value, $expire = null, $path = '\/', $domain = '', $secure = false, $httpOnly = false)$/;"	f
+setCulture	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setCulture($culture)$/;"	f
+setDatabase	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setDatabase($name, sfDatabase $database)$/;"	f
+setDecorator	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setDecorator($boolean)$/;"	f
+setDecoratorDirectory	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setDecoratorDirectory($directory)$/;"	f
+setDecoratorTemplate	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setDecoratorTemplate($template)$/;"	f
+setDefaultNamespace	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setDefaultNamespace($namespace, $move = true)$/;"	f
+setDefaultParameter	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setDefaultParameter($key, $value)$/;"	f
+setDefaultParameters	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setDefaultParameters($parameters)$/;"	f
+setDirectory	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setDirectory($directory)$/;"	f
+setEscaping	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setEscaping($escaping)$/;"	f
+setEscapingMethod	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setEscapingMethod($method)$/;"	f
+setEventDispatcher	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setEventDispatcher(sfEventDispatcher $dispatcher)$/;"	f
+setExtension	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setExtension($extension)$/;"	f
+setFlash	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setFlash($name, $value, $persist = true)$/;"	f
+setFormat	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setFormat($format, $mimeTypes)$/;"	f
+setHeaderOnly	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setHeaderOnly($value = true)$/;"	f
+setHttpHeader	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setHttpHeader($name, $value, $replace = true)$/;"	f
+setLayout	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setLayout($name)$/;"	f
+setLogLevel	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setLogLevel($level)$/;"	f
+setMethod	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setMethod($method)$/;"	f
+setParameter	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setParameter($name, $value)$/;"	f
+setPresentation	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setPresentation(&$presentation)$/;"	f
+setProcessed	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setProcessed($processed)$/;"	f
+setRelativeUrlRoot	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setRelativeUrlRoot($value)$/;"	f
+setRenderMode	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setRenderMode($mode)$/;"	f
+setRequestFormat	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setRequestFormat($format)$/;"	f
+setReturnValue	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setReturnValue($value)$/;"	f
+setRoutes	cache/frontend/prod/config/config_core_compile.yml.php	/^  abstract public function setRoutes($routes);$/;"	f
+setRoutes	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setRoutes($routes)$/;"	f
+setSecurityConfiguration	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setSecurityConfiguration($security)$/;"	f
+setSlot	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setSlot($name, $content)$/;"	f
+setStatusCode	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setStatusCode($code, $name = null)$/;"	f
+setTableDefinition	lib/model/doctrine/base/BaseUrablogCategory.class.php	/^  public function setTableDefinition()$/;"	f
+setTableDefinition	lib/model/doctrine/base/BaseUrablogField.class.php	/^  public function setTableDefinition()$/;"	f
+setTableDefinition	lib/model/doctrine/base/BaseUrablogUser.class.php	/^  public function setTableDefinition()$/;"	f
+setTemplate	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setTemplate($name, $module = null)$/;"	f
+setTemplate	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setTemplate($template)$/;"	f
+setTitle	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setTitle($title, $escape = true)$/;"	f
+setUp	lib/model/doctrine/base/BaseUrablogCategory.class.php	/^  public function setUp()$/;"	f
+setUp	lib/model/doctrine/base/BaseUrablogField.class.php	/^  public function setUp()$/;"	f
+setUp	lib/model/doctrine/base/BaseUrablogUser.class.php	/^  public function setUp()$/;"	f
+setVar	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setVar($name, $value, $safe = false)$/;"	f
+setViewClass	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function setViewClass($class)$/;"	f
+setup	config/ProjectConfiguration.class.php	/^  public function setup()$/;"	f
+setup	lib/filter/doctrine/BaseFormFilterDoctrine.class.php	/^  public function setup()$/;"	f
+setup	lib/filter/doctrine/base/BaseUrablogCategoryFormFilter.class.php	/^  public function setup()$/;"	f
+setup	lib/filter/doctrine/base/BaseUrablogFieldFormFilter.class.php	/^  public function setup()$/;"	f
+setup	lib/filter/doctrine/base/BaseUrablogUserFormFilter.class.php	/^  public function setup()$/;"	f
+setup	lib/form/doctrine/BaseFormDoctrine.class.php	/^  public function setup()$/;"	f
+setup	lib/form/doctrine/base/BaseUrablogCategoryForm.class.php	/^  public function setup()$/;"	f
+setup	lib/form/doctrine/base/BaseUrablogFieldForm.class.php	/^  public function setup()$/;"	f
+setup	lib/form/doctrine/base/BaseUrablogUserForm.class.php	/^  public function setup()$/;"	f
+sfAction	cache/frontend/prod/config/config_core_compile.yml.php	/^abstract class sfAction extends sfComponent$/;"	c
+sfActionStack	cache/frontend/prod/config/config_core_compile.yml.php	/^class sfActionStack$/;"	c
+sfActionStackEntry	cache/frontend/prod/config/config_core_compile.yml.php	/^class sfActionStackEntry$/;"	c
+sfActions	cache/frontend/prod/config/config_core_compile.yml.php	/^abstract class sfActions extends sfAction$/;"	c
+sfAutoload	cache/frontend/prod/config/config_core_compile.yml.php	/^class sfAutoload$/;"	c
+sfCommonFilter	cache/frontend/prod/config/config_core_compile.yml.php	/^class sfCommonFilter extends sfFilter$/;"	c
+sfComponent	cache/frontend/prod/config/config_core_compile.yml.php	/^abstract class sfComponent$/;"	c
+sfController	cache/frontend/prod/config/config_core_compile.yml.php	/^abstract class sfController$/;"	c
+sfDatabaseManager	cache/frontend/prod/config/config_core_compile.yml.php	/^class sfDatabaseManager$/;"	c
+sfEvent	cache/frontend/prod/config/config_core_compile.yml.php	/^class sfEvent implements ArrayAccess$/;"	c
+sfExecutionFilter	cache/frontend/prod/config/config_core_compile.yml.php	/^class sfExecutionFilter extends sfFilter$/;"	c
+sfFilter	cache/frontend/prod/config/config_core_compile.yml.php	/^abstract class sfFilter$/;"	c
+sfFilterChain	cache/frontend/prod/config/config_core_compile.yml.php	/^class sfFilterChain$/;"	c
+sfFrontWebController	cache/frontend/prod/config/config_core_compile.yml.php	/^class sfFrontWebController extends sfWebController$/;"	c
+sfLoader	cache/frontend/prod/config/config_core_compile.yml.php	/^class sfLoader$/;"	c
+sfLogger	cache/frontend/prod/config/config_core_compile.yml.php	/^abstract class sfLogger$/;"	c
+sfNamespacedParameterHolder	cache/frontend/prod/config/config_core_compile.yml.php	/^class sfNamespacedParameterHolder extends sfParameterHolder$/;"	c
+sfNoLogger	cache/frontend/prod/config/config_core_compile.yml.php	/^class sfNoLogger extends sfLogger$/;"	c
+sfOutputEscaperSafe	cache/frontend/prod/config/config_core_compile.yml.php	/^class sfOutputEscaperSafe$/;"	c
+sfPHPView	cache/frontend/prod/config/config_core_compile.yml.php	/^class sfPHPView extends sfView$/;"	c
+sfPatternRouting	cache/frontend/prod/config/config_core_compile.yml.php	/^class sfPatternRouting extends sfRouting$/;"	c
+sfRenderingFilter	cache/frontend/prod/config/config_core_compile.yml.php	/^class sfRenderingFilter extends sfFilter$/;"	c
+sfRequest	cache/frontend/prod/config/config_core_compile.yml.php	/^abstract class sfRequest$/;"	c
+sfResponse	cache/frontend/prod/config/config_core_compile.yml.php	/^abstract class sfResponse implements Serializable$/;"	c
+sfRouting	cache/frontend/prod/config/config_core_compile.yml.php	/^abstract class sfRouting$/;"	c
+sfSessionStorage	cache/frontend/prod/config/config_core_compile.yml.php	/^class sfSessionStorage extends sfStorage$/;"	c
+sfStorage	cache/frontend/prod/config/config_core_compile.yml.php	/^abstract class sfStorage$/;"	c
+sfUser	cache/frontend/prod/config/config_core_compile.yml.php	/^class sfUser$/;"	c
+sfView	cache/frontend/prod/config/config_core_compile.yml.php	/^abstract class sfView$/;"	c
+sfViewParameterHolder	cache/frontend/prod/config/config_core_compile.yml.php	/^class sfViewParameterHolder extends sfParameterHolder$/;"	c
+sfWebController	cache/frontend/prod/config/config_core_compile.yml.php	/^abstract class sfWebController extends sfController$/;"	c
+sfWebRequest	cache/frontend/prod/config/config_core_compile.yml.php	/^class sfWebRequest extends sfRequest$/;"	c
+sfWebResponse	cache/frontend/prod/config/config_core_compile.yml.php	/^class sfWebResponse extends sfResponse$/;"	c
+sf_path_info_key	cache/frontend/prod/config/config_core_compile.yml.php	/^        $sf_path_info_key = $this->options['path_info_key'];$/;"	v
+shutdown	cache/frontend/prod/config/config_core_compile.yml.php	/^  abstract public function shutdown();$/;"	f
+shutdown	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function shutdown()$/;"	f
+slots	cache/frontend/prod/config/config_core_compile.yml.php	/^    $slots       = array();$/;"	v
+splitHttpAcceptHeader	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function splitHttpAcceptHeader($header)$/;"	f
+stack	cache/frontend/prod/config/config_core_compile.yml.php	/^    $stack = array();$/;"	v
+standardPort	cache/frontend/prod/config/config_core_compile.yml.php	/^      $standardPort = '443';$/;"	v
+standardPort	cache/frontend/prod/config/config_core_compile.yml.php	/^      $standardPort = '80';$/;"	v
+status	cache/frontend/prod/config/config_core_compile.yml.php	/^        $status = $this->options['http_protocol'].' '.$this->statusCode.' '.$this->statusText;$/;"	v
+statusCode	cache/frontend/prod/config/config_core_compile.yml.php	/^    $statusCode  = 200,$/;"	v
+statusCode	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function redirect($url, $statusCode = 302)$/;"	v
+statusCode	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function redirectIf($condition, $url, $statusCode = 302)$/;"	v
+statusCode	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function redirectUnless($condition, $url, $statusCode = 302)$/;"	v
+statusText	cache/frontend/prod/config/config_core_compile.yml.php	/^    $statusText  = 'OK',$/;"	v
+statusTexts	cache/frontend/prod/config/config_core_compile.yml.php	/^  static protected $statusTexts = array($/;"	v
+storage	cache/frontend/prod/config/config_core_compile.yml.php	/^    $storage         = null,$/;"	v
+stylesheets	cache/frontend/prod/config/config_core_compile.yml.php	/^      $stylesheets = array();$/;"	v
+stylesheets	cache/frontend/prod/config/config_core_compile.yml.php	/^    $stylesheets = array(),$/;"	v
+subclass	web/sfProtoculousPlugin/js/prototype.js	/^      subclass.prototype = parent.prototype;$/;"	c
+subject	cache/frontend/prod/config/config_core_compile.yml.php	/^    $subject    = null,$/;"	v
+subject	cache/frontend/prod/config/config_core_compile.yml.php	/^    $subject  = $event->getSubject();$/;"	v
+subject	cache/frontend/prod/config/config_core_compile.yml.php	/^    $subject  = is_object($subject) ? get_class($subject) : (is_string($subject) ? $subject : 'main');$/;"	v
+template	cache/frontend/prod/config/config_core_compile.yml.php	/^    $template           = null,$/;"	v
+templateName	cache/frontend/prod/config/modules_view_config_view.yml.php	/^  $templateName = sfConfig::get('symfony.view.'.$this->moduleName.'_'.$this->actionName.'_template', $this->actionName);$/;"	v
+timer	cache/frontend/prod/config/config_core_compile.yml.php	/^      $timer = sfTimerManager::getTimer(sprintf('Action "%s\/%s"', $actionInstance->getModuleName(), $actionInstance->getActionName()));$/;"	v
+timer	cache/frontend/prod/config/config_core_compile.yml.php	/^      $timer = sfTimerManager::getTimer(sprintf('View "%s" for "%s\/%s"', $viewName, $actionInstance->getModuleName(), $actionInstance->getActionName()));$/;"	v
+timestampable0	lib/model/doctrine/base/BaseUrablogCategory.class.php	/^    $timestampable0 = new Doctrine_Template_Timestampable();$/;"	v
+timestampable0	lib/model/doctrine/base/BaseUrablogField.class.php	/^    $timestampable0 = new Doctrine_Template_Timestampable();$/;"	v
+timestampable0	lib/model/doctrine/base/BaseUrablogUser.class.php	/^    $timestampable0 = new Doctrine_Template_Timestampable();$/;"	v
+tmp	cache/frontend/prod/config/config_core_compile.yml.php	/^        $tmp = explode('=', $tmp);$/;"	v
+toArray	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function toArray()$/;"	f
+traces	test/bootstrap/functional.php	/^  $traces = debug_backtrace();$/;"	v
+triggerEl	web/sf/calendar/calendar-setup.js	/^	triggerEl["on" + params.eventName] = function() {$/;"	f
+type	cache/frontend/prod/config/config_core_compile.yml.php	/^    $type = strtolower($type);$/;"	v
+type	cache/frontend/prod/config/config_core_compile.yml.php	/^  static public function getDate($timestamp, $type = 'rfc1123')$/;"	v
+unregister	cache/frontend/prod/config/config_core_compile.yml.php	/^  static public function unregister()$/;"	f
+unserialize	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function unserialize($serialized)$/;"	f
+updateCurrentInternalUri	cache/frontend/prod/config/config_core_compile.yml.php	/^  protected function updateCurrentInternalUri($name, array $parameters)$/;"	f
+urablog_category	data/sql/schema.sql	/^CREATE TABLE urablog_category (id BIGINT AUTO_INCREMENT, name VARCHAR(255) NOT NULL UNIQUE, created_at DATETIME, updated_at DATETIME, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 ENGINE = INNODB;$/;"	t
+urablog_category.created_at	data/sql/schema.sql	/^CREATE TABLE urablog_category (id BIGINT AUTO_INCREMENT, name VARCHAR(255) NOT NULL UNIQUE, created_at DATETIME, updated_at DATETIME, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 ENGINE = INNODB;$/;"	F
+urablog_category.id	data/sql/schema.sql	/^CREATE TABLE urablog_category (id BIGINT AUTO_INCREMENT, name VARCHAR(255) NOT NULL UNIQUE, created_at DATETIME, updated_at DATETIME, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 ENGINE = INNODB;$/;"	F
+urablog_category.name	data/sql/schema.sql	/^CREATE TABLE urablog_category (id BIGINT AUTO_INCREMENT, name VARCHAR(255) NOT NULL UNIQUE, created_at DATETIME, updated_at DATETIME, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 ENGINE = INNODB;$/;"	F
+urablog_category.updated_at	data/sql/schema.sql	/^CREATE TABLE urablog_category (id BIGINT AUTO_INCREMENT, name VARCHAR(255) NOT NULL UNIQUE, created_at DATETIME, updated_at DATETIME, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 ENGINE = INNODB;$/;"	F
+urablog_field	apps/frontend/modules/edit/actions/actions.class.php	/^      $urablog_field = $form->save();$/;"	v
+urablog_field	apps/frontend/modules/view/actions/actions.class.php	/^      $urablog_field = $form->save();$/;"	v
+urablog_field	data/sql/schema.sql	/^CREATE TABLE urablog_field (id BIGINT AUTO_INCREMENT, category_id BIGINT, user_id BIGINT NOT NULL, title VARCHAR(255) NOT NULL, article TEXT NOT NULL, is_active TINYINT(1) DEFAULT '1' NOT NULL, expires_at DATETIME, created_at DATETIME, updated_at DATETIME, INDEX category_id_idx (category_id), INDEX user_id_idx (user_id), PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 ENGINE = INNODB;$/;"	t
+urablog_field.article	data/sql/schema.sql	/^CREATE TABLE urablog_field (id BIGINT AUTO_INCREMENT, category_id BIGINT, user_id BIGINT NOT NULL, title VARCHAR(255) NOT NULL, article TEXT NOT NULL, is_active TINYINT(1) DEFAULT '1' NOT NULL, expires_at DATETIME, created_at DATETIME, updated_at DATETIME, INDEX category_id_idx (category_id), INDEX user_id_idx (user_id), PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 ENGINE = INNODB;$/;"	F
+urablog_field.category_id	data/sql/schema.sql	/^CREATE TABLE urablog_field (id BIGINT AUTO_INCREMENT, category_id BIGINT, user_id BIGINT NOT NULL, title VARCHAR(255) NOT NULL, article TEXT NOT NULL, is_active TINYINT(1) DEFAULT '1' NOT NULL, expires_at DATETIME, created_at DATETIME, updated_at DATETIME, INDEX category_id_idx (category_id), INDEX user_id_idx (user_id), PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 ENGINE = INNODB;$/;"	F
+urablog_field.created_at	data/sql/schema.sql	/^CREATE TABLE urablog_field (id BIGINT AUTO_INCREMENT, category_id BIGINT, user_id BIGINT NOT NULL, title VARCHAR(255) NOT NULL, article TEXT NOT NULL, is_active TINYINT(1) DEFAULT '1' NOT NULL, expires_at DATETIME, created_at DATETIME, updated_at DATETIME, INDEX category_id_idx (category_id), INDEX user_id_idx (user_id), PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 ENGINE = INNODB;$/;"	F
+urablog_field.expires_at	data/sql/schema.sql	/^CREATE TABLE urablog_field (id BIGINT AUTO_INCREMENT, category_id BIGINT, user_id BIGINT NOT NULL, title VARCHAR(255) NOT NULL, article TEXT NOT NULL, is_active TINYINT(1) DEFAULT '1' NOT NULL, expires_at DATETIME, created_at DATETIME, updated_at DATETIME, INDEX category_id_idx (category_id), INDEX user_id_idx (user_id), PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 ENGINE = INNODB;$/;"	F
+urablog_field.id	data/sql/schema.sql	/^CREATE TABLE urablog_field (id BIGINT AUTO_INCREMENT, category_id BIGINT, user_id BIGINT NOT NULL, title VARCHAR(255) NOT NULL, article TEXT NOT NULL, is_active TINYINT(1) DEFAULT '1' NOT NULL, expires_at DATETIME, created_at DATETIME, updated_at DATETIME, INDEX category_id_idx (category_id), INDEX user_id_idx (user_id), PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 ENGINE = INNODB;$/;"	F
+urablog_field.is_active	data/sql/schema.sql	/^CREATE TABLE urablog_field (id BIGINT AUTO_INCREMENT, category_id BIGINT, user_id BIGINT NOT NULL, title VARCHAR(255) NOT NULL, article TEXT NOT NULL, is_active TINYINT(1) DEFAULT '1' NOT NULL, expires_at DATETIME, created_at DATETIME, updated_at DATETIME, INDEX category_id_idx (category_id), INDEX user_id_idx (user_id), PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 ENGINE = INNODB;$/;"	F
+urablog_field.title	data/sql/schema.sql	/^CREATE TABLE urablog_field (id BIGINT AUTO_INCREMENT, category_id BIGINT, user_id BIGINT NOT NULL, title VARCHAR(255) NOT NULL, article TEXT NOT NULL, is_active TINYINT(1) DEFAULT '1' NOT NULL, expires_at DATETIME, created_at DATETIME, updated_at DATETIME, INDEX category_id_idx (category_id), INDEX user_id_idx (user_id), PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 ENGINE = INNODB;$/;"	F
+urablog_field.updated_at	data/sql/schema.sql	/^CREATE TABLE urablog_field (id BIGINT AUTO_INCREMENT, category_id BIGINT, user_id BIGINT NOT NULL, title VARCHAR(255) NOT NULL, article TEXT NOT NULL, is_active TINYINT(1) DEFAULT '1' NOT NULL, expires_at DATETIME, created_at DATETIME, updated_at DATETIME, INDEX category_id_idx (category_id), INDEX user_id_idx (user_id), PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 ENGINE = INNODB;$/;"	F
+urablog_field.user_id	data/sql/schema.sql	/^CREATE TABLE urablog_field (id BIGINT AUTO_INCREMENT, category_id BIGINT, user_id BIGINT NOT NULL, title VARCHAR(255) NOT NULL, article TEXT NOT NULL, is_active TINYINT(1) DEFAULT '1' NOT NULL, expires_at DATETIME, created_at DATETIME, updated_at DATETIME, INDEX category_id_idx (category_id), INDEX user_id_idx (user_id), PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 ENGINE = INNODB;$/;"	F
+urablog_user	data/sql/schema.sql	/^CREATE TABLE urablog_user (id BIGINT AUTO_INCREMENT, email VARCHAR(255) NOT NULL UNIQUE, user_name VARCHAR(255) NOT NULL, passwd VARCHAR(255) NOT NULL, is_active TINYINT(1) DEFAULT '1' NOT NULL, created_at DATETIME, updated_at DATETIME, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 ENGINE = INNODB;$/;"	t
+urablog_user.created_at	data/sql/schema.sql	/^CREATE TABLE urablog_user (id BIGINT AUTO_INCREMENT, email VARCHAR(255) NOT NULL UNIQUE, user_name VARCHAR(255) NOT NULL, passwd VARCHAR(255) NOT NULL, is_active TINYINT(1) DEFAULT '1' NOT NULL, created_at DATETIME, updated_at DATETIME, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 ENGINE = INNODB;$/;"	F
+urablog_user.email	data/sql/schema.sql	/^CREATE TABLE urablog_user (id BIGINT AUTO_INCREMENT, email VARCHAR(255) NOT NULL UNIQUE, user_name VARCHAR(255) NOT NULL, passwd VARCHAR(255) NOT NULL, is_active TINYINT(1) DEFAULT '1' NOT NULL, created_at DATETIME, updated_at DATETIME, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 ENGINE = INNODB;$/;"	F
+urablog_user.id	data/sql/schema.sql	/^CREATE TABLE urablog_user (id BIGINT AUTO_INCREMENT, email VARCHAR(255) NOT NULL UNIQUE, user_name VARCHAR(255) NOT NULL, passwd VARCHAR(255) NOT NULL, is_active TINYINT(1) DEFAULT '1' NOT NULL, created_at DATETIME, updated_at DATETIME, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 ENGINE = INNODB;$/;"	F
+urablog_user.is_active	data/sql/schema.sql	/^CREATE TABLE urablog_user (id BIGINT AUTO_INCREMENT, email VARCHAR(255) NOT NULL UNIQUE, user_name VARCHAR(255) NOT NULL, passwd VARCHAR(255) NOT NULL, is_active TINYINT(1) DEFAULT '1' NOT NULL, created_at DATETIME, updated_at DATETIME, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 ENGINE = INNODB;$/;"	F
+urablog_user.passwd	data/sql/schema.sql	/^CREATE TABLE urablog_user (id BIGINT AUTO_INCREMENT, email VARCHAR(255) NOT NULL UNIQUE, user_name VARCHAR(255) NOT NULL, passwd VARCHAR(255) NOT NULL, is_active TINYINT(1) DEFAULT '1' NOT NULL, created_at DATETIME, updated_at DATETIME, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 ENGINE = INNODB;$/;"	F
+urablog_user.updated_at	data/sql/schema.sql	/^CREATE TABLE urablog_user (id BIGINT AUTO_INCREMENT, email VARCHAR(255) NOT NULL UNIQUE, user_name VARCHAR(255) NOT NULL, passwd VARCHAR(255) NOT NULL, is_active TINYINT(1) DEFAULT '1' NOT NULL, created_at DATETIME, updated_at DATETIME, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 ENGINE = INNODB;$/;"	F
+urablog_user.user_name	data/sql/schema.sql	/^CREATE TABLE urablog_user (id BIGINT AUTO_INCREMENT, email VARCHAR(255) NOT NULL UNIQUE, user_name VARCHAR(255) NOT NULL, passwd VARCHAR(255) NOT NULL, is_active TINYINT(1) DEFAULT '1' NOT NULL, created_at DATETIME, updated_at DATETIME, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 ENGINE = INNODB;$/;"	F
+uri	cache/frontend/prod/config/config_core_compile.yml.php	/^      $uri = $this->context->getRouting()->getCurrentInternalUri();$/;"	v
+uri	cache/frontend/prod/config/config_core_compile.yml.php	/^      $uri = isset($pathArray['HTTP_X_REWRITE_URL']) ? $pathArray['HTTP_X_REWRITE_URL'] : '';$/;"	v
+uri	cache/frontend/prod/config/config_core_compile.yml.php	/^      $uri = isset($pathArray['REQUEST_URI']) ? $pathArray['REQUEST_URI'] : '';$/;"	v
+uri	cache/frontend/prod/config/config_core_compile.yml.php	/^    $uri = $this->context->getRouting()->getCurrentInternalUri();$/;"	v
+uri_prefix	cache/frontend/prod/config/config_core_compile.yml.php	/^        $uri_prefix = $this->isAbsUri() ? $this->getUriPrefix() : '';$/;"	v
+url	cache/frontend/prod/config/config_core_compile.yml.php	/^        $url = $this->context->getRouting()->generate($route, $parameters, $absolute);$/;"	v
+url	cache/frontend/prod/config/config_core_compile.yml.php	/^        $url = $this->options['context']['prefix'].$url;$/;"	v
+url	cache/frontend/prod/config/config_core_compile.yml.php	/^        $url = preg_replace('#\/+#', '\/', $url);$/;"	v
+url	cache/frontend/prod/config/config_core_compile.yml.php	/^        $url = preg_replace('#https?\\:\/\/[^\/]+#', '$0'.$this->options['context']['prefix'], $url);$/;"	v
+url	cache/frontend/prod/config/config_core_compile.yml.php	/^      $url = '\/'.$url;$/;"	v
+url	cache/frontend/prod/config/config_core_compile.yml.php	/^      $url = '\/';$/;"	v
+url	cache/frontend/prod/config/config_core_compile.yml.php	/^      $url = 'http'.(isset($this->options['context']['is_secure']) && $this->options['context']['is_secure'] ? 's' : '').':\/\/'.$this->options['context']['host'].$url;$/;"	v
+url	cache/frontend/prod/config/config_core_compile.yml.php	/^      $url = substr($url, 0, $pos);$/;"	v
+url	cache/frontend/prod/config/config_core_compile.yml.php	/^      $url = substr($url, 1);$/;"	v
+url	cache/frontend/prod/config/config_core_compile.yml.php	/^    $url = $route->generate($params, $this->options['context'], $absolute);$/;"	v
+url	cache/frontend/prod/config/config_core_compile.yml.php	/^    $url = $this->genUrl($url, true);$/;"	v
+url	cache/frontend/prod/config/config_core_compile.yml.php	/^    $url = $this->normalizeUrl($url);$/;"	v
+validate	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function validate()$/;"	f
+validatePosition	cache/frontend/prod/config/config_core_compile.yml.php	/^  protected function validatePosition($position)$/;"	f
+value	cache/frontend/prod/config/config_core_compile.yml.php	/^        $value = trim(substr($value, 0, $pos));$/;"	v
+value	cache/frontend/prod/config/config_core_compile.yml.php	/^      $value = $default;$/;"	v
+value	cache/frontend/prod/config/config_core_compile.yml.php	/^      $value = $this->getContentType();$/;"	v
+value	cache/frontend/prod/config/config_core_compile.yml.php	/^      $value = & $this->parameters[$ns][$name];$/;"	v
+value	cache/frontend/prod/config/config_core_compile.yml.php	/^      $value = ($current ? $current.', ' : '').$value;$/;"	v
+value	cache/frontend/prod/config/config_core_compile.yml.php	/^      $value = htmlspecialchars($value, ENT_QUOTES, $this->options['charset']);$/;"	v
+value	cache/frontend/prod/config/config_core_compile.yml.php	/^      $value = sfToolkit::getArrayValueForPath($this->parameters[$ns], $name, $default);$/;"	v
+value	cache/frontend/prod/config/config_core_compile.yml.php	/^    $value      = null,$/;"	v
+value	cache/frontend/prod/config/config_core_compile.yml.php	/^    $value = null;$/;"	v
+value	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function addCacheControlHttpHeader($name, $value = null)$/;"	v
+values	cache/frontend/prod/config/config_core_compile.yml.php	/^      $values = $this->removeNamespace();$/;"	v
+values	cache/frontend/prod/config/config_core_compile.yml.php	/^    $values = array();$/;"	v
+var.hh	web/sf/calendar/calendar.js	/^	var hh = function (text, cs, navtype) {$/;"	m
+var.subclass	web/sfProtoculousPlugin/js/prototype.js	/^      var subclass = function() { };$/;"	f
+varHolder	cache/frontend/prod/config/config_core_compile.yml.php	/^    $varHolder              = null,$/;"	v
+vars	cache/frontend/prod/config/config_core_compile.yml.php	/^    $vars = !is_null($vars) ? $vars : $this->varHolder->getAll();$/;"	v
+vars	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getComponent($moduleName, $componentName, $vars = null)$/;"	v
+vars	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getPartial($templateName, $vars = null)$/;"	v
+vars	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function renderComponent($moduleName, $componentName, $vars = null)$/;"	v
+vars	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function renderPartial($templateName, $vars = null)$/;"	v
+vary	cache/frontend/prod/config/config_core_compile.yml.php	/^    $vary = $this->getHttpHeader('Vary');$/;"	v
+view	cache/frontend/prod/config/config_core_compile.yml.php	/^        $view = $controller->getView($moduleName, $actionName, $viewName);$/;"	v
+viewActions	apps/frontend/modules/view/actions/actions.class.php	/^class viewActions extends sfActions$/;"	c
+viewCache	cache/frontend/prod/config/config_core_compile.yml.php	/^      $viewCache = $this->context->getViewCacheManager();$/;"	v
+viewData	cache/frontend/prod/config/config_core_compile.yml.php	/^        $viewData = $view->render();$/;"	v
+viewName	cache/frontend/prod/config/config_core_compile.yml.php	/^      $viewName = $this->handleAction($filterChain, $actionInstance);$/;"	v
+viewName	cache/frontend/prod/config/config_core_compile.yml.php	/^    $viewName           = '',$/;"	v
+viewName	cache/frontend/prod/config/config_core_compile.yml.php	/^    $viewName = $actionInstance->execute($this->context->getRequest());$/;"	v
+viewName	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function getPresentationFor($module, $action, $viewName = null)$/;"	v
+warning	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function warning($message)$/;"	f
+write	cache/frontend/prod/config/config_core_compile.yml.php	/^  abstract public function write($key, $data);$/;"	f
+write	cache/frontend/prod/config/config_core_compile.yml.php	/^  public function write($key, $data)$/;"	f
