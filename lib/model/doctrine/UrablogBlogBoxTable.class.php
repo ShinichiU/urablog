@@ -4,5 +4,21 @@
  */
 class UrablogBlogBoxTable extends Doctrine_Table
 {
+  public function retrieveByUser($user)
+  {
 
+    $member = $this->createQuery()
+      ->select('b.*, u.id, u.user_name')
+      ->from('UrablogBlogBox b, b.UrablogUser u')
+      ->where('b.id = ?', $user)
+      ->execute();
+
+    $blog = $this->createQuery()
+      ->select('u.*, f.*, c.name')
+      ->from('UrablogUser u, u.UrablogField f, f.UrablogCategory c')
+      ->where('u.id = ?', $user)
+      ->execute();
+
+    return array($member, $blog);
+  }
 }

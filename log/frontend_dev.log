@@ -1,0 +1,1352 @@
+Jun 11 00:23:48 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 00:23:48 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 00:23:48 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 00:23:48 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 00:23:48 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 00:23:48 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 00:23:48 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 00:23:48 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 00:23:48 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u
+Jun 11 00:23:49 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 00:23:49 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 00:23:49 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 00:23:49 symfony [info] {main} Get slot "title"
+Jun 11 00:23:49 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 00:23:49 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 00:23:49 symfony [info] {sfWebDebugLogger} Configuration 3012.23 ms (10)
+Jun 11 00:23:49 symfony [info] {sfWebDebugLogger} Action "view/index" 331.42 ms (1)
+Jun 11 00:23:49 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.00 ms (1)
+Jun 11 00:23:49 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 184.25 ms (1)
+Jun 11 00:23:49 symfony [info] {sfWebResponse} Send content (79616 o)
+Jun 11 02:02:44 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 02:02:44 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 02:02:44 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 02:02:44 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 02:02:45 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 02:02:45 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 02:02:45 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 02:02:45 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 02:03:10 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 02:03:10 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 02:03:10 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 02:03:10 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 02:03:11 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 02:03:11 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 02:03:11 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 02:03:11 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 02:03:12 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u
+Jun 11 02:03:12 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 02:03:12 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 02:03:12 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 02:03:12 symfony [info] {main} Get slot "title"
+Jun 11 02:03:12 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 02:03:12 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 02:03:12 symfony [info] {sfWebDebugLogger} Configuration 19.16 ms (9)
+Jun 11 02:03:12 symfony [info] {sfWebDebugLogger} Action "view/index" 1234.79 ms (1)
+Jun 11 02:03:12 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.02 ms (1)
+Jun 11 02:03:12 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 439.99 ms (1)
+Jun 11 02:03:13 symfony [info] {sfWebResponse} Send content (79646 o)
+Jun 11 02:12:26 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 02:12:26 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 02:12:26 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 02:12:26 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 02:12:26 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 02:12:26 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 02:12:26 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 02:12:26 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 02:12:28 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u
+Jun 11 02:12:28 symfony [err] {Doctrine_Exception} Couldn't find class MemberConfig
+Jun 11 02:13:14 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 02:13:14 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 02:13:14 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 02:13:14 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 02:13:14 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 02:13:14 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 02:13:14 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 02:13:14 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 02:13:14 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u
+Jun 11 02:13:15 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 02:13:15 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 02:13:15 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 02:13:15 symfony [info] {main} Get slot "title"
+Jun 11 02:13:16 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 02:13:16 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 02:13:16 symfony [info] {sfWebDebugLogger} Configuration 10.65 ms (9)
+Jun 11 02:13:16 symfony [info] {sfWebDebugLogger} Action "view/index" 334.93 ms (1)
+Jun 11 02:13:16 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.02 ms (1)
+Jun 11 02:13:16 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 1244.19 ms (1)
+Jun 11 02:13:16 symfony [info] {sfWebResponse} Send content (79646 o)
+Jun 11 02:14:08 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 02:14:08 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 02:14:08 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 02:14:09 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 02:14:09 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 02:14:09 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 02:14:09 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 02:14:09 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 02:14:09 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u
+Jun 11 02:14:09 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 02:14:09 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 02:14:09 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 02:14:09 symfony [info] {main} Get slot "title"
+Jun 11 02:14:09 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 02:14:09 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 02:14:09 symfony [info] {sfWebDebugLogger} Configuration 6.04 ms (9)
+Jun 11 02:14:09 symfony [info] {sfWebDebugLogger} Action "view/index" 194.29 ms (1)
+Jun 11 02:14:09 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.02 ms (1)
+Jun 11 02:14:09 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 71.45 ms (1)
+Jun 11 02:14:09 symfony [info] {sfWebResponse} Send content (79642 o)
+Jun 11 02:19:55 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 02:19:55 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 02:19:55 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 02:19:55 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 02:19:55 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 02:19:55 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 02:19:55 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 02:19:55 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 02:19:58 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u
+Jun 11 02:19:58 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 02:19:59 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 02:19:59 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 02:19:59 symfony [info] {main} Get slot "title"
+Jun 11 02:19:59 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 02:19:59 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 02:19:59 symfony [info] {sfWebDebugLogger} Configuration 15.80 ms (9)
+Jun 11 02:19:59 symfony [info] {sfWebDebugLogger} Action "view/index" 2762.24 ms (1)
+Jun 11 02:19:59 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.02 ms (1)
+Jun 11 02:19:59 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 533.76 ms (1)
+Jun 11 02:19:59 symfony [info] {sfWebResponse} Send content (164154 o)
+Jun 11 02:20:42 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 02:20:42 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 02:20:42 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 02:20:42 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 02:20:42 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 02:20:42 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 02:20:42 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 02:20:42 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 02:20:43 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u
+Jun 11 02:20:43 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 02:20:43 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 02:20:43 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 02:20:43 symfony [info] {main} Get slot "title"
+Jun 11 02:20:43 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 02:20:43 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 02:20:43 symfony [info] {sfWebDebugLogger} Configuration 6.79 ms (9)
+Jun 11 02:20:43 symfony [info] {sfWebDebugLogger} Action "view/index" 487.75 ms (1)
+Jun 11 02:20:43 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.03 ms (1)
+Jun 11 02:20:43 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 255.92 ms (1)
+Jun 11 02:20:43 symfony [info] {sfWebResponse} Send content (164152 o)
+Jun 11 02:22:27 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 02:22:27 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 02:22:27 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 02:22:27 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 02:22:27 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 02:22:27 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 02:22:27 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 02:22:27 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 02:22:27 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u
+Jun 11 02:22:27 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 02:22:27 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 02:22:28 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 02:22:28 symfony [info] {main} Get slot "title"
+Jun 11 02:22:28 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 02:22:28 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 02:22:28 symfony [info] {sfWebDebugLogger} Configuration 3.20 ms (9)
+Jun 11 02:22:28 symfony [info] {sfWebDebugLogger} Action "view/index" 568.03 ms (1)
+Jun 11 02:22:28 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.00 ms (1)
+Jun 11 02:22:28 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 373.07 ms (1)
+Jun 11 02:22:28 symfony [info] {sfWebResponse} Send content (164152 o)
+Jun 11 02:22:42 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 02:22:42 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 02:22:42 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 02:22:42 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 02:22:42 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 02:22:42 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 02:22:42 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 02:22:42 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 02:22:42 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u
+Jun 11 02:22:42 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 02:22:42 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 02:22:42 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 02:22:42 symfony [info] {main} Get slot "title"
+Jun 11 02:22:42 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 02:22:42 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 02:22:42 symfony [info] {sfWebDebugLogger} Configuration 5.16 ms (9)
+Jun 11 02:22:42 symfony [info] {sfWebDebugLogger} Action "view/index" 82.30 ms (1)
+Jun 11 02:22:42 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.02 ms (1)
+Jun 11 02:22:42 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 50.52 ms (1)
+Jun 11 02:22:42 symfony [info] {sfWebResponse} Send content (164146 o)
+Jun 11 02:23:20 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 02:23:20 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 02:23:20 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 02:23:20 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 02:23:20 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 02:23:20 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 02:23:20 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 02:23:20 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 02:23:21 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u
+Jun 11 02:23:21 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 02:23:21 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 02:23:21 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 02:23:21 symfony [info] {main} Get slot "title"
+Jun 11 02:23:21 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 02:23:21 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 02:23:21 symfony [info] {sfWebDebugLogger} Configuration 5.00 ms (9)
+Jun 11 02:23:21 symfony [info] {sfWebDebugLogger} Action "view/index" 427.53 ms (1)
+Jun 11 02:23:21 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.00 ms (1)
+Jun 11 02:23:21 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 73.62 ms (1)
+Jun 11 02:23:21 symfony [info] {sfWebResponse} Send content (174639 o)
+Jun 11 02:26:23 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 02:26:23 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 02:26:23 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 02:26:23 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 02:26:24 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 02:26:24 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 02:26:24 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 02:26:24 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 02:26:24 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u
+Jun 11 02:26:24 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.user_name AS u2__user_name FROM urablog_blog_box u LEFT JOIN urablog_user u2 ON u.user_id = u2.id WHERE u.id = ? - (1 )
+Jun 11 02:26:26 symfony [err] {Doctrine_Query_Exception} The root class of the query (alias u)  must have at least one field selected.
+Jun 11 02:28:36 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 02:28:36 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 02:28:36 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 02:28:36 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 02:28:36 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 02:28:36 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 02:28:36 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 02:28:36 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 02:28:36 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u
+Jun 11 02:28:37 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.user_name AS u2__user_name FROM urablog_blog_box u LEFT JOIN urablog_user u2 ON u.user_id = u2.id WHERE u.id = ? - (1 )
+Jun 11 02:28:37 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.email AS u__email, u.user_name AS u__user_name, u.passwd AS u__passwd, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.category_id AS u2__category_id, u2.user_id AS u2__user_id, u2.blog_id AS u2__blog_id, u2.title AS u2__title, u2.article AS u2__article, u2.is_active AS u2__is_active, u2.expires_at AS u2__expires_at, u2.created_at AS u2__created_at, u2.updated_at AS u2__updated_at, u3.id AS u3__id, u3.name AS u3__name FROM urablog_user u LEFT JOIN urablog_field u2 ON u.id = u2.user_id LEFT JOIN urablog_category u3 ON u2.category_id = u3.id WHERE u.id = ? - (1 )
+Jun 11 02:28:39 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 02:28:39 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 02:28:39 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 02:28:39 symfony [info] {main} Get slot "title"
+Jun 11 02:28:39 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 02:28:39 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 02:28:39 symfony [info] {sfWebDebugLogger} Configuration 122.76 ms (9)
+Jun 11 02:28:39 symfony [info] {sfWebDebugLogger} Action "view/index" 2553.06 ms (1)
+Jun 11 02:28:39 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.14 ms (5)
+Jun 11 02:28:39 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 534.59 ms (1)
+Jun 11 02:28:39 symfony [info] {sfWebResponse} Send content (179954 o)
+Jun 11 02:31:43 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 02:31:43 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 02:31:43 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 02:31:43 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 02:31:44 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 02:31:44 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 02:31:44 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 02:31:44 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 02:31:44 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u
+Jun 11 02:31:44 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.user_name AS u2__user_name FROM urablog_blog_box u LEFT JOIN urablog_user u2 ON u.user_id = u2.id WHERE u.id = ? - (1 )
+Jun 11 02:31:45 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.email AS u__email, u.user_name AS u__user_name, u.passwd AS u__passwd, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.category_id AS u2__category_id, u2.user_id AS u2__user_id, u2.blog_id AS u2__blog_id, u2.title AS u2__title, u2.article AS u2__article, u2.is_active AS u2__is_active, u2.expires_at AS u2__expires_at, u2.created_at AS u2__created_at, u2.updated_at AS u2__updated_at, u3.id AS u3__id, u3.name AS u3__name FROM urablog_user u LEFT JOIN urablog_field u2 ON u.id = u2.user_id LEFT JOIN urablog_category u3 ON u2.category_id = u3.id WHERE u.id = ? - (1 )
+Jun 11 02:31:45 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 02:31:45 symfony [err] {Doctrine_Record_Exception} Unknown method UrablogUser::getTitle
+Jun 11 02:32:41 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 02:32:41 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 02:32:41 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 02:32:41 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 02:32:41 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 02:32:41 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 02:32:41 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 02:32:41 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 02:32:41 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u
+Jun 11 02:32:41 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.user_name AS u2__user_name FROM urablog_blog_box u LEFT JOIN urablog_user u2 ON u.user_id = u2.id WHERE u.id = ? - (1 )
+Jun 11 02:32:41 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.email AS u__email, u.user_name AS u__user_name, u.passwd AS u__passwd, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.category_id AS u2__category_id, u2.user_id AS u2__user_id, u2.blog_id AS u2__blog_id, u2.title AS u2__title, u2.article AS u2__article, u2.is_active AS u2__is_active, u2.expires_at AS u2__expires_at, u2.created_at AS u2__created_at, u2.updated_at AS u2__updated_at, u3.id AS u3__id, u3.name AS u3__name FROM urablog_user u LEFT JOIN urablog_field u2 ON u.id = u2.user_id LEFT JOIN urablog_category u3 ON u2.category_id = u3.id WHERE u.id = ? - (1 )
+Jun 11 02:32:41 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 02:33:53 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 02:33:53 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 02:33:53 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 02:33:53 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 02:33:54 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 02:33:54 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 02:33:54 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 02:33:54 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 02:33:54 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u
+Jun 11 02:33:54 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.user_name AS u2__user_name FROM urablog_blog_box u LEFT JOIN urablog_user u2 ON u.user_id = u2.id WHERE u.id = ? - (1 )
+Jun 11 02:33:54 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.email AS u__email, u.user_name AS u__user_name, u.passwd AS u__passwd, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.category_id AS u2__category_id, u2.user_id AS u2__user_id, u2.blog_id AS u2__blog_id, u2.title AS u2__title, u2.article AS u2__article, u2.is_active AS u2__is_active, u2.expires_at AS u2__expires_at, u2.created_at AS u2__created_at, u2.updated_at AS u2__updated_at, u3.id AS u3__id, u3.name AS u3__name FROM urablog_user u LEFT JOIN urablog_field u2 ON u.id = u2.user_id LEFT JOIN urablog_category u3 ON u2.category_id = u3.id WHERE u.id = ? - (1 )
+Jun 11 02:33:54 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 02:33:54 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 02:33:54 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 02:33:54 symfony [info] {main} Get slot "title"
+Jun 11 02:33:54 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 02:33:54 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 02:33:54 symfony [info] {sfWebDebugLogger} Configuration 2.76 ms (9)
+Jun 11 02:33:54 symfony [info] {sfWebDebugLogger} Action "view/index" 171.78 ms (1)
+Jun 11 02:33:54 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.06 ms (5)
+Jun 11 02:33:54 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 123.78 ms (1)
+Jun 11 02:33:54 symfony [info] {sfWebResponse} Send content (170036 o)
+Jun 11 02:43:19 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 02:43:19 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 02:43:19 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 02:43:19 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 02:43:20 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 02:43:20 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 02:43:20 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 02:43:20 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 02:43:20 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u
+Jun 11 02:43:20 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.user_name AS u2__user_name FROM urablog_blog_box u LEFT JOIN urablog_user u2 ON u.user_id = u2.id WHERE u.id = ? - (1 )
+Jun 11 02:43:20 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.email AS u__email, u.user_name AS u__user_name, u.passwd AS u__passwd, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.category_id AS u2__category_id, u2.user_id AS u2__user_id, u2.blog_id AS u2__blog_id, u2.title AS u2__title, u2.article AS u2__article, u2.is_active AS u2__is_active, u2.expires_at AS u2__expires_at, u2.created_at AS u2__created_at, u2.updated_at AS u2__updated_at, u3.id AS u3__id, u3.name AS u3__name FROM urablog_user u LEFT JOIN urablog_field u2 ON u.id = u2.user_id LEFT JOIN urablog_category u3 ON u2.category_id = u3.id WHERE u.id = ? - (1 )
+Jun 11 02:43:20 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 02:43:20 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 02:43:20 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 02:43:20 symfony [info] {main} Get slot "title"
+Jun 11 02:43:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 02:43:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 02:43:20 symfony [info] {sfWebDebugLogger} Configuration 30.06 ms (9)
+Jun 11 02:43:20 symfony [info] {sfWebDebugLogger} Action "view/index" 465.09 ms (1)
+Jun 11 02:43:20 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.10 ms (5)
+Jun 11 02:43:20 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 280.62 ms (1)
+Jun 11 02:43:21 symfony [info] {sfWebResponse} Send content (177091 o)
+Jun 11 02:44:10 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 02:44:10 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 02:44:10 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 02:44:10 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 02:44:10 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 02:44:10 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 02:44:10 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 02:44:10 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 02:44:10 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u
+Jun 11 02:44:11 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.user_name AS u2__user_name FROM urablog_blog_box u LEFT JOIN urablog_user u2 ON u.user_id = u2.id WHERE u.id = ? - (1 )
+Jun 11 02:44:11 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.email AS u__email, u.user_name AS u__user_name, u.passwd AS u__passwd, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.category_id AS u2__category_id, u2.user_id AS u2__user_id, u2.blog_id AS u2__blog_id, u2.title AS u2__title, u2.article AS u2__article, u2.is_active AS u2__is_active, u2.expires_at AS u2__expires_at, u2.created_at AS u2__created_at, u2.updated_at AS u2__updated_at, u3.id AS u3__id, u3.name AS u3__name FROM urablog_user u LEFT JOIN urablog_field u2 ON u.id = u2.user_id LEFT JOIN urablog_category u3 ON u2.category_id = u3.id WHERE u.id = ? - (1 )
+Jun 11 02:44:11 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 02:44:11 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 02:44:11 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 02:44:11 symfony [info] {main} Get slot "title"
+Jun 11 02:44:11 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 02:44:11 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 02:44:11 symfony [info] {sfWebDebugLogger} Configuration 4.44 ms (9)
+Jun 11 02:44:11 symfony [info] {sfWebDebugLogger} Action "view/index" 686.18 ms (1)
+Jun 11 02:44:11 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.04 ms (5)
+Jun 11 02:44:11 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 110.52 ms (1)
+Jun 11 02:44:11 symfony [info] {sfWebResponse} Send content (177087 o)
+Jun 11 02:44:50 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 02:44:50 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 02:44:50 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 02:44:50 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 02:44:50 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 02:44:50 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 02:44:50 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 02:44:50 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 02:44:50 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u
+Jun 11 02:44:50 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.user_name AS u2__user_name FROM urablog_blog_box u LEFT JOIN urablog_user u2 ON u.user_id = u2.id WHERE u.id = ? - (1 )
+Jun 11 02:44:51 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.email AS u__email, u.user_name AS u__user_name, u.passwd AS u__passwd, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.category_id AS u2__category_id, u2.user_id AS u2__user_id, u2.blog_id AS u2__blog_id, u2.title AS u2__title, u2.article AS u2__article, u2.is_active AS u2__is_active, u2.expires_at AS u2__expires_at, u2.created_at AS u2__created_at, u2.updated_at AS u2__updated_at, u3.id AS u3__id, u3.name AS u3__name FROM urablog_user u LEFT JOIN urablog_field u2 ON u.id = u2.user_id LEFT JOIN urablog_category u3 ON u2.category_id = u3.id WHERE u.id = ? - (1 )
+Jun 11 02:44:51 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 02:44:51 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 02:44:51 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 02:44:51 symfony [info] {main} Get slot "title"
+Jun 11 02:44:51 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 02:44:51 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 02:44:51 symfony [info] {sfWebDebugLogger} Configuration 4.92 ms (9)
+Jun 11 02:44:51 symfony [info] {sfWebDebugLogger} Action "view/index" 310.61 ms (1)
+Jun 11 02:44:51 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.08 ms (5)
+Jun 11 02:44:51 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 99.70 ms (1)
+Jun 11 02:44:51 symfony [info] {sfWebResponse} Send content (170035 o)
+Jun 11 02:45:47 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 02:45:47 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 02:45:47 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 02:45:47 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 02:45:48 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 02:45:48 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 02:45:48 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 02:45:48 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 02:45:48 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u
+Jun 11 02:45:48 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.user_name AS u2__user_name FROM urablog_blog_box u LEFT JOIN urablog_user u2 ON u.user_id = u2.id WHERE u.id = ? - (1 )
+Jun 11 02:45:48 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.email AS u__email, u.user_name AS u__user_name, u.passwd AS u__passwd, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.category_id AS u2__category_id, u2.user_id AS u2__user_id, u2.blog_id AS u2__blog_id, u2.title AS u2__title, u2.article AS u2__article, u2.is_active AS u2__is_active, u2.expires_at AS u2__expires_at, u2.created_at AS u2__created_at, u2.updated_at AS u2__updated_at, u3.id AS u3__id, u3.name AS u3__name FROM urablog_user u LEFT JOIN urablog_field u2 ON u.id = u2.user_id LEFT JOIN urablog_category u3 ON u2.category_id = u3.id WHERE u.id = ? - (1 )
+Jun 11 02:45:48 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 02:45:49 symfony [err] {Doctrine_Record_Exception} Unknown method UrablogUser::getUrablogFieldId
+Jun 11 02:46:05 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 02:46:05 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 02:46:05 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 02:46:05 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 02:46:05 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 02:46:05 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 02:46:05 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 02:46:05 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 02:46:05 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u
+Jun 11 02:46:05 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.user_name AS u2__user_name FROM urablog_blog_box u LEFT JOIN urablog_user u2 ON u.user_id = u2.id WHERE u.id = ? - (1 )
+Jun 11 02:46:05 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.email AS u__email, u.user_name AS u__user_name, u.passwd AS u__passwd, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.category_id AS u2__category_id, u2.user_id AS u2__user_id, u2.blog_id AS u2__blog_id, u2.title AS u2__title, u2.article AS u2__article, u2.is_active AS u2__is_active, u2.expires_at AS u2__expires_at, u2.created_at AS u2__created_at, u2.updated_at AS u2__updated_at, u3.id AS u3__id, u3.name AS u3__name FROM urablog_user u LEFT JOIN urablog_field u2 ON u.id = u2.user_id LEFT JOIN urablog_category u3 ON u2.category_id = u3.id WHERE u.id = ? - (1 )
+Jun 11 02:46:05 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 02:46:05 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 02:46:05 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 02:46:05 symfony [info] {main} Get slot "title"
+Jun 11 02:46:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 02:46:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 02:46:05 symfony [info] {sfWebDebugLogger} Configuration 7.57 ms (9)
+Jun 11 02:46:05 symfony [info] {sfWebDebugLogger} Action "view/index" 495.55 ms (1)
+Jun 11 02:46:05 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.04 ms (5)
+Jun 11 02:46:05 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 91.24 ms (1)
+Jun 11 02:46:06 symfony [info] {sfWebResponse} Send content (170035 o)
+Jun 11 02:47:17 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 02:47:17 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 02:47:17 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 02:47:17 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 02:47:18 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 02:47:18 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 02:47:18 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 02:47:18 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 02:47:18 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u
+Jun 11 02:47:18 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.user_name AS u2__user_name FROM urablog_blog_box u LEFT JOIN urablog_user u2 ON u.user_id = u2.id WHERE u.id = ? - (1 )
+Jun 11 02:47:18 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.email AS u__email, u.user_name AS u__user_name, u.passwd AS u__passwd, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.category_id AS u2__category_id, u2.user_id AS u2__user_id, u2.blog_id AS u2__blog_id, u2.title AS u2__title, u2.article AS u2__article, u2.is_active AS u2__is_active, u2.expires_at AS u2__expires_at, u2.created_at AS u2__created_at, u2.updated_at AS u2__updated_at, u3.id AS u3__id, u3.name AS u3__name FROM urablog_user u LEFT JOIN urablog_field u2 ON u.id = u2.user_id LEFT JOIN urablog_category u3 ON u2.category_id = u3.id WHERE u.id = ? - (1 )
+Jun 11 02:47:37 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 02:47:37 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 02:47:37 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 02:47:37 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 02:47:37 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 02:47:37 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 02:47:37 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 02:47:37 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 02:47:37 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u
+Jun 11 02:47:37 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.user_name AS u2__user_name FROM urablog_blog_box u LEFT JOIN urablog_user u2 ON u.user_id = u2.id WHERE u.id = ? - (1 )
+Jun 11 02:47:37 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.email AS u__email, u.user_name AS u__user_name, u.passwd AS u__passwd, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.category_id AS u2__category_id, u2.user_id AS u2__user_id, u2.blog_id AS u2__blog_id, u2.title AS u2__title, u2.article AS u2__article, u2.is_active AS u2__is_active, u2.expires_at AS u2__expires_at, u2.created_at AS u2__created_at, u2.updated_at AS u2__updated_at, u3.id AS u3__id, u3.name AS u3__name FROM urablog_user u LEFT JOIN urablog_field u2 ON u.id = u2.user_id LEFT JOIN urablog_category u3 ON u2.category_id = u3.id WHERE u.id = ? - (1 )
+Jun 11 02:47:37 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 02:48:36 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 02:48:36 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 02:48:36 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 02:48:36 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 02:48:36 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 02:48:36 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 02:48:36 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 02:48:36 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 02:48:37 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u
+Jun 11 02:48:37 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.user_name AS u2__user_name FROM urablog_blog_box u LEFT JOIN urablog_user u2 ON u.user_id = u2.id WHERE u.id = ? - (1 )
+Jun 11 02:48:37 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.email AS u__email, u.user_name AS u__user_name, u.passwd AS u__passwd, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.category_id AS u2__category_id, u2.user_id AS u2__user_id, u2.blog_id AS u2__blog_id, u2.title AS u2__title, u2.article AS u2__article, u2.is_active AS u2__is_active, u2.expires_at AS u2__expires_at, u2.created_at AS u2__created_at, u2.updated_at AS u2__updated_at, u3.id AS u3__id, u3.name AS u3__name FROM urablog_user u LEFT JOIN urablog_field u2 ON u.id = u2.user_id LEFT JOIN urablog_category u3 ON u2.category_id = u3.id WHERE u.id = ? - (1 )
+Jun 11 02:48:37 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 02:48:45 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 02:48:45 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 02:48:45 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 02:48:45 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 02:48:45 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 02:48:45 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 02:48:45 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 02:48:45 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 02:48:45 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u
+Jun 11 02:48:45 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.user_name AS u2__user_name FROM urablog_blog_box u LEFT JOIN urablog_user u2 ON u.user_id = u2.id WHERE u.id = ? - (1 )
+Jun 11 02:48:46 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.email AS u__email, u.user_name AS u__user_name, u.passwd AS u__passwd, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.category_id AS u2__category_id, u2.user_id AS u2__user_id, u2.blog_id AS u2__blog_id, u2.title AS u2__title, u2.article AS u2__article, u2.is_active AS u2__is_active, u2.expires_at AS u2__expires_at, u2.created_at AS u2__created_at, u2.updated_at AS u2__updated_at, u3.id AS u3__id, u3.name AS u3__name FROM urablog_user u LEFT JOIN urablog_field u2 ON u.id = u2.user_id LEFT JOIN urablog_category u3 ON u2.category_id = u3.id WHERE u.id = ? - (1 )
+Jun 11 02:48:46 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 02:49:01 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 02:49:01 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 02:49:01 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 02:49:01 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 02:49:01 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 02:49:01 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 02:49:01 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 02:49:01 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 02:49:01 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u
+Jun 11 02:49:01 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.user_name AS u2__user_name FROM urablog_blog_box u LEFT JOIN urablog_user u2 ON u.user_id = u2.id WHERE u.id = ? - (1 )
+Jun 11 02:49:01 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.email AS u__email, u.user_name AS u__user_name, u.passwd AS u__passwd, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.category_id AS u2__category_id, u2.user_id AS u2__user_id, u2.blog_id AS u2__blog_id, u2.title AS u2__title, u2.article AS u2__article, u2.is_active AS u2__is_active, u2.expires_at AS u2__expires_at, u2.created_at AS u2__created_at, u2.updated_at AS u2__updated_at, u3.id AS u3__id, u3.name AS u3__name FROM urablog_user u LEFT JOIN urablog_field u2 ON u.id = u2.user_id LEFT JOIN urablog_category u3 ON u2.category_id = u3.id WHERE u.id = ? - (1 )
+Jun 11 02:49:01 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 02:49:01 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 02:49:01 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 02:49:01 symfony [info] {main} Get slot "title"
+Jun 11 02:49:01 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 02:49:01 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 02:49:01 symfony [info] {sfWebDebugLogger} Configuration 10.03 ms (9)
+Jun 11 02:49:01 symfony [info] {sfWebDebugLogger} Action "view/index" 156.00 ms (1)
+Jun 11 02:49:01 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.04 ms (5)
+Jun 11 02:49:01 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 98.16 ms (1)
+Jun 11 02:49:01 symfony [info] {sfWebResponse} Send content (171595 o)
+Jun 11 02:53:39 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 02:53:39 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 02:53:39 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 02:53:39 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 02:53:39 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 02:53:39 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 02:53:39 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 02:53:39 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 02:53:39 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u
+Jun 11 02:53:39 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.user_name AS u2__user_name FROM urablog_blog_box u LEFT JOIN urablog_user u2 ON u.user_id = u2.id WHERE u.id = ? - (1 )
+Jun 11 02:53:40 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.email AS u__email, u.user_name AS u__user_name, u.passwd AS u__passwd, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.category_id AS u2__category_id, u2.user_id AS u2__user_id, u2.blog_id AS u2__blog_id, u2.title AS u2__title, u2.article AS u2__article, u2.is_active AS u2__is_active, u2.expires_at AS u2__expires_at, u2.created_at AS u2__created_at, u2.updated_at AS u2__updated_at, u3.id AS u3__id, u3.name AS u3__name FROM urablog_user u LEFT JOIN urablog_field u2 ON u.id = u2.user_id LEFT JOIN urablog_category u3 ON u2.category_id = u3.id WHERE u.id = ? - (1 )
+Jun 11 03:10:40 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 03:10:40 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 03:10:40 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 03:10:40 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 03:10:41 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 03:10:41 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 03:10:41 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 03:10:41 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 03:10:41 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 03:10:41 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 03:10:41 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:10:41 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:10:41 symfony [info] {main} Get slot "title"
+Jun 11 03:10:41 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 03:10:41 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 03:10:41 symfony [info] {sfWebDebugLogger} Configuration 6.43 ms (9)
+Jun 11 03:10:41 symfony [info] {sfWebDebugLogger} Action "view/index" 166.58 ms (1)
+Jun 11 03:10:41 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.02 ms (1)
+Jun 11 03:10:41 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 199.05 ms (1)
+Jun 11 03:10:41 symfony [info] {sfWebResponse} Send content (80040 o)
+Jun 11 03:17:24 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 03:17:25 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 03:17:25 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 03:17:25 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 03:17:25 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 03:17:25 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 03:17:25 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 03:17:25 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 03:17:25 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 03:17:25 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 03:17:26 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:17:26 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:17:26 symfony [info] {main} Get slot "title"
+Jun 11 03:17:26 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 03:17:26 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 03:17:26 symfony [info] {sfWebDebugLogger} Configuration 5.67 ms (9)
+Jun 11 03:17:26 symfony [info] {sfWebDebugLogger} Action "view/index" 606.67 ms (1)
+Jun 11 03:17:26 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.02 ms (1)
+Jun 11 03:17:26 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 288.08 ms (1)
+Jun 11 03:17:26 symfony [info] {sfWebResponse} Send content (85565 o)
+Jun 11 03:18:02 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 03:18:02 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 03:18:02 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 03:18:02 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 03:18:02 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 03:18:02 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 03:18:02 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 03:18:02 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 03:18:03 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 03:18:03 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 03:18:03 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:18:03 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:18:03 symfony [info] {main} Get slot "title"
+Jun 11 03:18:03 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 03:18:03 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 03:18:03 symfony [info] {sfWebDebugLogger} Configuration 3.52 ms (9)
+Jun 11 03:18:03 symfony [info] {sfWebDebugLogger} Action "view/index" 161.31 ms (1)
+Jun 11 03:18:03 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.02 ms (1)
+Jun 11 03:18:03 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 46.59 ms (1)
+Jun 11 03:18:03 symfony [info] {sfWebResponse} Send content (85202 o)
+Jun 11 03:20:56 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 03:20:56 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 03:20:56 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 03:20:56 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 03:20:56 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 03:20:56 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 03:20:56 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 03:20:56 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 03:20:56 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 03:20:57 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 03:20:57 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:20:57 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:20:57 symfony [info] {main} Get slot "title"
+Jun 11 03:20:57 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 03:20:57 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 03:20:57 symfony [info] {sfWebDebugLogger} Configuration 4.61 ms (9)
+Jun 11 03:20:57 symfony [info] {sfWebDebugLogger} Action "view/index" 442.24 ms (1)
+Jun 11 03:20:57 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.00 ms (1)
+Jun 11 03:20:57 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 154.95 ms (1)
+Jun 11 03:20:57 symfony [info] {sfWebResponse} Send content (85203 o)
+Jun 11 03:20:59 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 03:20:59 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 03:20:59 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 03:20:59 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 03:20:59 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 03:20:59 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 03:20:59 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 03:20:59 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 03:20:59 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 03:20:59 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 03:21:00 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:21:00 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:21:00 symfony [info] {main} Get slot "title"
+Jun 11 03:21:00 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 03:21:00 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 03:21:00 symfony [info] {sfWebDebugLogger} Configuration 4.42 ms (9)
+Jun 11 03:21:00 symfony [info] {sfWebDebugLogger} Action "view/index" 349.26 ms (1)
+Jun 11 03:21:00 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.02 ms (1)
+Jun 11 03:21:00 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 52.00 ms (1)
+Jun 11 03:21:00 symfony [info] {sfWebResponse} Send content (85201 o)
+Jun 11 03:21:32 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 03:21:32 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 03:21:32 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 03:21:32 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 03:21:32 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 03:21:32 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 03:21:32 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 03:21:32 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 03:21:33 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 03:21:33 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 03:21:33 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:21:33 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:21:33 symfony [info] {main} Get slot "title"
+Jun 11 03:21:33 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 03:21:33 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 03:21:33 symfony [info] {sfWebDebugLogger} Configuration 5.74 ms (9)
+Jun 11 03:21:33 symfony [info] {sfWebDebugLogger} Action "view/index" 462.78 ms (1)
+Jun 11 03:21:33 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.02 ms (1)
+Jun 11 03:21:33 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 54.46 ms (1)
+Jun 11 03:21:33 symfony [info] {sfWebResponse} Send content (85202 o)
+Jun 11 03:21:35 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 03:21:35 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 03:21:35 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 03:21:35 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 03:21:35 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 03:21:35 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 03:21:35 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 03:21:35 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 03:21:35 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 03:21:35 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 03:21:36 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:21:36 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:21:36 symfony [info] {main} Get slot "title"
+Jun 11 03:21:36 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 03:21:36 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 03:21:36 symfony [info] {sfWebDebugLogger} Configuration 5.92 ms (9)
+Jun 11 03:21:36 symfony [info] {sfWebDebugLogger} Action "view/index" 92.84 ms (1)
+Jun 11 03:21:36 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.02 ms (1)
+Jun 11 03:21:36 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 42.92 ms (1)
+Jun 11 03:21:36 symfony [info] {sfWebResponse} Send content (85200 o)
+Jun 11 03:22:17 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 03:22:17 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 03:22:17 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 03:22:17 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 03:22:17 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 03:22:17 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 03:22:17 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 03:22:17 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 03:22:17 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 03:22:17 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 03:22:17 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:22:17 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:22:17 symfony [info] {main} Get slot "title"
+Jun 11 03:22:17 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 03:22:17 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 03:22:17 symfony [info] {sfWebDebugLogger} Configuration 5.19 ms (9)
+Jun 11 03:22:17 symfony [info] {sfWebDebugLogger} Action "view/index" 348.34 ms (1)
+Jun 11 03:22:17 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.02 ms (1)
+Jun 11 03:22:17 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 49.00 ms (1)
+Jun 11 03:22:18 symfony [info] {sfWebResponse} Send content (84663 o)
+Jun 11 03:24:47 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 03:24:47 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 03:24:47 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 03:24:47 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 03:24:47 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 03:24:47 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 03:24:47 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 03:24:47 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 03:24:48 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 03:24:48 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.user_name AS u2__user_name FROM urablog_blog_box u LEFT JOIN urablog_user u2 ON u.user_id = u2.id WHERE u.id = ? - (1 )
+Jun 11 03:24:49 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.email AS u__email, u.user_name AS u__user_name, u.passwd AS u__passwd, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.category_id AS u2__category_id, u2.user_id AS u2__user_id, u2.blog_id AS u2__blog_id, u2.title AS u2__title, u2.article AS u2__article, u2.is_active AS u2__is_active, u2.expires_at AS u2__expires_at, u2.created_at AS u2__created_at, u2.updated_at AS u2__updated_at, u3.id AS u3__id, u3.name AS u3__name FROM urablog_user u LEFT JOIN urablog_field u2 ON u.id = u2.user_id LEFT JOIN urablog_category u3 ON u2.category_id = u3.id WHERE u.id = ? - (1 )
+Jun 11 03:24:49 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 03:24:49 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:24:49 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:24:49 symfony [info] {main} Get slot "title"
+Jun 11 03:24:49 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 03:24:49 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 03:24:49 symfony [info] {sfWebDebugLogger} Configuration 4.29 ms (9)
+Jun 11 03:24:49 symfony [info] {sfWebDebugLogger} Action "view/index" 1567.98 ms (1)
+Jun 11 03:24:49 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.09 ms (5)
+Jun 11 03:24:49 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 290.42 ms (1)
+Jun 11 03:24:49 symfony [info] {sfWebResponse} Send content (94517 o)
+Jun 11 03:25:17 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 03:25:17 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 03:25:17 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 03:25:17 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 03:25:17 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 03:25:17 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 03:25:17 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 03:25:17 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 03:25:19 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 03:25:20 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.user_name AS u2__user_name FROM urablog_blog_box u LEFT JOIN urablog_user u2 ON u.user_id = u2.id WHERE u.id = ? - (1 )
+Jun 11 03:25:20 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.email AS u__email, u.user_name AS u__user_name, u.passwd AS u__passwd, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at, u2.id AS u2__id, u2.category_id AS u2__category_id, u2.user_id AS u2__user_id, u2.blog_id AS u2__blog_id, u2.title AS u2__title, u2.article AS u2__article, u2.is_active AS u2__is_active, u2.expires_at AS u2__expires_at, u2.created_at AS u2__created_at, u2.updated_at AS u2__updated_at, u3.id AS u3__id, u3.name AS u3__name FROM urablog_user u LEFT JOIN urablog_field u2 ON u.id = u2.user_id LEFT JOIN urablog_category u3 ON u2.category_id = u3.id WHERE u.id = ? - (1 )
+Jun 11 03:25:20 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 03:25:20 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:25:20 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:25:20 symfony [info] {main} Get slot "title"
+Jun 11 03:25:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 03:25:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 03:25:20 symfony [info] {sfWebDebugLogger} Configuration 7.36 ms (9)
+Jun 11 03:25:20 symfony [info] {sfWebDebugLogger} Action "view/index" 2454.37 ms (1)
+Jun 11 03:25:20 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.11 ms (5)
+Jun 11 03:25:20 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 333.39 ms (1)
+Jun 11 03:25:21 symfony [info] {sfWebResponse} Send content (94511 o)
+Jun 11 03:29:23 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 03:29:23 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 03:29:23 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 03:29:23 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 03:29:23 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 03:29:23 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 03:29:23 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 03:29:23 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 03:29:24 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 03:29:24 symfony [err] {Doctrine_Table_Exception} Unknown method UrablogBlogBoxTable::where
+Jun 11 03:30:34 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 03:30:34 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 03:30:34 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 03:30:34 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 03:30:34 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 03:30:34 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 03:30:34 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 03:30:34 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 03:30:35 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 03:30:35 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u WHERE u.id = ? - (1 )
+Jun 11 03:30:36 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 03:31:08 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 03:31:08 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 03:31:08 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 03:31:08 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 03:31:08 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 03:31:08 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 03:31:08 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 03:31:08 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 03:31:09 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 03:31:09 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u WHERE u.id = ? - (1 )
+Jun 11 03:31:09 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 03:31:18 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 03:31:18 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 03:31:18 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 03:31:18 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 03:31:18 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 03:31:18 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 03:31:18 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 03:31:18 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 03:31:18 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 03:31:18 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u WHERE u.id = ? - (1 )
+Jun 11 03:31:18 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 03:31:18 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:31:18 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:31:18 symfony [info] {main} Get slot "title"
+Jun 11 03:31:18 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 03:31:18 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 03:31:18 symfony [info] {sfWebDebugLogger} Configuration 5.27 ms (9)
+Jun 11 03:31:18 symfony [info] {sfWebDebugLogger} Action "view/index" 154.07 ms (1)
+Jun 11 03:31:18 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.06 ms (3)
+Jun 11 03:31:18 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 137.91 ms (1)
+Jun 11 03:31:18 symfony [info] {sfWebResponse} Send content (92389 o)
+Jun 11 03:34:00 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 03:34:00 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 03:34:00 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 03:34:00 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 03:34:00 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 03:34:00 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 03:34:00 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 03:34:00 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 03:34:00 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 03:34:00 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u WHERE u.id = ? - (1 )
+Jun 11 03:34:00 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 03:34:00 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:34:00 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:34:00 symfony [info] {main} Get slot "title"
+Jun 11 03:34:00 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 03:34:00 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 03:34:00 symfony [info] {sfWebDebugLogger} Configuration 16.41 ms (9)
+Jun 11 03:34:00 symfony [info] {sfWebDebugLogger} Action "view/index" 242.18 ms (1)
+Jun 11 03:34:00 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.04 ms (3)
+Jun 11 03:34:00 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 54.91 ms (1)
+Jun 11 03:34:00 symfony [info] {sfWebResponse} Send content (85339 o)
+Jun 11 03:35:59 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 03:35:59 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 03:35:59 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 03:35:59 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 03:35:59 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 03:35:59 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 03:35:59 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 03:35:59 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 03:35:59 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 03:36:00 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u WHERE u.id = ? - (1 )
+Jun 11 03:36:00 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 03:36:00 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:36:00 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:36:00 symfony [info] {main} Get slot "title"
+Jun 11 03:36:00 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 03:36:00 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 03:36:00 symfony [info] {sfWebDebugLogger} Configuration 6.37 ms (9)
+Jun 11 03:36:00 symfony [info] {sfWebDebugLogger} Action "view/index" 441.78 ms (1)
+Jun 11 03:36:00 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.04 ms (3)
+Jun 11 03:36:00 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 64.41 ms (1)
+Jun 11 03:36:00 symfony [info] {sfWebResponse} Send content (84726 o)
+Jun 11 03:36:51 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 03:36:51 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 03:36:51 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 03:36:51 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 03:36:51 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 03:36:51 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 03:36:51 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 03:36:51 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 03:36:51 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 03:36:51 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u WHERE u.id = ? - (1 )
+Jun 11 03:36:51 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 03:36:51 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:36:51 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:36:51 symfony [info] {main} Get slot "title"
+Jun 11 03:36:51 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 03:36:51 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 03:36:51 symfony [info] {sfWebDebugLogger} Configuration 6.83 ms (9)
+Jun 11 03:36:51 symfony [info] {sfWebDebugLogger} Action "view/index" 255.43 ms (1)
+Jun 11 03:36:51 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.04 ms (3)
+Jun 11 03:36:51 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 106.71 ms (1)
+Jun 11 03:36:52 symfony [info] {sfWebResponse} Send content (84835 o)
+Jun 11 03:49:49 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 03:49:49 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 03:49:49 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 03:49:49 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 03:49:49 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 03:49:49 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 03:49:49 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 03:49:49 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 03:49:50 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 03:49:50 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u WHERE u.id = ? - (1 )
+Jun 11 03:49:50 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 03:49:50 symfony [err] {Doctrine_Record_Exception} Unknown record property / related component "getId" on "UrablogField"
+Jun 11 03:50:23 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 03:50:23 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 03:50:23 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 03:50:23 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 03:50:23 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 03:50:23 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 03:50:23 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 03:50:23 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 03:50:24 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 03:50:24 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u WHERE u.id = ? - (1 )
+Jun 11 03:50:25 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 03:50:25 symfony [err] {Doctrine_Record_Exception} Unknown record property / related component "getid" on "UrablogField"
+Jun 11 03:50:55 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 03:50:55 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 03:50:55 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 03:50:55 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 03:50:55 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 03:50:55 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 03:50:55 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 03:50:55 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 03:50:55 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 03:50:55 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u WHERE u.id = ? - (1 )
+Jun 11 03:50:55 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 03:50:55 symfony [err] {Doctrine_Record_Exception} Unknown record property / related component "getid" on "UrablogField"
+Jun 11 03:51:14 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 03:51:14 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 03:51:14 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 03:51:14 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 03:51:14 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 03:51:14 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 03:51:14 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 03:51:14 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 03:51:14 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 03:51:14 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u WHERE u.id = ? - (1 )
+Jun 11 03:51:14 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 03:51:15 symfony [err] {Doctrine_Record_Exception} Unknown record property / related component "getid" on "UrablogField"
+Jun 11 03:51:51 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 03:51:51 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 03:51:51 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 03:51:51 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 03:51:51 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 03:51:51 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 03:51:51 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 03:51:51 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 03:51:51 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 03:51:51 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u WHERE u.id = ? - (1 )
+Jun 11 03:51:51 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 03:51:51 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:51:51 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:51:51 symfony [info] {main} Get slot "title"
+Jun 11 03:51:51 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 03:51:51 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 03:51:51 symfony [info] {sfWebDebugLogger} Configuration 5.86 ms (9)
+Jun 11 03:51:51 symfony [info] {sfWebDebugLogger} Action "view/index" 176.00 ms (1)
+Jun 11 03:51:51 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.02 ms (3)
+Jun 11 03:51:51 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 93.53 ms (1)
+Jun 11 03:51:52 symfony [info] {sfWebResponse} Send content (83278 o)
+Jun 11 03:52:04 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 03:52:04 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 03:52:04 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 03:52:04 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 03:52:04 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 03:52:04 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 03:52:04 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 03:52:04 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 03:52:04 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 03:52:04 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u WHERE u.id = ? - (1 )
+Jun 11 03:52:05 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 03:52:05 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:52:05 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:52:05 symfony [info] {main} Get slot "title"
+Jun 11 03:52:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 03:52:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 03:52:05 symfony [info] {sfWebDebugLogger} Configuration 5.27 ms (9)
+Jun 11 03:52:05 symfony [info] {sfWebDebugLogger} Action "view/index" 797.46 ms (1)
+Jun 11 03:52:05 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.06 ms (3)
+Jun 11 03:52:05 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 56.56 ms (1)
+Jun 11 03:52:05 symfony [info] {sfWebResponse} Send content (83324 o)
+Jun 11 03:52:08 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 03:52:08 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 03:52:08 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 03:52:08 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 03:52:08 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 03:52:08 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 03:52:08 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 03:52:08 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 03:52:08 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 03:52:08 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u WHERE u.id = ? - (1 )
+Jun 11 03:52:08 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 03:52:08 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:52:08 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:52:08 symfony [info] {main} Get slot "title"
+Jun 11 03:52:08 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 03:52:08 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 03:52:08 symfony [info] {sfWebDebugLogger} Configuration 3.95 ms (9)
+Jun 11 03:52:08 symfony [info] {sfWebDebugLogger} Action "view/index" 121.47 ms (1)
+Jun 11 03:52:08 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.04 ms (3)
+Jun 11 03:52:08 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 48.84 ms (1)
+Jun 11 03:52:08 symfony [info] {sfWebResponse} Send content (83323 o)
+Jun 11 03:52:44 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 03:52:44 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 03:52:44 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 03:52:44 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 03:52:44 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 03:52:44 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 03:52:44 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 03:52:44 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 03:52:44 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 03:52:44 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u WHERE u.id = ? - (1 )
+Jun 11 03:52:44 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 03:52:44 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:52:44 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:52:44 symfony [info] {main} Get slot "title"
+Jun 11 03:52:44 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 03:52:44 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 03:52:44 symfony [info] {sfWebDebugLogger} Configuration 4.18 ms (9)
+Jun 11 03:52:44 symfony [info] {sfWebDebugLogger} Action "view/index" 109.59 ms (1)
+Jun 11 03:52:44 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.04 ms (3)
+Jun 11 03:52:44 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 48.26 ms (1)
+Jun 11 03:52:44 symfony [info] {sfWebResponse} Send content (83357 o)
+Jun 11 03:53:23 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 03:53:23 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 03:53:23 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 03:53:23 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 03:53:23 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 03:53:23 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 03:53:23 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 03:53:23 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 03:53:23 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 03:53:23 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u WHERE u.id = ? - (1 )
+Jun 11 03:53:23 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 03:53:23 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:53:23 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:53:23 symfony [info] {main} Get slot "title"
+Jun 11 03:53:23 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 03:53:23 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 03:53:23 symfony [info] {sfWebDebugLogger} Configuration 3.28 ms (9)
+Jun 11 03:53:23 symfony [info] {sfWebDebugLogger} Action "view/index" 109.97 ms (1)
+Jun 11 03:53:23 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.06 ms (3)
+Jun 11 03:53:23 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 44.01 ms (1)
+Jun 11 03:53:23 symfony [info] {sfWebResponse} Send content (82174 o)
+Jun 11 03:54:29 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 03:54:29 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 03:54:29 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 03:54:29 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /view with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 03:54:29 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 03:54:29 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 03:54:29 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 03:54:29 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 03:54:29 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 03:54:29 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u WHERE u.id = ? - (1 )
+Jun 11 03:54:29 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 03:54:29 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:54:29 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 03:54:29 symfony [info] {main} Get slot "title"
+Jun 11 03:54:29 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 03:54:29 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 03:54:29 symfony [info] {sfWebDebugLogger} Configuration 3.83 ms (9)
+Jun 11 03:54:29 symfony [info] {sfWebDebugLogger} Action "view/index" 123.53 ms (1)
+Jun 11 03:54:29 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.06 ms (3)
+Jun 11 03:54:29 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 54.34 ms (1)
+Jun 11 03:54:30 symfony [info] {sfWebResponse} Send content (82149 o)
+Jun 11 03:54:49 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 03:54:49 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 03:54:49 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 03:54:49 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /view/show with parameters array (  'module' => 'view',  'action' => 'show',)
+Jun 11 03:54:49 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 03:54:49 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 03:54:49 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 03:54:50 symfony [info] {viewActions} Call "viewActions->executeShow()"
+Jun 11 03:54:50 symfony [err] {sfError404Exception} This request has been forwarded to a 404 error page by the action "view/show".
+Jun 11 03:54:58 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 03:54:58 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 03:54:58 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 03:54:58 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /view/edit with parameters array (  'module' => 'view',  'action' => 'edit',)
+Jun 11 03:54:58 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 03:54:58 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 03:54:58 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 03:54:58 symfony [info] {viewActions} Call "viewActions->executeEdit()"
+Jun 11 03:54:58 symfony [err] {sfError404Exception} Object urablog_field does not exist ().
+Jun 11 03:55:07 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 03:55:07 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 03:55:07 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 03:55:07 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /view/edit/1 with parameters array (  1 => true,  'module' => 'view',  'action' => 'edit',)
+Jun 11 03:55:07 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 03:55:07 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 03:55:07 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 03:55:07 symfony [info] {viewActions} Call "viewActions->executeEdit()"
+Jun 11 03:55:07 symfony [err] {sfError404Exception} Object urablog_field does not exist ().
+Jun 11 04:11:31 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 04:11:31 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 04:11:31 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 04:11:31 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /view/new with parameters array (  'module' => 'view',  'action' => 'new',)
+Jun 11 04:11:31 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 04:11:31 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 04:11:31 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 04:11:31 symfony [info] {viewActions} Call "viewActions->executeNew()"
+Jun 11 04:11:32 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/newSuccess.php"
+Jun 11 04:11:32 symfony [info] {sfPartialView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/_form.php"
+Jun 11 04:11:32 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.name AS u__name, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_category u
+Jun 11 04:11:33 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.email AS u__email, u.user_name AS u__user_name, u.passwd AS u__passwd, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_user u
+Jun 11 04:11:33 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u
+Jun 11 04:11:33 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 04:11:33 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 04:11:33 symfony [info] {main} Get slot "title"
+Jun 11 04:11:33 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 04:11:33 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 04:11:33 symfony [info] {sfWebDebugLogger} Configuration 6.24 ms (9)
+Jun 11 04:11:33 symfony [info] {sfWebDebugLogger} Action "view/new" 605.00 ms (1)
+Jun 11 04:11:33 symfony [info] {sfWebDebugLogger} View "Success" for "view/new" 1653.74 ms (1)
+Jun 11 04:11:33 symfony [info] {sfWebDebugLogger} Partial "view/_form" 1328.85 ms (1)
+Jun 11 04:11:33 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.06 ms (3)
+Jun 11 04:11:33 symfony [info] {sfWebResponse} Send content (103241 o)
+Jun 11 04:17:55 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 04:17:55 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 04:17:55 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 04:17:55 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /view/new with parameters array (  'module' => 'view',  'action' => 'new',)
+Jun 11 04:17:56 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 04:17:56 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 04:17:56 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 04:17:56 symfony [info] {viewActions} Call "viewActions->executeNew()"
+Jun 11 04:17:56 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/newSuccess.php"
+Jun 11 04:17:57 symfony [info] {sfPartialView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/_form.php"
+Jun 11 04:17:57 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.name AS u__name, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_category u
+Jun 11 04:17:57 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.email AS u__email, u.user_name AS u__user_name, u.passwd AS u__passwd, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_user u
+Jun 11 04:17:57 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u
+Jun 11 04:17:57 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 04:17:57 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 04:17:57 symfony [info] {main} Get slot "title"
+Jun 11 04:17:57 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 04:17:57 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 04:17:57 symfony [info] {sfWebDebugLogger} Configuration 4.44 ms (9)
+Jun 11 04:17:57 symfony [info] {sfWebDebugLogger} Action "view/new" 690.55 ms (1)
+Jun 11 04:17:57 symfony [info] {sfWebDebugLogger} View "Success" for "view/new" 1087.23 ms (1)
+Jun 11 04:17:57 symfony [info] {sfWebDebugLogger} Partial "view/_form" 776.12 ms (1)
+Jun 11 04:17:57 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.07 ms (3)
+Jun 11 04:17:58 symfony [info] {sfWebResponse} Send content (103272 o)
+Jun 11 04:18:01 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 04:18:01 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 04:18:01 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 04:18:01 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /view with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 04:18:01 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 04:18:01 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 04:18:01 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 04:18:01 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 04:18:02 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 04:18:02 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u WHERE u.id = ? - (1 )
+Jun 11 04:18:02 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 04:18:02 symfony [info] {main} Set slot "title"
+Jun 11 04:18:02 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 04:18:02 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 04:18:02 symfony [info] {main} Get slot "title"
+Jun 11 04:18:02 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 04:18:02 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 04:18:02 symfony [info] {sfWebDebugLogger} Configuration 4.59 ms (9)
+Jun 11 04:18:02 symfony [info] {sfWebDebugLogger} Action "view/index" 598.13 ms (1)
+Jun 11 04:18:02 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.07 ms (3)
+Jun 11 04:18:02 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 123.27 ms (1)
+Jun 11 04:18:02 symfony [info] {sfWebResponse} Send content (87241 o)
+Jun 11 04:23:56 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 04:23:56 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 04:23:56 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 04:23:56 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /view with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 04:23:56 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 04:23:56 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 04:23:56 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 04:23:56 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 04:23:57 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 04:23:57 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u WHERE u.id = ? - (1 )
+Jun 11 04:23:57 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 04:23:57 symfony [info] {main} Set slot "title"
+Jun 11 04:23:57 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 04:23:57 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 04:23:57 symfony [info] {main} Get slot "title"
+Jun 11 04:23:57 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 04:23:57 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 04:23:57 symfony [info] {sfWebDebugLogger} Configuration 59.05 ms (9)
+Jun 11 04:23:57 symfony [info] {sfWebDebugLogger} Action "view/index" 876.79 ms (1)
+Jun 11 04:23:57 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.04 ms (3)
+Jun 11 04:23:57 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 220.70 ms (1)
+Jun 11 04:23:58 symfony [info] {sfWebResponse} Send content (87343 o)
+Jun 11 04:24:01 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 04:24:01 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 04:24:01 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 04:24:01 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /view/show/id/1 with parameters array (  'id' => '1',  'module' => 'view',  'action' => 'show',)
+Jun 11 04:24:01 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 04:24:01 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 04:24:01 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 04:24:01 symfony [info] {viewActions} Call "viewActions->executeShow()"
+Jun 11 04:24:01 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u WHERE u.id = ? LIMIT 1 - (1 )
+Jun 11 04:24:01 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/showSuccess.php"
+Jun 11 04:24:01 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 04:24:01 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 04:24:01 symfony [info] {main} Get slot "title"
+Jun 11 04:24:01 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 04:24:01 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 04:24:01 symfony [info] {sfWebDebugLogger} Configuration 4.84 ms (9)
+Jun 11 04:24:01 symfony [info] {sfWebDebugLogger} Action "view/show" 243.43 ms (1)
+Jun 11 04:24:01 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.04 ms (2)
+Jun 11 04:24:01 symfony [info] {sfWebDebugLogger} View "Success" for "view/show" 77.71 ms (1)
+Jun 11 04:24:01 symfony [info] {sfWebResponse} Send content (80445 o)
+Jun 11 04:24:45 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 04:24:45 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 04:24:45 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 04:24:45 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /view with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 04:24:45 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 04:24:45 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 04:24:45 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 04:24:45 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 04:24:45 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 04:24:45 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u WHERE u.id = ? - (1 )
+Jun 11 04:24:45 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 04:24:45 symfony [info] {main} Set slot "title"
+Jun 11 04:24:45 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 04:24:45 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 04:24:45 symfony [info] {main} Get slot "title"
+Jun 11 04:24:45 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 04:24:45 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 04:24:45 symfony [info] {sfWebDebugLogger} Configuration 6.08 ms (9)
+Jun 11 04:24:45 symfony [info] {sfWebDebugLogger} Action "view/index" 183.83 ms (1)
+Jun 11 04:24:45 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.06 ms (3)
+Jun 11 04:24:45 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 53.78 ms (1)
+Jun 11 04:24:46 symfony [info] {sfWebResponse} Send content (87335 o)
+Jun 11 04:24:51 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 04:24:51 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 04:24:51 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 04:24:51 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /view/show/id/1 with parameters array (  'id' => '1',  'module' => 'view',  'action' => 'show',)
+Jun 11 04:24:51 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 04:24:51 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 04:24:51 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 04:24:51 symfony [info] {viewActions} Call "viewActions->executeShow()"
+Jun 11 04:24:51 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u WHERE u.id = ? LIMIT 1 - (1 )
+Jun 11 04:24:51 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/showSuccess.php"
+Jun 11 04:24:51 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 04:24:51 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 04:24:51 symfony [info] {main} Get slot "title"
+Jun 11 04:24:51 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 04:24:51 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 04:24:51 symfony [info] {sfWebDebugLogger} Configuration 4.21 ms (9)
+Jun 11 04:24:51 symfony [info] {sfWebDebugLogger} Action "view/show" 161.90 ms (1)
+Jun 11 04:24:51 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.03 ms (2)
+Jun 11 04:24:51 symfony [info] {sfWebDebugLogger} View "Success" for "view/show" 53.50 ms (1)
+Jun 11 04:24:51 symfony [info] {sfWebResponse} Send content (80445 o)
+Jun 11 04:26:17 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 04:26:17 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 04:26:17 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 04:26:17 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /view with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 04:26:17 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 04:26:17 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 04:26:17 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 04:26:17 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 04:26:17 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 04:26:18 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u WHERE u.id = ? - (1 )
+Jun 11 04:26:18 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 04:26:18 symfony [info] {main} Set slot "title"
+Jun 11 04:26:18 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 04:26:18 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 04:26:18 symfony [info] {main} Get slot "title"
+Jun 11 04:26:18 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 04:26:18 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 04:26:18 symfony [info] {sfWebDebugLogger} Configuration 6.52 ms (9)
+Jun 11 04:26:18 symfony [info] {sfWebDebugLogger} Action "view/index" 288.50 ms (1)
+Jun 11 04:26:18 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.04 ms (3)
+Jun 11 04:26:18 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 220.00 ms (1)
+Jun 11 04:26:18 symfony [info] {sfWebResponse} Send content (87382 o)
+Jun 11 04:26:22 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 04:26:22 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 04:26:22 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 04:26:22 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /view/show/id/1 with parameters array (  'id' => '1',  'module' => 'view',  'action' => 'show',)
+Jun 11 04:26:22 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 04:26:22 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 04:26:22 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 04:26:22 symfony [info] {viewActions} Call "viewActions->executeShow()"
+Jun 11 04:26:23 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u WHERE u.id = ? LIMIT 1 - (1 )
+Jun 11 04:26:23 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/showSuccess.php"
+Jun 11 04:26:23 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 04:26:23 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 04:26:23 symfony [info] {main} Get slot "title"
+Jun 11 04:26:23 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 04:26:23 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 04:26:23 symfony [info] {sfWebDebugLogger} Configuration 3.10 ms (9)
+Jun 11 04:26:23 symfony [info] {sfWebDebugLogger} Action "view/show" 168.88 ms (1)
+Jun 11 04:26:23 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.02 ms (2)
+Jun 11 04:26:23 symfony [info] {sfWebDebugLogger} View "Success" for "view/show" 90.69 ms (1)
+Jun 11 04:26:23 symfony [info] {sfWebResponse} Send content (80446 o)
+Jun 11 04:27:06 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 04:27:06 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 04:27:06 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 04:27:06 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /view/show/id/1 with parameters array (  'id' => '1',  'module' => 'view',  'action' => 'show',)
+Jun 11 04:27:06 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 04:27:06 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 04:27:06 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 04:27:06 symfony [info] {viewActions} Call "viewActions->executeShow()"
+Jun 11 04:27:07 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u WHERE u.id = ? LIMIT 1 - (1 )
+Jun 11 04:27:07 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/showSuccess.php"
+Jun 11 04:27:07 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 04:27:07 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 04:27:07 symfony [info] {main} Get slot "title"
+Jun 11 04:27:07 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 04:27:07 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 04:27:07 symfony [info] {sfWebDebugLogger} Configuration 109.80 ms (9)
+Jun 11 04:27:07 symfony [info] {sfWebDebugLogger} Action "view/show" 900.96 ms (1)
+Jun 11 04:27:07 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.03 ms (2)
+Jun 11 04:27:07 symfony [info] {sfWebDebugLogger} View "Success" for "view/show" 427.05 ms (1)
+Jun 11 04:27:08 symfony [info] {sfWebResponse} Send content (80450 o)
+Jun 11 04:27:43 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 04:27:43 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 04:27:43 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 04:27:43 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 04:27:43 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 04:27:43 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 04:27:43 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 04:27:43 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 04:27:44 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 04:27:44 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u WHERE u.id = ? - (1 )
+Jun 11 04:27:44 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 04:27:44 symfony [info] {main} Set slot "title"
+Jun 11 04:27:44 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 04:27:44 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 04:27:44 symfony [info] {main} Get slot "title"
+Jun 11 04:27:44 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 04:27:44 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 04:27:44 symfony [info] {sfWebDebugLogger} Configuration 4.78 ms (9)
+Jun 11 04:27:44 symfony [info] {sfWebDebugLogger} Action "view/index" 528.46 ms (1)
+Jun 11 04:27:44 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.07 ms (3)
+Jun 11 04:27:44 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 105.79 ms (1)
+Jun 11 04:27:44 symfony [info] {sfWebResponse} Send content (87410 o)
+Jun 11 04:27:47 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 04:27:47 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 04:27:47 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 04:27:47 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /view/show/id/1 with parameters array (  'id' => '1',  'module' => 'view',  'action' => 'show',)
+Jun 11 04:27:47 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 04:27:47 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 04:27:47 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 04:27:47 symfony [info] {viewActions} Call "viewActions->executeShow()"
+Jun 11 04:27:48 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u WHERE u.id = ? LIMIT 1 - (1 )
+Jun 11 04:27:48 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/showSuccess.php"
+Jun 11 04:27:48 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 04:27:48 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 04:27:48 symfony [info] {main} Get slot "title"
+Jun 11 04:27:48 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 04:27:48 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 04:27:48 symfony [info] {sfWebDebugLogger} Configuration 8.49 ms (9)
+Jun 11 04:27:48 symfony [info] {sfWebDebugLogger} Action "view/show" 135.05 ms (1)
+Jun 11 04:27:48 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.02 ms (2)
+Jun 11 04:27:48 symfony [info] {sfWebDebugLogger} View "Success" for "view/show" 83.70 ms (1)
+Jun 11 04:27:48 symfony [info] {sfWebResponse} Send content (80442 o)
+Jun 11 04:27:50 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 04:27:50 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 04:27:50 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 04:27:50 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /view/edit/id/1 with parameters array (  'id' => '1',  'module' => 'view',  'action' => 'edit',)
+Jun 11 04:27:50 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 04:27:50 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 04:27:50 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 04:27:50 symfony [info] {viewActions} Call "viewActions->executeEdit()"
+Jun 11 04:27:50 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u WHERE u.id = ? LIMIT 1 - (1 )
+Jun 11 04:27:51 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/editSuccess.php"
+Jun 11 04:27:51 symfony [info] {sfPartialView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/_form.php"
+Jun 11 04:27:51 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.name AS u__name, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_category u
+Jun 11 04:27:51 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.email AS u__email, u.user_name AS u__user_name, u.passwd AS u__passwd, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_user u
+Jun 11 04:27:51 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u
+Jun 11 04:27:51 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 04:27:51 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 04:27:51 symfony [info] {main} Get slot "title"
+Jun 11 04:27:51 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 04:27:51 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 04:27:51 symfony [info] {sfWebDebugLogger} Configuration 5.55 ms (9)
+Jun 11 04:27:51 symfony [info] {sfWebDebugLogger} Action "view/edit" 310.00 ms (1)
+Jun 11 04:27:51 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.04 ms (5)
+Jun 11 04:27:51 symfony [info] {sfWebDebugLogger} View "Success" for "view/edit" 600.00 ms (1)
+Jun 11 04:27:51 symfony [info] {sfWebDebugLogger} Partial "view/_form" 470.60 ms (1)
+Jun 11 04:27:52 symfony [info] {sfWebResponse} Send content (105289 o)
+Jun 11 04:27:55 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 04:27:55 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 04:27:55 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 04:27:55 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 04:27:55 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 04:27:55 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 04:27:55 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 04:27:55 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 04:27:55 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 04:27:55 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u WHERE u.id = ? - (1 )
+Jun 11 04:27:55 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 04:27:55 symfony [info] {main} Set slot "title"
+Jun 11 04:27:55 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 04:27:55 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 04:27:55 symfony [info] {main} Get slot "title"
+Jun 11 04:27:55 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 04:27:55 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 04:27:55 symfony [info] {sfWebDebugLogger} Configuration 6.60 ms (9)
+Jun 11 04:27:55 symfony [info] {sfWebDebugLogger} Action "view/index" 103.98 ms (1)
+Jun 11 04:27:55 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.02 ms (3)
+Jun 11 04:27:55 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 44.00 ms (1)
+Jun 11 04:27:55 symfony [info] {sfWebResponse} Send content (87408 o)
+Jun 11 04:45:18 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 04:45:18 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 04:45:18 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 04:45:18 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'view',  'action' => 'index',)
+Jun 11 04:45:19 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 04:45:19 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 04:45:19 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 04:45:19 symfony [info] {viewActions} Call "viewActions->executeIndex()"
+Jun 11 04:45:20 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u
+Jun 11 04:45:20 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u WHERE u.id = ? - (1 )
+Jun 11 04:45:20 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/indexSuccess.php"
+Jun 11 04:45:20 symfony [info] {main} Set slot "title"
+Jun 11 04:45:20 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 04:45:20 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 04:45:20 symfony [info] {main} Get slot "title"
+Jun 11 04:45:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 04:45:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 04:45:20 symfony [info] {sfWebDebugLogger} Configuration 28.86 ms (9)
+Jun 11 04:45:20 symfony [info] {sfWebDebugLogger} Action "view/index" 1018.26 ms (1)
+Jun 11 04:45:20 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.10 ms (3)
+Jun 11 04:45:20 symfony [info] {sfWebDebugLogger} View "Success" for "view/index" 209.96 ms (1)
+Jun 11 04:45:20 symfony [info] {sfWebResponse} Send content (86438 o)
+Jun 11 05:01:32 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 05:01:32 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 05:01:32 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 05:01:32 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /view/show/id/1 with parameters array (  'id' => '1',  'module' => 'view',  'action' => 'show',)
+Jun 11 05:01:32 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 05:01:32 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 05:01:32 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 05:01:32 symfony [info] {viewActions} Call "viewActions->executeShow()"
+Jun 11 05:01:33 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u WHERE u.id = ? LIMIT 1 - (1 )
+Jun 11 05:01:33 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/showSuccess.php"
+Jun 11 05:01:33 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 05:01:33 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 05:01:33 symfony [info] {main} Get slot "title"
+Jun 11 05:01:33 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 05:01:33 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 05:01:33 symfony [info] {sfWebDebugLogger} Configuration 6.53 ms (9)
+Jun 11 05:01:33 symfony [info] {sfWebDebugLogger} Action "view/show" 770.53 ms (1)
+Jun 11 05:01:33 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.04 ms (2)
+Jun 11 05:01:33 symfony [info] {sfWebDebugLogger} View "Success" for "view/show" 281.64 ms (1)
+Jun 11 05:01:33 symfony [info] {sfWebResponse} Send content (80444 o)
+Jun 11 05:01:37 symfony [info] {sfPatternRouting} Connect sfRoute "homepage" (/)
+Jun 11 05:01:37 symfony [info] {sfPatternRouting} Connect sfRoute "default_index" (/:module)
+Jun 11 05:01:37 symfony [info] {sfPatternRouting} Connect sfRoute "default" (/:module/:action/*)
+Jun 11 05:01:37 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /view/edit/id/1 with parameters array (  'id' => '1',  'module' => 'view',  'action' => 'edit',)
+Jun 11 05:01:37 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 11 05:01:37 symfony [info] {sfFilterChain} Executing filter "sfCommonFilter"
+Jun 11 05:01:37 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 11 05:01:37 symfony [info] {viewActions} Call "viewActions->executeEdit()"
+Jun 11 05:01:38 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.category_id AS u__category_id, u.user_id AS u__user_id, u.blog_id AS u__blog_id, u.title AS u__title, u.article AS u__article, u.is_active AS u__is_active, u.expires_at AS u__expires_at, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_field u WHERE u.id = ? LIMIT 1 - (1 )
+Jun 11 05:01:38 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/editSuccess.php"
+Jun 11 05:01:38 symfony [info] {sfPartialView} Render "/home/urabe/www/urablog/apps/frontend/modules/view/templates/_form.php"
+Jun 11 05:01:38 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.name AS u__name, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_category u
+Jun 11 05:01:38 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.email AS u__email, u.user_name AS u__user_name, u.passwd AS u__passwd, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_user u
+Jun 11 05:01:38 symfony [info] {sfDoctrineLogger} executeQuery : SELECT u.id AS u__id, u.user_id AS u__user_id, u.title AS u__title, u.discri AS u__discri, u.is_active AS u__is_active, u.created_at AS u__created_at, u.updated_at AS u__updated_at FROM urablog_blog_box u
+Jun 11 05:01:39 symfony [info] {sfPHPView} Decorate content with "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 05:01:39 symfony [info] {sfPHPView} Render "/home/urabe/www/urablog/apps/frontend/templates/layout.php"
+Jun 11 05:01:39 symfony [info] {main} Get slot "title"
+Jun 11 05:01:39 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 11 05:01:39 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 11 05:01:39 symfony [info] {sfWebDebugLogger} Configuration 4.50 ms (9)
+Jun 11 05:01:39 symfony [info] {sfWebDebugLogger} Action "view/edit" 461.06 ms (1)
+Jun 11 05:01:39 symfony [info] {sfWebDebugLogger} Database (Doctrine) 0.08 ms (5)
+Jun 11 05:01:39 symfony [info] {sfWebDebugLogger} View "Success" for "view/edit" 653.50 ms (1)
+Jun 11 05:01:39 symfony [info] {sfWebDebugLogger} Partial "view/_form" 563.21 ms (1)
+Jun 11 05:01:39 symfony [info] {sfWebResponse} Send content (105289 o)

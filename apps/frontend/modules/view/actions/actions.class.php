@@ -15,6 +15,10 @@ class viewActions extends sfActions
     $this->urablog_field_list = Doctrine::getTable('UrablogField')
       ->createQuery('a')
       ->execute();
+    $this->blog = Doctrine::getTable('UrablogBlogBox')
+      ->createQuery()
+      ->where('id = ?', 1)
+      ->execute();
   }
 
   public function executeShow(sfWebRequest $request)

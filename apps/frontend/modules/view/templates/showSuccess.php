@@ -13,6 +13,10 @@
       <td><?php echo $urablog_field->getuser_id() ?></td>
     </tr>
     <tr>
+      <th>Blog:</th>
+      <td><?php echo $urablog_field->getblog_id() ?></td>
+    </tr>
+    <tr>
       <th>Title:</th>
       <td><?php echo $urablog_field->gettitle() ?></td>
     </tr>
